@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="11" passed="11" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2026-06-09T18:38:35 IST" name="Suite" finished-at="2026-06-09T18:38:51 IST" duration-ms="16007">
+    <groups>
+    </groups>
+    <test started-at="2026-06-09T18:38:35 IST" name="Test" finished-at="2026-06-09T18:38:51 IST" duration-ms="16007">
+      <class name="com.test.HomePageTest">
+        <test-method is-config="true" signature="setupPage()[pri:0, instance:com.test.HomePageTest@8576fa0]" started-at="2026-06-09T18:38:37 IST" name="setupPage" finished-at="2026-06-09T18:38:37 IST" duration-ms="5" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setupPage -->
+        <test-method signature="LoginPageRedirection()[pri:1, instance:com.test.HomePageTest@8576fa0]" started-at="2026-06-09T18:38:37 IST" name="LoginPageRedirection" finished-at="2026-06-09T18:38:37 IST" duration-ms="6" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LoginPageRedirection -->
+        <test-method is-config="true" signature="setupPage()[pri:0, instance:com.test.HomePageTest@8576fa0]" started-at="2026-06-09T18:38:37 IST" name="setupPage" finished-at="2026-06-09T18:38:37 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setupPage -->
+        <test-method signature="DashboardTextVisibleOrNot()[pri:2, instance:com.test.HomePageTest@8576fa0]" started-at="2026-06-09T18:38:37 IST" name="DashboardTextVisibleOrNot" finished-at="2026-06-09T18:38:37 IST" duration-ms="315" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- DashboardTextVisibleOrNot -->
+        <test-method is-config="true" signature="setupPage()[pri:0, instance:com.test.HomePageTest@8576fa0]" started-at="2026-06-09T18:38:37 IST" name="setupPage" finished-at="2026-06-09T18:38:37 IST" duration-ms="5" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setupPage -->
+        <test-method signature="HelplinkVisibilityStatus()[pri:3, instance:com.test.HomePageTest@8576fa0]" started-at="2026-06-09T18:38:37 IST" name="HelplinkVisibilityStatus" finished-at="2026-06-09T18:38:38 IST" duration-ms="13" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- HelplinkVisibilityStatus -->
+        <test-method is-config="true" signature="setupPage()[pri:0, instance:com.test.HomePageTest@8576fa0]" started-at="2026-06-09T18:38:38 IST" name="setupPage" finished-at="2026-06-09T18:38:38 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setupPage -->
+        <test-method signature="UpgradeButtonStatus()[pri:4, instance:com.test.HomePageTest@8576fa0]" started-at="2026-06-09T18:38:38 IST" name="UpgradeButtonStatus" finished-at="2026-06-09T18:38:38 IST" duration-ms="11" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- UpgradeButtonStatus -->
+        <test-method is-config="true" signature="setupPage()[pri:0, instance:com.test.HomePageTest@8576fa0]" started-at="2026-06-09T18:38:38 IST" name="setupPage" finished-at="2026-06-09T18:38:38 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setupPage -->
+        <test-method signature="ProfileVisibilityStatus()[pri:5, instance:com.test.HomePageTest@8576fa0]" started-at="2026-06-09T18:38:38 IST" name="ProfileVisibilityStatus" finished-at="2026-06-09T18:38:38 IST" duration-ms="12" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ProfileVisibilityStatus -->
+        <test-method is-config="true" signature="setupPage()[pri:0, instance:com.test.HomePageTest@8576fa0]" started-at="2026-06-09T18:38:38 IST" name="setupPage" finished-at="2026-06-09T18:38:38 IST" duration-ms="4" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setupPage -->
+        <test-method signature="MenuButtonVisibilityStatus()[pri:6, instance:com.test.HomePageTest@8576fa0]" started-at="2026-06-09T18:38:38 IST" name="MenuButtonVisibilityStatus" finished-at="2026-06-09T18:38:38 IST" duration-ms="15" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- MenuButtonVisibilityStatus -->
+        <test-method is-config="true" signature="setupPage()[pri:0, instance:com.test.HomePageTest@8576fa0]" started-at="2026-06-09T18:38:38 IST" name="setupPage" finished-at="2026-06-09T18:38:38 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setupPage -->
+        <test-method signature="HideTheMenu()[pri:7, instance:com.test.HomePageTest@8576fa0]" started-at="2026-06-09T18:38:38 IST" name="HideTheMenu" finished-at="2026-06-09T18:38:38 IST" duration-ms="31" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- HideTheMenu -->
+        <test-method is-config="true" signature="setupPage()[pri:0, instance:com.test.HomePageTest@8576fa0]" started-at="2026-06-09T18:38:38 IST" name="setupPage" finished-at="2026-06-09T18:38:38 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setupPage -->
+        <test-method signature="ShowMenu()[pri:8, instance:com.test.HomePageTest@8576fa0]" started-at="2026-06-09T18:38:38 IST" name="ShowMenu" finished-at="2026-06-09T18:38:38 IST" duration-ms="31" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ShowMenu -->
+      </class> <!-- com.test.HomePageTest -->
+      <class name="com.test.AdminPageTest">
+        <test-method is-config="true" signature="setupPage()[pri:0, instance:com.test.AdminPageTest@7582ff54]" started-at="2026-06-09T18:38:38 IST" name="setupPage" finished-at="2026-06-09T18:38:38 IST" duration-ms="5" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setupPage -->
+        <test-method signature="addUserFlow()[pri:9, instance:com.test.AdminPageTest@7582ff54]" started-at="2026-06-09T18:38:38 IST" name="addUserFlow" finished-at="2026-06-09T18:38:43 IST" duration-ms="5748" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addUserFlow -->
+      </class> <!-- com.test.AdminPageTest -->
+      <class name="com.test.PIMPageTest">
+        <test-method is-config="true" signature="setupPage()[pri:0, instance:com.test.PIMPageTest@67545b57]" started-at="2026-06-09T18:38:43 IST" name="setupPage" finished-at="2026-06-09T18:38:43 IST" duration-ms="4" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setupPage -->
+        <test-method signature="SearchEmployee()[pri:10, instance:com.test.PIMPageTest@67545b57]" started-at="2026-06-09T18:38:43 IST" name="SearchEmployee" finished-at="2026-06-09T18:38:51 IST" duration-ms="7845" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SearchEmployee -->
+      </class> <!-- com.test.PIMPageTest -->
+      <class name="com.test.LoginTest">
+        <test-method is-config="true" signature="setUP()[pri:0, instance:com.test.LoginTest@78d6692f]" started-at="2026-06-09T18:38:29 IST" name="setUP" finished-at="2026-06-09T18:38:35 IST" duration-ms="6198" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUP -->
+        <test-method signature="loginWithValidUsernameAndValidPassowrd()[pri:0, instance:com.test.LoginTest@78d6692f]" started-at="2026-06-09T18:38:35 IST" name="loginWithValidUsernameAndValidPassowrd" finished-at="2026-06-09T18:38:37 IST" duration-ms="1833" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginWithValidUsernameAndValidPassowrd -->
+      </class> <!-- com.test.LoginTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>

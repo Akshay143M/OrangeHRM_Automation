@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Suite" preserve-order="true">
+<listeners>
+<listener class-name="com.reports.ExtentReportListener"></listener>
+</listeners>
+  <test thread-count="5" name="Test">
+    <classes>
+      <class name="com.test.LoginTest"/>
+      <class name="com.test.HomePageTest"></class>
+      <class name="com.test.AdminPageTest"></class>
+      <class name="com.test.PIMPageTest"></class>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->
