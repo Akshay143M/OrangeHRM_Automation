@@ -10,7 +10,7 @@ import com.reports.ExtentFactory;
 
 public class AlertActions {
 
-	private Logger logger = LogManager.getLogger(ActionAlerts.class);
+	private Logger logger = LogManager.getLogger(AlertActions.class);
 
 	private Alert alert;
 

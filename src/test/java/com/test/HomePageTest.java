@@ -1,5 +1,7 @@
 package com.test;
 
+import org.apache.logging.log4j.LogManager;
+import org.apache.logging.log4j.Logger;
 import org.testng.annotations.BeforeMethod;
 import org.testng.annotations.Test;
 
@@ -10,12 +12,14 @@ import com.waits.ImplicitWaitActions;
 public class HomePageTest extends BaseTest{
 	private HomePage homepage;
 	private ImplicitWaitActions implicitWait;
+	private Logger logger;
 
 	@BeforeMethod
 	public void setupPage() {
 		homepage = new HomePage();
 		implicitWait = new ImplicitWaitActions();
 		implicitWait.setImplicitWait();
+		logger = LogManager.getLogger(HomePageTest.class);
 	}
 	@Test(priority = 1)
 	public void LoginPageRedirection() {

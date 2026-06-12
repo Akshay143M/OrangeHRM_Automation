@@ -17,9 +17,9 @@ public class BaseTest {
 		DriverFactory.getInstance().setDriver(driver);
 		DriverFactory.getInstance().getDriver().get(TestDataLoader.getInstance().getAppUrl());
 	}
-//	@AfterSuite
-//	public void tearDown() {
-//		DriverFactory.getInstance().getDriver().quit();
-//	}
+	@AfterSuite
+	public void tearDown() {
+		DriverFactory.getInstance().getDriver().quit();
+	}
 
 }
