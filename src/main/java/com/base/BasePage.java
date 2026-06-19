@@ -27,7 +27,7 @@ public class BasePage {
 		explicitwaitActions.waitForElementToBeClickable(element, elementName);
 		element.click();
 		ExtentFactory.getInstance();
-		ExtentFactory.passTest(elementName+ " is clicked");
+		ExtentFactory.passTest(elementName + " is clicked");
 	}
 
 	public void sendKeys(WebElement element, String elementName, String Value) {
@@ -35,7 +35,17 @@ public class BasePage {
 		element.clear();
 		element.sendKeys(Value);
 		ExtentFactory.getInstance();
-		ExtentFactory.passTest(Value+ " is entered in " +elementName);
+		ExtentFactory.passTest(Value + " is entered in " + elementName);
+	}
+
+	public void uploadFile(WebElement element, String elementName, String filePath) {
+
+		explicitwaitActions.waitForElementToBePresent(element, elementName);
+
+		element.sendKeys(filePath);
+
+		ExtentFactory.getInstance();
+		ExtentFactory.passTest("File uploaded in " + elementName);
 	}
 
 	public void sendKeys(WebElement element, String elementName, int value) {
@@ -43,7 +53,7 @@ public class BasePage {
 		element.clear();
 		element.sendKeys(String.valueOf(value));
 		ExtentFactory.getInstance();
-		ExtentFactory.passTest(value+ " is entered in " +elementName);
+		ExtentFactory.passTest(value + " is entered in " + elementName);
 	}
 
 	public boolean isElementSelected(WebElement element, String elementName) {
@@ -52,18 +62,12 @@ public class BasePage {
 	}
 
 	public void selectCheckBox(WebElement element, String elementName) {
-		if(!this.isElementSelected(element, elementName)) {
+		if (!this.isElementSelected(element, elementName)) {
 			this.click(element, elementName);
-		}
-		else {
+		} else {
 			ExtentFactory.getInstance();
-			ExtentFactory.failTest(elementName+ " is already selected");
+			ExtentFactory.failTest(elementName + " is already selected");
 		}
 	}
-
-
-
-
-
 
 }

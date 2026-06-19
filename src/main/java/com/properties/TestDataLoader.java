@@ -129,6 +129,29 @@ public class TestDataLoader {
 	public String setPIMSubUnit() {
 		return this.getPropertyValue("PIM_SubUnit");
 	}
+	
+	
+//	PIM data (Add employee)
+	
+	public String setPIMfirstName() {
+		return this.getPropertyValue("PIM_firstName");
+	}
+	
+	public String setPIMmiddleName() {
+		return this.getPropertyValue("PIM_middleName");
+	}
+	
+	public String setPIMlastName() {
+		return this.getPropertyValue("PIM_lastName");
+	}
+	
+	public String setPIMempID() {
+		return this.getPropertyValue("PIM_empID");
+	}
+	
+	public String setPIMfilepath() {
+		return this.getPropertyValue("PIM_filePath");
+	}
 
 
 

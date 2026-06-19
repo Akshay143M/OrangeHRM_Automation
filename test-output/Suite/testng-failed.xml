@@ -8,9 +8,10 @@
     <classes>
       <class name="com.test.PIMPageTest">
         <methods>
+          <include name="AddEmployee"/>
+          <include name="tearDown"/>
           <include name="setupPage"/>
           <include name="setUP"/>
-          <include name="SearchEmployee"/>
         </methods>
       </class> <!-- com.test.PIMPageTest -->
     </classes>

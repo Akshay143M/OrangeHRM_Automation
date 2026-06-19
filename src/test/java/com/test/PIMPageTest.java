@@ -8,12 +8,14 @@ import org.testng.annotations.Test;
 import com.base.BaseTest;
 import com.pages.PIMPage;
 import com.properties.TestDataLoader;
+import com.waits.ExplicitWaitActions;
 import com.waits.ImplicitWaitActions;
 
-public class PIMPageTest extends BaseTest{
+public class PIMPageTest extends BaseTest {
 
 	private PIMPage PIMpage;
 	private ImplicitWaitActions implicitwaitactions;
+	private ExplicitWaitActions explicitwaitActions;
 	private Logger logger;
 
 	@BeforeMethod
@@ -40,5 +42,22 @@ public class PIMPageTest extends BaseTest{
 		logger.info("========== END TEST : Search Employee ==========");
 	}
 
+	@Test(priority = 11)
+	public void AddEmployee() {
+
+		logger.info("========== START TEST : Add Employee ==========");
+
+		PIMpage.addEmployee();
+
+		PIMpage.enterFirstName(TestDataLoader.getInstance().setPIMfirstName());
+		PIMpage.enterMiddleName(TestDataLoader.getInstance().setPIMmiddleName());
+		PIMpage.enterLastName(TestDataLoader.getInstance().setPIMlastName());
+
+		explicitwaitActions.waitForElementToBePresent(PIMpage.getUploadEmployeeImage(), "Upload Profile Image");
+
+		PIMpage.uploadProfileImage(TestDataLoader.getInstance().setPIMfilepath());
+
+		logger.info("========== END TEST : Add Employee ==========");
+	}
 
 }

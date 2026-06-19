@@ -6003,3 +6003,2767 @@ juan perez
 09-06-2026 18:38:51 [main] INFO  com.waits.ExplicitWaitActions - No Records Found Message is available on the screen
 09-06-2026 18:38:51 [main] INFO  com.pages.PIMPage - 'No Records Found' message is displayed
 09-06-2026 18:38:51 [main] INFO  com.test.PIMPageTest - ========== END TEST : Search Employee ==========
+10-06-2026 22:47:07 [main] INFO  com.reports.ExtentReportListener - test is added in pool.
+10-06-2026 22:47:07 [main] INFO  com.waits.ExplicitWaitActions - username textbox is available on the screen
+10-06-2026 22:47:08 [main] INFO  com.waits.ExplicitWaitActions - password textbox is available on the screen
+10-06-2026 22:47:08 [main] INFO  com.waits.ExplicitWaitActions - Login button is clickable
+10-06-2026 22:47:09 [main] INFO  com.waits.ImplicitWaitActions - Implicit wait is set to 20
+10-06-2026 22:47:09 [main] INFO  com.reports.ExtentReportListener - test is added in pool.
+10-06-2026 22:47:09 [main] INFO  com.pages.HomePage - Current_url is same as expected and the value is: https://opensource-demo.orangehrmlive.com/web/index.php/dashboard/index
+10-06-2026 22:47:09 [main] INFO  com.waits.ImplicitWaitActions - Implicit wait is set to 20
+10-06-2026 22:47:09 [main] INFO  com.reports.ExtentReportListener - test is added in pool.
+10-06-2026 22:47:09 [main] INFO  com.pages.HomePage - Dashboard text is visible
+10-06-2026 22:47:09 [main] INFO  com.waits.ImplicitWaitActions - Implicit wait is set to 20
+10-06-2026 22:47:09 [main] INFO  com.reports.ExtentReportListener - test is added in pool.
+10-06-2026 22:47:09 [main] INFO  com.pages.HomePage - Help Link is visible on the homepage
+10-06-2026 22:47:09 [main] INFO  com.waits.ImplicitWaitActions - Implicit wait is set to 20
+10-06-2026 22:47:09 [main] INFO  com.reports.ExtentReportListener - test is added in pool.
+10-06-2026 22:47:09 [main] INFO  com.pages.HomePage - Upgrade button is visible on the homepage
+10-06-2026 22:47:09 [main] INFO  com.waits.ImplicitWaitActions - Implicit wait is set to 20
+10-06-2026 22:47:09 [main] INFO  com.reports.ExtentReportListener - test is added in pool.
+10-06-2026 22:47:09 [main] INFO  com.pages.HomePage - Profile link is enabled
+10-06-2026 22:47:09 [main] INFO  com.waits.ImplicitWaitActions - Implicit wait is set to 20
+10-06-2026 22:47:09 [main] INFO  com.reports.ExtentReportListener - test is added in pool.
+10-06-2026 22:47:09 [main] INFO  com.pages.HomePage - Scenario: Verify Menu Button is enabled on Home Page
+10-06-2026 22:47:09 [main] INFO  com.pages.HomePage - Given User is logged into the OrangeHRM application
+10-06-2026 22:47:09 [main] INFO  com.pages.HomePage - When User navigates to the Home Page
+10-06-2026 22:47:09 [main] INFO  com.pages.HomePage - Then Menu button is enabled
+10-06-2026 22:47:09 [main] INFO  com.pages.HomePage - And User is able to interact with the Menu button
+10-06-2026 22:47:09 [main] INFO  com.waits.ImplicitWaitActions - Implicit wait is set to 20
+10-06-2026 22:47:09 [main] INFO  com.reports.ExtentReportListener - test is added in pool.
+10-06-2026 22:47:09 [main] INFO  com.pages.HomePage - Menu is hidden
+10-06-2026 22:47:09 [main] INFO  com.waits.ImplicitWaitActions - Implicit wait is set to 20
+10-06-2026 22:47:09 [main] INFO  com.reports.ExtentReportListener - test is added in pool.
+10-06-2026 22:47:09 [main] INFO  com.pages.HomePage - Menu is visible
+10-06-2026 22:47:09 [main] INFO  com.waits.ImplicitWaitActions - Implicit wait is set to 20
+10-06-2026 22:47:09 [main] INFO  com.reports.ExtentReportListener - test is added in pool.
+10-06-2026 22:47:09 [main] INFO  com.pages.AdminPage - Scenario: Verify Admin link is clickable or not
+10-06-2026 22:47:09 [main] INFO  com.waits.ExplicitWaitActions - Admin link is clickable
+10-06-2026 22:47:10 [main] INFO  com.pages.AdminPage - User clicked on Admin
+10-06-2026 22:47:10 [main] INFO  com.pages.AdminPage - And redirected to the Add user form
+10-06-2026 22:47:10 [main] INFO  com.pages.AdminPage - Scenario: Verify if the user is able to click on Add button
+10-06-2026 22:47:11 [main] INFO  com.waits.ExplicitWaitActions - Add Button is clickable
+10-06-2026 22:47:11 [main] INFO  com.pages.AdminPage - Then- User has clicked on Add button
+10-06-2026 22:47:11 [main] INFO  com.pages.AdminPage - And redirected to the add user form
+10-06-2026 22:47:11 [main] INFO  com.pages.AdminPage - Scenario: Verify if the user is able to select the user role
+10-06-2026 22:47:11 [main] INFO  com.waits.ExplicitWaitActions - Select user role is clickable
+10-06-2026 22:47:11 [main] INFO  com.waits.ExplicitWaitActions - Adminoption is clickable
+10-06-2026 22:47:12 [main] INFO  com.pages.AdminPage - User has selected the Admin
+10-06-2026 22:47:12 [main] INFO  com.waits.ExplicitWaitActions - Employee Name is available on the screen
+10-06-2026 22:47:13 [main] INFO  com.waits.ExplicitWaitActions - First Employee Suggestion is available on the screen
+10-06-2026 22:47:13 [main] INFO  com.waits.ExplicitWaitActions - First Employee Suggestion is clickable
+10-06-2026 22:47:13 [main] INFO  com.pages.AdminPage - Scenario: Verify if the user is able to select the status
+10-06-2026 22:47:13 [main] INFO  com.waits.ExplicitWaitActions - Select status is clickable
+10-06-2026 22:47:13 [main] INFO  com.waits.ExplicitWaitActions - Enabledoption is clickable
+10-06-2026 22:47:13 [main] INFO  com.pages.AdminPage - User has selected the Enabled
+10-06-2026 22:47:13 [main] INFO  com.pages.AdminPage - Scenario: Verify if the user is able to enter the username
+10-06-2026 22:47:13 [main] INFO  com.waits.ExplicitWaitActions - User Name is available on the screen
+10-06-2026 22:47:13 [main] INFO  com.pages.AdminPage - Username entered successfully: Akshay
+10-06-2026 22:47:13 [main] INFO  com.pages.AdminPage - Scenario: Verify if the user is able to enter the password
+10-06-2026 22:47:13 [main] INFO  com.waits.ExplicitWaitActions - Password is clickable
+10-06-2026 22:47:13 [main] INFO  com.waits.ExplicitWaitActions - Password is available on the screen
+10-06-2026 22:47:13 [main] INFO  com.pages.AdminPage - Password value is entered
+10-06-2026 22:47:13 [main] INFO  com.pages.AdminPage - Scenario: Verify if the user is able to re-enter the password
+10-06-2026 22:47:13 [main] INFO  com.waits.ExplicitWaitActions - Confirm Password is clickable
+10-06-2026 22:47:13 [main] INFO  com.waits.ExplicitWaitActions - Confirm Password is available on the screen
+10-06-2026 22:47:13 [main] INFO  com.pages.AdminPage - Password is confirmed
+10-06-2026 22:47:13 [main] INFO  com.pages.AdminPage - Scenario: Verify if the user is able to click the save button
+10-06-2026 22:47:13 [main] INFO  com.waits.ExplicitWaitActions - Save Button is clickable
+10-06-2026 22:47:14 [main] INFO  com.waits.ImplicitWaitActions - Implicit wait is set to 20
+10-06-2026 22:47:14 [main] INFO  com.reports.ExtentReportListener - test is added in pool.
+10-06-2026 22:47:14 [main] INFO  com.test.PIMPageTest - ========== START TEST : Search Employee ==========
+10-06-2026 22:47:14 [main] INFO  com.waits.ExplicitWaitActions - PIM menu is clickable
+10-06-2026 22:47:14 [main] INFO  com.pages.PIMPage - Step: Enter Employee Name - Madhaksh
+10-06-2026 22:47:15 [main] INFO  com.waits.ExplicitWaitActions - Employee Name is available on the screen
+10-06-2026 22:47:15 [main] INFO  com.waits.ExplicitWaitActions - First Employee Suggestion is available on the screen
+10-06-2026 22:47:15 [main] INFO  com.waits.ExplicitWaitActions - First Employee Suggestion is clickable
+10-06-2026 22:47:15 [main] INFO  com.pages.PIMPage - Employee name selected successfully
+10-06-2026 22:47:15 [main] INFO  com.pages.PIMPage - Step: Enter Employee ID - 20
+10-06-2026 22:47:15 [main] INFO  com.waits.ExplicitWaitActions - Employee ID is available on the screen
+10-06-2026 22:47:15 [main] INFO  com.pages.PIMPage - Employee ID entered successfully
+10-06-2026 22:47:15 [main] INFO  com.pages.PIMPage - Step: Select Employee Status - Freelance
+10-06-2026 22:47:15 [main] INFO  com.waits.ExplicitWaitActions - Employment Status is clickable
+10-06-2026 22:47:16 [main] INFO  com.pages.PIMPage - Available Status: Freelance
+10-06-2026 22:47:16 [main] INFO  com.waits.ExplicitWaitActions - Freelance is clickable
+10-06-2026 22:47:16 [main] INFO  com.pages.PIMPage - Employee Status selected successfully
+10-06-2026 22:47:16 [main] INFO  com.pages.PIMPage - Step: Select Include Option - Current and Past Employees
+10-06-2026 22:47:16 [main] INFO  com.waits.ExplicitWaitActions - Include Dropdown is clickable
+10-06-2026 22:47:16 [main] INFO  com.pages.PIMPage - Available Option: Current Employees Only
+10-06-2026 22:47:16 [main] INFO  com.pages.PIMPage - Available Option: Current and Past Employees
+10-06-2026 22:47:16 [main] INFO  com.waits.ExplicitWaitActions - Current and Past Employees is clickable
+10-06-2026 22:47:16 [main] INFO  com.pages.PIMPage - Include option selected successfully
+10-06-2026 22:47:16 [main] INFO  com.pages.PIMPage - Step: Enter Supervisor Name - m
+10-06-2026 22:47:16 [main] INFO  com.waits.ExplicitWaitActions - Supervisor Name is available on the screen
+10-06-2026 22:47:17 [main] INFO  com.waits.ExplicitWaitActions - First Supervisor Suggestion is available on the screen
+10-06-2026 22:47:17 [main] INFO  com.waits.ExplicitWaitActions - First Supervisor Suggestion is clickable
+10-06-2026 22:47:17 [main] INFO  com.pages.PIMPage - Supervisor selected successfully
+10-06-2026 22:47:17 [main] INFO  com.pages.PIMPage - Step: Select First Job Title
+10-06-2026 22:47:17 [main] INFO  com.waits.ExplicitWaitActions - Job Title is clickable
+10-06-2026 22:47:17 [main] INFO  com.waits.ExplicitWaitActions - -- Select --
+Account Assistant
+Automaton Tester
+Chief Executive Officer
+Chief Financial Officer
+Chief Technical Officer
+Content Specialist
+Customer Success Manager
+Database Administrator
+Finance Manager
+Financial Analyst
+Head of Support
+HR Associate
+HR Manager
+IT Manager
+Network Administrator
+Payroll Administrator
+Pre-Sales Coordinator
+probe_title_1781108049669
+probe_title_1781108052393
+probe_title_1781108054621
+probe_title_1781108055031
+probe_title_1781108056999
+probe_title_1781108057568
+QA Engineer
+QA Lead
+qwer
+rsjsrii
+Sales Representative
+Social Media Marketer
+Software Architect
+Software Engineer
+Support Specialist
+VP - Client Services
+VP - Sales & Marketing is clickable
+10-06-2026 22:47:17 [main] INFO  com.pages.PIMPage - Job Title selected successfully: -- Select --
+Account Assistant
+Automaton Tester
+Chief Executive Officer
+Chief Financial Officer
+Chief Technical Officer
+Content Specialist
+Customer Success Manager
+Database Administrator
+Finance Manager
+Financial Analyst
+Head of Support
+HR Associate
+HR Manager
+IT Manager
+Network Administrator
+Payroll Administrator
+Pre-Sales Coordinator
+probe_title_1781108049669
+probe_title_1781108052393
+probe_title_1781108054621
+probe_title_1781108055031
+probe_title_1781108056999
+probe_title_1781108057568
+QA Engineer
+QA Lead
+qwer
+rsjsrii
+Sales Representative
+Social Media Marketer
+Software Architect
+Software Engineer
+Support Specialist
+VP - Client Services
+VP - Sales & Marketing
+10-06-2026 22:47:17 [main] INFO  com.pages.PIMPage - Step: Select First Sub Unit
+10-06-2026 22:47:17 [main] INFO  com.waits.ExplicitWaitActions - Sub Unit is clickable
+10-06-2026 22:47:17 [main] INFO  com.waits.ExplicitWaitActions - -- Select --
+probe_organization_${ts}
+Administration
+Engineering
+Development
+Quality Assurance
+TechOps
+Sales & Marketing
+Sales
+Marketing
+Client Services
+Technical Support
+Finance
+Human Resources
+hola
+juan perez is clickable
+10-06-2026 22:47:17 [main] INFO  com.pages.PIMPage - Sub Unit selected successfully: -- Select --
+probe_organization_${ts}
+Administration
+Engineering
+Development
+Quality Assurance
+TechOps
+Sales & Marketing
+Sales
+Marketing
+Client Services
+Technical Support
+Finance
+Human Resources
+hola
+juan perez
+10-06-2026 22:47:17 [main] INFO  com.pages.PIMPage - Step: Click Search Button
+10-06-2026 22:47:17 [main] INFO  com.waits.ExplicitWaitActions - Search Button is clickable
+10-06-2026 22:47:17 [main] INFO  com.pages.PIMPage - Search button clicked successfully
+10-06-2026 22:47:18 [main] INFO  com.waits.ExplicitWaitActions - No Records Found Message is available on the screen
+10-06-2026 22:47:18 [main] INFO  com.pages.PIMPage - 'No Records Found' message is displayed
+10-06-2026 22:47:18 [main] INFO  com.test.PIMPageTest - ========== END TEST : Search Employee ==========
+11-06-2026 12:19:49 [main] INFO  com.reports.ExtentReportListener - test is added in pool.
+11-06-2026 12:19:49 [main] INFO  com.test.LoginTest - ========== START TEST : Login OrangeHRM ==========
+11-06-2026 12:19:53 [main] INFO  com.waits.ExplicitWaitActions - username textbox is available on the screen
+11-06-2026 12:19:53 [main] INFO  com.waits.ExplicitWaitActions - password textbox is available on the screen
+11-06-2026 12:19:54 [main] INFO  com.waits.ExplicitWaitActions - Login button is clickable
+11-06-2026 12:20:11 [main] INFO  com.test.LoginTest - ========== END TEST : Login OrangeHRM ==========
+11-06-2026 12:20:11 [main] INFO  com.waits.ImplicitWaitActions - Implicit wait is set to 20
+11-06-2026 12:20:11 [main] INFO  com.reports.ExtentReportListener - test is added in pool.
+11-06-2026 12:20:11 [main] INFO  com.pages.HomePage - Current_url is same as expected and the value is: https://opensource-demo.orangehrmlive.com/web/index.php/dashboard/index
+11-06-2026 12:20:11 [main] INFO  com.waits.ImplicitWaitActions - Implicit wait is set to 20
+11-06-2026 12:20:11 [main] INFO  com.reports.ExtentReportListener - test is added in pool.
+11-06-2026 12:20:16 [main] INFO  com.pages.HomePage - Dashboard text is visible
+11-06-2026 12:20:16 [main] INFO  com.waits.ImplicitWaitActions - Implicit wait is set to 20
+11-06-2026 12:20:16 [main] INFO  com.reports.ExtentReportListener - test is added in pool.
+11-06-2026 12:20:16 [main] INFO  com.pages.HomePage - Help Link is visible on the homepage
+11-06-2026 12:20:16 [main] INFO  com.waits.ImplicitWaitActions - Implicit wait is set to 20
+11-06-2026 12:20:16 [main] INFO  com.reports.ExtentReportListener - test is added in pool.
+11-06-2026 12:20:16 [main] INFO  com.pages.HomePage - Upgrade button is visible on the homepage
+11-06-2026 12:20:16 [main] INFO  com.waits.ImplicitWaitActions - Implicit wait is set to 20
+11-06-2026 12:20:16 [main] INFO  com.reports.ExtentReportListener - test is added in pool.
+11-06-2026 12:20:16 [main] INFO  com.pages.HomePage - Profile link is enabled
+11-06-2026 12:20:16 [main] INFO  com.waits.ImplicitWaitActions - Implicit wait is set to 20
+11-06-2026 12:20:16 [main] INFO  com.reports.ExtentReportListener - test is added in pool.
+11-06-2026 12:20:16 [main] INFO  com.pages.HomePage - Scenario: Verify Menu Button is enabled on Home Page
+11-06-2026 12:20:16 [main] INFO  com.pages.HomePage - Given User is logged into the OrangeHRM application
+11-06-2026 12:20:16 [main] INFO  com.pages.HomePage - When User navigates to the Home Page
+11-06-2026 12:20:16 [main] INFO  com.pages.HomePage - Then Menu button is enabled
+11-06-2026 12:20:16 [main] INFO  com.pages.HomePage - And User is able to interact with the Menu button
+11-06-2026 12:20:16 [main] INFO  com.waits.ImplicitWaitActions - Implicit wait is set to 20
+11-06-2026 12:20:16 [main] INFO  com.reports.ExtentReportListener - test is added in pool.
+11-06-2026 12:20:16 [main] INFO  com.pages.HomePage - Menu is hidden
+11-06-2026 12:20:16 [main] INFO  com.waits.ImplicitWaitActions - Implicit wait is set to 20
+11-06-2026 12:20:16 [main] INFO  com.reports.ExtentReportListener - test is added in pool.
+11-06-2026 12:20:16 [main] INFO  com.pages.HomePage - Menu is visible
+11-06-2026 12:20:16 [main] INFO  com.waits.ImplicitWaitActions - Implicit wait is set to 20
+11-06-2026 12:20:16 [main] INFO  com.reports.ExtentReportListener - test is added in pool.
+11-06-2026 12:20:16 [main] INFO  com.test.AdminPageTest - ========== START TEST : Add User ==========
+11-06-2026 12:20:16 [main] INFO  com.pages.AdminPage - Scenario: Verify Admin link is clickable or not
+11-06-2026 12:20:16 [main] INFO  com.waits.ExplicitWaitActions - Admin link is clickable
+11-06-2026 12:20:33 [main] INFO  com.pages.AdminPage - User clicked on Admin
+11-06-2026 12:20:33 [main] INFO  com.pages.AdminPage - And redirected to the Add user form
+11-06-2026 12:20:33 [main] INFO  com.pages.AdminPage - Scenario: Verify if the user is able to click on Add button
+11-06-2026 12:20:37 [main] INFO  com.waits.ExplicitWaitActions - Add Button is clickable
+11-06-2026 12:20:44 [main] INFO  com.pages.AdminPage - Then- User has clicked on Add button
+11-06-2026 12:20:44 [main] INFO  com.pages.AdminPage - And redirected to the add user form
+11-06-2026 12:20:44 [main] INFO  com.pages.AdminPage - Scenario: Verify if the user is able to select the user role
+11-06-2026 12:20:47 [main] INFO  com.waits.ExplicitWaitActions - Select user role is clickable
+11-06-2026 12:20:47 [main] INFO  com.waits.ExplicitWaitActions - Adminoption is clickable
+11-06-2026 12:20:47 [main] INFO  com.pages.AdminPage - User has selected the Admin
+11-06-2026 12:20:47 [main] INFO  com.waits.ExplicitWaitActions - Employee Name is available on the screen
+11-06-2026 12:20:52 [main] INFO  com.waits.ExplicitWaitActions - First Employee Suggestion is available on the screen
+11-06-2026 12:20:52 [main] INFO  com.waits.ExplicitWaitActions - First Employee Suggestion is clickable
+11-06-2026 12:20:52 [main] INFO  com.pages.AdminPage - Scenario: Verify if the user is able to select the status
+11-06-2026 12:20:52 [main] INFO  com.waits.ExplicitWaitActions - Select status is clickable
+11-06-2026 12:20:52 [main] INFO  com.waits.ExplicitWaitActions - Enabledoption is clickable
+11-06-2026 12:20:52 [main] INFO  com.pages.AdminPage - User has selected the Enabled
+11-06-2026 12:20:52 [main] INFO  com.pages.AdminPage - Scenario: Verify if the user is able to enter the username
+11-06-2026 12:20:52 [main] INFO  com.waits.ExplicitWaitActions - User Name is available on the screen
+11-06-2026 12:20:52 [main] INFO  com.pages.AdminPage - Username entered successfully: Akshay
+11-06-2026 12:20:52 [main] INFO  com.pages.AdminPage - Scenario: Verify if the user is able to enter the password
+11-06-2026 12:20:52 [main] INFO  com.waits.ExplicitWaitActions - Password is clickable
+11-06-2026 12:20:53 [main] INFO  com.waits.ExplicitWaitActions - Password is available on the screen
+11-06-2026 12:20:53 [main] INFO  com.pages.AdminPage - Password value is entered
+11-06-2026 12:20:53 [main] INFO  com.pages.AdminPage - Scenario: Verify if the user is able to re-enter the password
+11-06-2026 12:20:53 [main] INFO  com.waits.ExplicitWaitActions - Confirm Password is clickable
+11-06-2026 12:20:53 [main] INFO  com.waits.ExplicitWaitActions - Confirm Password is available on the screen
+11-06-2026 12:20:53 [main] INFO  com.pages.AdminPage - Password is confirmed
+11-06-2026 12:20:53 [main] INFO  com.pages.AdminPage - Scenario: Verify if the user is able to click the save button
+11-06-2026 12:20:53 [main] INFO  com.waits.ExplicitWaitActions - Save Button is clickable
+11-06-2026 12:20:53 [main] INFO  com.test.AdminPageTest - ========== END TEST : Add User ==========
+11-06-2026 12:20:53 [main] INFO  com.waits.ImplicitWaitActions - Implicit wait is set to 20
+11-06-2026 12:20:53 [main] INFO  com.reports.ExtentReportListener - test is added in pool.
+11-06-2026 12:20:53 [main] INFO  com.test.PIMPageTest - ========== START TEST : Search Employee ==========
+11-06-2026 12:20:53 [main] INFO  com.waits.ExplicitWaitActions - PIM menu is clickable
+11-06-2026 12:21:00 [main] INFO  com.pages.PIMPage - Step: Enter Employee Name - Madhaksh
+11-06-2026 12:21:05 [main] INFO  com.waits.ExplicitWaitActions - Employee Name is available on the screen
+11-06-2026 12:21:05 [main] INFO  com.waits.ExplicitWaitActions - First Employee Suggestion is available on the screen
+11-06-2026 12:21:05 [main] INFO  com.waits.ExplicitWaitActions - First Employee Suggestion is clickable
+11-06-2026 12:21:05 [main] INFO  com.pages.PIMPage - Employee name selected successfully
+11-06-2026 12:21:05 [main] INFO  com.pages.PIMPage - Step: Enter Employee ID - 20
+11-06-2026 12:21:05 [main] INFO  com.waits.ExplicitWaitActions - Employee ID is available on the screen
+11-06-2026 12:21:05 [main] INFO  com.pages.PIMPage - Employee ID entered successfully
+11-06-2026 12:21:05 [main] INFO  com.pages.PIMPage - Step: Select Employee Status - Freelance
+11-06-2026 12:21:05 [main] INFO  com.waits.ExplicitWaitActions - Employment Status is clickable
+11-06-2026 12:21:08 [main] INFO  com.pages.PIMPage - Available Status: Freelance
+11-06-2026 12:21:08 [main] INFO  com.waits.ExplicitWaitActions - Freelance is clickable
+11-06-2026 12:21:08 [main] INFO  com.pages.PIMPage - Employee Status selected successfully
+11-06-2026 12:21:08 [main] INFO  com.pages.PIMPage - Step: Select Include Option - Current and Past Employees
+11-06-2026 12:21:08 [main] INFO  com.waits.ExplicitWaitActions - Include Dropdown is clickable
+11-06-2026 12:21:08 [main] INFO  com.pages.PIMPage - Available Option: Current Employees Only
+11-06-2026 12:21:08 [main] INFO  com.pages.PIMPage - Available Option: Current and Past Employees
+11-06-2026 12:21:08 [main] INFO  com.waits.ExplicitWaitActions - Current and Past Employees is clickable
+11-06-2026 12:21:08 [main] INFO  com.pages.PIMPage - Include option selected successfully
+11-06-2026 12:21:08 [main] INFO  com.pages.PIMPage - Step: Enter Supervisor Name - m
+11-06-2026 12:21:08 [main] INFO  com.waits.ExplicitWaitActions - Supervisor Name is available on the screen
+11-06-2026 12:21:15 [main] INFO  com.waits.ExplicitWaitActions - First Supervisor Suggestion is available on the screen
+11-06-2026 12:21:15 [main] INFO  com.waits.ExplicitWaitActions - First Supervisor Suggestion is clickable
+11-06-2026 12:21:15 [main] INFO  com.pages.PIMPage - Supervisor selected successfully
+11-06-2026 12:21:15 [main] INFO  com.pages.PIMPage - Step: Select First Job Title
+11-06-2026 12:21:15 [main] INFO  com.waits.ExplicitWaitActions - Job Title is clickable
+11-06-2026 12:21:15 [main] INFO  com.waits.ExplicitWaitActions - -- Select --
+Account Assistant
+Automation Test Engineer
+Automaton Tester
+Chief Executive Officer
+Chief Financial Officer
+Chief Technical Officer
+Content Specialist
+Customer Success Manager
+Database Administrator
+Finance Manager
+Financial Analyst
+Head of Support
+hr
+HR Associate
+HR Manager
+Internal Paradigm Facilitator
+IT Manager
+Network Administrator
+Payroll Administrator
+Pre-Sales Coordinator
+QA Engineer
+QA Lead
+qwer
+rsjsrii
+Sales Representative
+Social Media Marketer
+Software Architect
+Software Engineer
+Support Specialist
+tester
+VP - Client Services
+VP - Sales & Marketing is clickable
+11-06-2026 12:21:15 [main] INFO  com.pages.PIMPage - Job Title selected successfully: -- Select --
+Account Assistant
+Automation Test Engineer
+Automaton Tester
+Chief Executive Officer
+Chief Financial Officer
+Chief Technical Officer
+Content Specialist
+Customer Success Manager
+Database Administrator
+Finance Manager
+Financial Analyst
+Head of Support
+hr
+HR Associate
+HR Manager
+Internal Paradigm Facilitator
+IT Manager
+Network Administrator
+Payroll Administrator
+Pre-Sales Coordinator
+QA Engineer
+QA Lead
+qwer
+rsjsrii
+Sales Representative
+Social Media Marketer
+Software Architect
+Software Engineer
+Support Specialist
+tester
+VP - Client Services
+VP - Sales & Marketing
+11-06-2026 12:21:15 [main] INFO  com.pages.PIMPage - Step: Select First Sub Unit
+11-06-2026 12:21:15 [main] INFO  com.waits.ExplicitWaitActions - Sub Unit is clickable
+11-06-2026 12:21:15 [main] INFO  com.waits.ExplicitWaitActions - -- Select --
+OrangeHRM
+Administration
+Engineering
+Development
+Quality Assurance
+TechOps
+Sales & Marketing
+Sales
+Marketing
+Client Services
+Technical Support
+Finance
+Human Resources
+hola
+juan perez
+Ashok Leyland
+machinery is clickable
+11-06-2026 12:21:15 [main] INFO  com.pages.PIMPage - Sub Unit selected successfully: -- Select --
+OrangeHRM
+Administration
+Engineering
+Development
+Quality Assurance
+TechOps
+Sales & Marketing
+Sales
+Marketing
+Client Services
+Technical Support
+Finance
+Human Resources
+hola
+juan perez
+Ashok Leyland
+machinery
+11-06-2026 12:21:15 [main] INFO  com.pages.PIMPage - Step: Click Search Button
+11-06-2026 12:21:15 [main] INFO  com.waits.ExplicitWaitActions - Search Button is clickable
+11-06-2026 12:21:15 [main] INFO  com.pages.PIMPage - Search button clicked successfully
+11-06-2026 12:21:20 [main] INFO  com.waits.ExplicitWaitActions - No Records Found Message is available on the screen
+11-06-2026 12:21:20 [main] INFO  com.pages.PIMPage - 'No Records Found' message is displayed
+11-06-2026 12:21:20 [main] INFO  com.test.PIMPageTest - ========== END TEST : Search Employee ==========
+16-06-2026 22:27:22 [main] INFO  com.reports.ExtentReportListener - test is added in pool.
+16-06-2026 22:27:22 [main] INFO  com.test.LoginTest - ========== START TEST : Login OrangeHRM ==========
+16-06-2026 22:27:22 [main] INFO  com.waits.ExplicitWaitActions - username textbox is available on the screen
+16-06-2026 22:27:23 [main] INFO  com.waits.ExplicitWaitActions - password textbox is available on the screen
+16-06-2026 22:27:23 [main] INFO  com.waits.ExplicitWaitActions - Login button is clickable
+16-06-2026 22:27:24 [main] INFO  com.test.LoginTest - ========== END TEST : Login OrangeHRM ==========
+16-06-2026 22:27:24 [main] INFO  com.waits.ImplicitWaitActions - Implicit wait is set to 20
+16-06-2026 22:27:24 [main] INFO  com.reports.ExtentReportListener - test is added in pool.
+16-06-2026 22:27:24 [main] INFO  com.pages.HomePage - Current_url is same as expected and the value is: https://opensource-demo.orangehrmlive.com/web/index.php/dashboard/index
+16-06-2026 22:27:24 [main] INFO  com.waits.ImplicitWaitActions - Implicit wait is set to 20
+16-06-2026 22:27:24 [main] INFO  com.reports.ExtentReportListener - test is added in pool.
+16-06-2026 22:27:24 [main] INFO  com.pages.HomePage - Dashboard text is visible
+16-06-2026 22:27:24 [main] INFO  com.waits.ImplicitWaitActions - Implicit wait is set to 20
+16-06-2026 22:27:24 [main] INFO  com.reports.ExtentReportListener - test is added in pool.
+16-06-2026 22:27:24 [main] INFO  com.pages.HomePage - Help Link is visible on the homepage
+16-06-2026 22:27:24 [main] INFO  com.waits.ImplicitWaitActions - Implicit wait is set to 20
+16-06-2026 22:27:24 [main] INFO  com.reports.ExtentReportListener - test is added in pool.
+16-06-2026 22:27:24 [main] INFO  com.pages.HomePage - Upgrade button is visible on the homepage
+16-06-2026 22:27:24 [main] INFO  com.waits.ImplicitWaitActions - Implicit wait is set to 20
+16-06-2026 22:27:24 [main] INFO  com.reports.ExtentReportListener - test is added in pool.
+16-06-2026 22:27:24 [main] INFO  com.pages.HomePage - Profile link is enabled
+16-06-2026 22:27:24 [main] INFO  com.waits.ImplicitWaitActions - Implicit wait is set to 20
+16-06-2026 22:27:24 [main] INFO  com.reports.ExtentReportListener - test is added in pool.
+16-06-2026 22:27:24 [main] INFO  com.pages.HomePage - Scenario: Verify Menu Button is enabled on Home Page
+16-06-2026 22:27:24 [main] INFO  com.pages.HomePage - Given User is logged into the OrangeHRM application
+16-06-2026 22:27:24 [main] INFO  com.pages.HomePage - When User navigates to the Home Page
+16-06-2026 22:27:24 [main] INFO  com.pages.HomePage - Then Menu button is enabled
+16-06-2026 22:27:24 [main] INFO  com.pages.HomePage - And User is able to interact with the Menu button
+16-06-2026 22:27:24 [main] INFO  com.waits.ImplicitWaitActions - Implicit wait is set to 20
+16-06-2026 22:27:24 [main] INFO  com.reports.ExtentReportListener - test is added in pool.
+16-06-2026 22:27:24 [main] INFO  com.pages.HomePage - Menu is hidden
+16-06-2026 22:27:24 [main] INFO  com.waits.ImplicitWaitActions - Implicit wait is set to 20
+16-06-2026 22:27:24 [main] INFO  com.reports.ExtentReportListener - test is added in pool.
+16-06-2026 22:27:24 [main] INFO  com.pages.HomePage - Menu is visible
+16-06-2026 22:27:24 [main] INFO  com.waits.ImplicitWaitActions - Implicit wait is set to 20
+16-06-2026 22:27:24 [main] INFO  com.reports.ExtentReportListener - test is added in pool.
+16-06-2026 22:27:24 [main] INFO  com.test.AdminPageTest - ========== START TEST : Add User ==========
+16-06-2026 22:27:24 [main] INFO  com.pages.AdminPage - Scenario: Verify Admin link is clickable or not
+16-06-2026 22:27:24 [main] INFO  com.waits.ExplicitWaitActions - Admin link is clickable
+16-06-2026 22:27:25 [main] INFO  com.pages.AdminPage - User clicked on Admin
+16-06-2026 22:27:25 [main] INFO  com.pages.AdminPage - And redirected to the Add user form
+16-06-2026 22:27:25 [main] INFO  com.pages.AdminPage - Scenario: Verify if the user is able to click on Add button
+16-06-2026 22:27:26 [main] INFO  com.waits.ExplicitWaitActions - Add Button is clickable
+16-06-2026 22:27:26 [main] INFO  com.pages.AdminPage - Then- User has clicked on Add button
+16-06-2026 22:27:26 [main] INFO  com.pages.AdminPage - And redirected to the add user form
+16-06-2026 22:27:26 [main] INFO  com.pages.AdminPage - Scenario: Verify if the user is able to select the user role
+16-06-2026 22:27:26 [main] INFO  com.waits.ExplicitWaitActions - Select user role is clickable
+16-06-2026 22:27:26 [main] INFO  com.waits.ExplicitWaitActions - Adminoption is clickable
+16-06-2026 22:27:26 [main] INFO  com.pages.AdminPage - User has selected the Admin
+16-06-2026 22:27:26 [main] INFO  com.waits.ExplicitWaitActions - Employee Name is available on the screen
+16-06-2026 22:27:28 [main] INFO  com.waits.ExplicitWaitActions - First Employee Suggestion is available on the screen
+16-06-2026 22:27:28 [main] INFO  com.waits.ExplicitWaitActions - First Employee Suggestion is clickable
+16-06-2026 22:27:28 [main] INFO  com.pages.AdminPage - Scenario: Verify if the user is able to select the status
+16-06-2026 22:27:28 [main] INFO  com.waits.ExplicitWaitActions - Select status is clickable
+16-06-2026 22:27:28 [main] INFO  com.waits.ExplicitWaitActions - Enabledoption is clickable
+16-06-2026 22:27:28 [main] INFO  com.pages.AdminPage - User has selected the Enabled
+16-06-2026 22:27:28 [main] INFO  com.pages.AdminPage - Scenario: Verify if the user is able to enter the username
+16-06-2026 22:27:28 [main] INFO  com.waits.ExplicitWaitActions - User Name is available on the screen
+16-06-2026 22:27:28 [main] INFO  com.pages.AdminPage - Username entered successfully: Akshay
+16-06-2026 22:27:28 [main] INFO  com.pages.AdminPage - Scenario: Verify if the user is able to enter the password
+16-06-2026 22:27:28 [main] INFO  com.waits.ExplicitWaitActions - Password is clickable
+16-06-2026 22:27:28 [main] INFO  com.waits.ExplicitWaitActions - Password is available on the screen
+16-06-2026 22:27:28 [main] INFO  com.pages.AdminPage - Password value is entered
+16-06-2026 22:27:28 [main] INFO  com.pages.AdminPage - Scenario: Verify if the user is able to re-enter the password
+16-06-2026 22:27:28 [main] INFO  com.waits.ExplicitWaitActions - Confirm Password is clickable
+16-06-2026 22:27:28 [main] INFO  com.waits.ExplicitWaitActions - Confirm Password is available on the screen
+16-06-2026 22:27:28 [main] INFO  com.pages.AdminPage - Password is confirmed
+16-06-2026 22:27:28 [main] INFO  com.pages.AdminPage - Scenario: Verify if the user is able to click the save button
+16-06-2026 22:27:28 [main] INFO  com.waits.ExplicitWaitActions - Save Button is clickable
+16-06-2026 22:27:28 [main] INFO  com.test.AdminPageTest - ========== END TEST : Add User ==========
+16-06-2026 22:27:28 [main] INFO  com.waits.ImplicitWaitActions - Implicit wait is set to 20
+16-06-2026 22:27:28 [main] INFO  com.reports.ExtentReportListener - test is added in pool.
+16-06-2026 22:27:28 [main] INFO  com.test.PIMPageTest - ========== START TEST : Search Employee ==========
+16-06-2026 22:27:28 [main] INFO  com.waits.ExplicitWaitActions - PIM menu is clickable
+16-06-2026 22:27:29 [main] INFO  com.pages.PIMPage - Step: Enter Employee Name - Madhaksh
+16-06-2026 22:27:29 [main] INFO  com.waits.ExplicitWaitActions - Employee Name is available on the screen
+16-06-2026 22:27:29 [main] INFO  com.waits.ExplicitWaitActions - First Employee Suggestion is available on the screen
+16-06-2026 22:27:29 [main] INFO  com.waits.ExplicitWaitActions - First Employee Suggestion is clickable
+16-06-2026 22:27:30 [main] INFO  com.pages.PIMPage - Employee name selected successfully
+16-06-2026 22:27:30 [main] INFO  com.pages.PIMPage - Step: Enter Employee ID - 20
+16-06-2026 22:27:30 [main] INFO  com.waits.ExplicitWaitActions - Employee ID is available on the screen
+16-06-2026 22:27:30 [main] INFO  com.pages.PIMPage - Employee ID entered successfully
+16-06-2026 22:27:30 [main] INFO  com.pages.PIMPage - Step: Select Employee Status - Freelance
+16-06-2026 22:27:30 [main] INFO  com.waits.ExplicitWaitActions - Employment Status is clickable
+16-06-2026 22:27:30 [main] INFO  com.pages.PIMPage - Available Status: Freelance
+16-06-2026 22:27:30 [main] INFO  com.waits.ExplicitWaitActions - Freelance is clickable
+16-06-2026 22:27:30 [main] INFO  com.pages.PIMPage - Employee Status selected successfully
+16-06-2026 22:27:30 [main] INFO  com.pages.PIMPage - Step: Select Include Option - Current and Past Employees
+16-06-2026 22:27:30 [main] INFO  com.waits.ExplicitWaitActions - Include Dropdown is clickable
+16-06-2026 22:27:30 [main] INFO  com.pages.PIMPage - Available Option: Current Employees Only
+16-06-2026 22:27:30 [main] INFO  com.pages.PIMPage - Available Option: Current and Past Employees
+16-06-2026 22:27:30 [main] INFO  com.waits.ExplicitWaitActions - Current and Past Employees is clickable
+16-06-2026 22:27:30 [main] INFO  com.pages.PIMPage - Include option selected successfully
+16-06-2026 22:27:30 [main] INFO  com.pages.PIMPage - Step: Enter Supervisor Name - m
+16-06-2026 22:27:30 [main] INFO  com.waits.ExplicitWaitActions - Supervisor Name is available on the screen
+16-06-2026 22:27:31 [main] INFO  com.waits.ExplicitWaitActions - First Supervisor Suggestion is available on the screen
+16-06-2026 22:27:31 [main] INFO  com.waits.ExplicitWaitActions - First Supervisor Suggestion is clickable
+16-06-2026 22:27:31 [main] INFO  com.pages.PIMPage - Supervisor selected successfully
+16-06-2026 22:27:31 [main] INFO  com.pages.PIMPage - Step: Select First Job Title
+16-06-2026 22:27:31 [main] INFO  com.waits.ExplicitWaitActions - Job Title is clickable
+16-06-2026 22:27:31 [main] INFO  com.waits.ExplicitWaitActions - -- Select --
+!@##
+123434
+Account Assistant
+Automaton Tester
+Chief Executive Officer
+Chief Financial Officer
+Chief Technical Officer
+Content Specialist
+Customer Success Manager
+Database Administrator
+Finance Manager
+Financial Analyst
+Head of Support
+HR Associate
+HR Manager
+IT Manager
+Network Administrator
+Payroll Administrator
+Pre-Sales Coordinator
+QA Engineer
+QA Lead
+qwer
+rsjsrii
+Sales Representative
+Social Media Marketer
+Software Architect
+Software Engineer
+Support Specialist
+VP - Client Services
+VP - Sales & Marketing is clickable
+16-06-2026 22:27:31 [main] INFO  com.pages.PIMPage - Job Title selected successfully: -- Select --
+!@##
+123434
+Account Assistant
+Automaton Tester
+Chief Executive Officer
+Chief Financial Officer
+Chief Technical Officer
+Content Specialist
+Customer Success Manager
+Database Administrator
+Finance Manager
+Financial Analyst
+Head of Support
+HR Associate
+HR Manager
+IT Manager
+Network Administrator
+Payroll Administrator
+Pre-Sales Coordinator
+QA Engineer
+QA Lead
+qwer
+rsjsrii
+Sales Representative
+Social Media Marketer
+Software Architect
+Software Engineer
+Support Specialist
+VP - Client Services
+VP - Sales & Marketing
+16-06-2026 22:27:32 [main] INFO  com.pages.PIMPage - Step: Select First Sub Unit
+16-06-2026 22:27:32 [main] INFO  com.waits.ExplicitWaitActions - Sub Unit is clickable
+16-06-2026 22:27:32 [main] INFO  com.waits.ExplicitWaitActions - -- Select --
+OrangeHRM
+Administration
+Engineering
+Development
+Quality Assurance
+TechOps
+Sales & Marketing
+Sales
+Marketing
+Client Services
+Technical Support
+Finance
+Human Resources
+hola
+juan perez is clickable
+16-06-2026 22:27:32 [main] INFO  com.pages.PIMPage - Sub Unit selected successfully: -- Select --
+OrangeHRM
+Administration
+Engineering
+Development
+Quality Assurance
+TechOps
+Sales & Marketing
+Sales
+Marketing
+Client Services
+Technical Support
+Finance
+Human Resources
+hola
+juan perez
+16-06-2026 22:27:32 [main] INFO  com.pages.PIMPage - Step: Click Search Button
+16-06-2026 22:27:32 [main] INFO  com.waits.ExplicitWaitActions - Search Button is clickable
+16-06-2026 22:27:32 [main] INFO  com.pages.PIMPage - Search button clicked successfully
+16-06-2026 22:27:32 [main] INFO  com.waits.ExplicitWaitActions - No Records Found Message is available on the screen
+16-06-2026 22:27:32 [main] INFO  com.pages.PIMPage - 'No Records Found' message is displayed
+16-06-2026 22:27:32 [main] INFO  com.test.PIMPageTest - ========== END TEST : Search Employee ==========
+16-06-2026 22:27:32 [main] INFO  com.waits.ImplicitWaitActions - Implicit wait is set to 20
+16-06-2026 22:27:32 [main] INFO  com.reports.ExtentReportListener - test is added in pool.
+16-06-2026 22:27:32 [main] INFO  com.test.PIMPageTest - ========== START TEST : Add Employee ==========
+16-06-2026 22:27:32 [main] INFO  com.pages.PIMPage - Step: Click on Add button
+16-06-2026 22:27:32 [main] INFO  com.waits.ExplicitWaitActions - Add Button is clickable
+16-06-2026 22:27:32 [main] INFO  com.pages.PIMPage - Add button clicked successfully
+16-06-2026 22:27:32 [main] INFO  com.pages.PIMPage - Step: Enter First Name
+16-06-2026 22:27:33 [main] INFO  com.waits.ExplicitWaitActions - First Name textbox is available on the screen
+16-06-2026 22:27:33 [main] INFO  com.pages.PIMPage - First name entered in the textbox
+16-06-2026 22:27:33 [main] INFO  com.pages.PIMPage - Step: Enter Middle Name
+16-06-2026 22:27:33 [main] INFO  com.waits.ExplicitWaitActions - Middle Name textbox is available on the screen
+16-06-2026 22:27:33 [main] INFO  com.pages.PIMPage - Middle name entered in the textbox
+16-06-2026 22:27:33 [main] INFO  com.pages.PIMPage - Step: Enter last name
+16-06-2026 22:27:33 [main] INFO  com.waits.ExplicitWaitActions - Last Name textbox is available on the screen
+16-06-2026 22:27:33 [main] INFO  com.pages.PIMPage - Last name entered in the textbox
+16-06-2026 22:27:33 [main] INFO  com.pages.PIMPage - Step: Upload employee profile image
+16-06-2026 22:27:53 [main] ERROR com.waits.ExplicitWaitActions - Error occured while waiting for the element to be visibleExpected condition failed: waiting for visibility of [[ChromeDriver: chrome on mac (b82c8725527c84aefed29687abf9218d)] -> xpath: //input[@type='file']]
+(tried for 20 seconds with 500 milliseconds interval)
+Build info: version: '4.43.0', revision: 'dd0f534'
+System info: os.name: 'Mac OS X', os.arch: 'aarch64', os.version: '26.2', java.version: '21.0.9'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 149.0.7827.104, chrome: {chromedriverVersion: 149.0.7827.115 (daf70f9ddee..., userDataDir: /var/folders/mx/hnx5bw153h3...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:65200}, goog:processID: 3896, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: mac, proxy: Proxy(), se:cdp: ws://localhost:65200/devtoo..., se:cdpVersion: 149.0.7827.104, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: b82c8725527c84aefed29687abf9218d
+16-06-2026 22:28:14 [main] ERROR com.pages.PIMPage - Failed to upload the profile imageelement not interactable
+  (Session info: chrome=149.0.7827.104)
+Build info: version: '4.43.0', revision: 'dd0f534'
+System info: os.name: 'Mac OS X', os.arch: 'aarch64', os.version: '26.2', java.version: '21.0.9'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [b82c8725527c84aefed29687abf9218d, clearElement {id=f.28AE6DFBDB73B13C03D6DFDDB91E6B21.d.A9BBB6428FF2CEBFA4D0DE0DC47E24BA.e.414}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 149.0.7827.104, chrome: {chromedriverVersion: 149.0.7827.115 (daf70f9ddee..., userDataDir: /var/folders/mx/hnx5bw153h3...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:65200}, goog:processID: 3896, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: mac, proxy: Proxy(), se:cdp: ws://localhost:65200/devtoo..., se:cdpVersion: 149.0.7827.104, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Element: [[ChromeDriver: chrome on mac (b82c8725527c84aefed29687abf9218d)] -> xpath: //input[@type='file']]
+Session ID: b82c8725527c84aefed29687abf9218d
+16-06-2026 22:43:07 [main] INFO  com.reports.ExtentReportListener - test is added in pool.
+16-06-2026 22:43:07 [main] INFO  com.test.LoginTest - ========== START TEST : Login OrangeHRM ==========
+16-06-2026 22:43:08 [main] INFO  com.waits.ExplicitWaitActions - username textbox is available on the screen
+16-06-2026 22:43:08 [main] INFO  com.waits.ExplicitWaitActions - password textbox is available on the screen
+16-06-2026 22:43:08 [main] INFO  com.waits.ExplicitWaitActions - Login button is clickable
+16-06-2026 22:43:09 [main] INFO  com.test.LoginTest - ========== END TEST : Login OrangeHRM ==========
+16-06-2026 22:43:09 [main] INFO  com.waits.ImplicitWaitActions - Implicit wait is set to 20
+16-06-2026 22:43:09 [main] INFO  com.reports.ExtentReportListener - test is added in pool.
+16-06-2026 22:43:09 [main] INFO  com.pages.HomePage - Current_url is same as expected and the value is: https://opensource-demo.orangehrmlive.com/web/index.php/dashboard/index
+16-06-2026 22:43:09 [main] INFO  com.waits.ImplicitWaitActions - Implicit wait is set to 20
+16-06-2026 22:43:09 [main] INFO  com.reports.ExtentReportListener - test is added in pool.
+16-06-2026 22:43:09 [main] INFO  com.pages.HomePage - Dashboard text is visible
+16-06-2026 22:43:09 [main] INFO  com.waits.ImplicitWaitActions - Implicit wait is set to 20
+16-06-2026 22:43:09 [main] INFO  com.reports.ExtentReportListener - test is added in pool.
+16-06-2026 22:43:09 [main] INFO  com.pages.HomePage - Help Link is visible on the homepage
+16-06-2026 22:43:09 [main] INFO  com.waits.ImplicitWaitActions - Implicit wait is set to 20
+16-06-2026 22:43:09 [main] INFO  com.reports.ExtentReportListener - test is added in pool.
+16-06-2026 22:43:09 [main] INFO  com.pages.HomePage - Upgrade button is visible on the homepage
+16-06-2026 22:43:09 [main] INFO  com.waits.ImplicitWaitActions - Implicit wait is set to 20
+16-06-2026 22:43:09 [main] INFO  com.reports.ExtentReportListener - test is added in pool.
+16-06-2026 22:43:09 [main] INFO  com.pages.HomePage - Profile link is enabled
+16-06-2026 22:43:09 [main] INFO  com.waits.ImplicitWaitActions - Implicit wait is set to 20
+16-06-2026 22:43:09 [main] INFO  com.reports.ExtentReportListener - test is added in pool.
+16-06-2026 22:43:09 [main] INFO  com.pages.HomePage - Scenario: Verify Menu Button is enabled on Home Page
+16-06-2026 22:43:09 [main] INFO  com.pages.HomePage - Given User is logged into the OrangeHRM application
+16-06-2026 22:43:09 [main] INFO  com.pages.HomePage - When User navigates to the Home Page
+16-06-2026 22:43:09 [main] INFO  com.pages.HomePage - Then Menu button is enabled
+16-06-2026 22:43:09 [main] INFO  com.pages.HomePage - And User is able to interact with the Menu button
+16-06-2026 22:43:09 [main] INFO  com.waits.ImplicitWaitActions - Implicit wait is set to 20
+16-06-2026 22:43:09 [main] INFO  com.reports.ExtentReportListener - test is added in pool.
+16-06-2026 22:43:09 [main] INFO  com.pages.HomePage - Menu is hidden
+16-06-2026 22:43:09 [main] INFO  com.waits.ImplicitWaitActions - Implicit wait is set to 20
+16-06-2026 22:43:09 [main] INFO  com.reports.ExtentReportListener - test is added in pool.
+16-06-2026 22:43:09 [main] INFO  com.pages.HomePage - Menu is visible
+16-06-2026 22:43:09 [main] INFO  com.waits.ImplicitWaitActions - Implicit wait is set to 20
+16-06-2026 22:43:09 [main] INFO  com.reports.ExtentReportListener - test is added in pool.
+16-06-2026 22:43:09 [main] INFO  com.test.AdminPageTest - ========== START TEST : Add User ==========
+16-06-2026 22:43:09 [main] INFO  com.pages.AdminPage - Scenario: Verify Admin link is clickable or not
+16-06-2026 22:43:09 [main] INFO  com.waits.ExplicitWaitActions - Admin link is clickable
+16-06-2026 22:43:10 [main] INFO  com.pages.AdminPage - User clicked on Admin
+16-06-2026 22:43:10 [main] INFO  com.pages.AdminPage - And redirected to the Add user form
+16-06-2026 22:43:10 [main] INFO  com.pages.AdminPage - Scenario: Verify if the user is able to click on Add button
+16-06-2026 22:43:11 [main] INFO  com.waits.ExplicitWaitActions - Add Button is clickable
+16-06-2026 22:43:11 [main] INFO  com.pages.AdminPage - Then- User has clicked on Add button
+16-06-2026 22:43:11 [main] INFO  com.pages.AdminPage - And redirected to the add user form
+16-06-2026 22:43:11 [main] INFO  com.pages.AdminPage - Scenario: Verify if the user is able to select the user role
+16-06-2026 22:43:12 [main] INFO  com.waits.ExplicitWaitActions - Select user role is clickable
+16-06-2026 22:43:12 [main] INFO  com.waits.ExplicitWaitActions - Adminoption is clickable
+16-06-2026 22:43:12 [main] INFO  com.pages.AdminPage - User has selected the Admin
+16-06-2026 22:43:12 [main] INFO  com.waits.ExplicitWaitActions - Employee Name is available on the screen
+16-06-2026 22:43:13 [main] INFO  com.waits.ExplicitWaitActions - First Employee Suggestion is available on the screen
+16-06-2026 22:43:13 [main] INFO  com.waits.ExplicitWaitActions - First Employee Suggestion is clickable
+16-06-2026 22:43:13 [main] INFO  com.pages.AdminPage - Scenario: Verify if the user is able to select the status
+16-06-2026 22:43:13 [main] INFO  com.waits.ExplicitWaitActions - Select status is clickable
+16-06-2026 22:43:13 [main] INFO  com.waits.ExplicitWaitActions - Enabledoption is clickable
+16-06-2026 22:43:13 [main] INFO  com.pages.AdminPage - User has selected the Enabled
+16-06-2026 22:43:13 [main] INFO  com.pages.AdminPage - Scenario: Verify if the user is able to enter the username
+16-06-2026 22:43:13 [main] INFO  com.waits.ExplicitWaitActions - User Name is available on the screen
+16-06-2026 22:43:13 [main] INFO  com.pages.AdminPage - Username entered successfully: Akshay
+16-06-2026 22:43:13 [main] INFO  com.pages.AdminPage - Scenario: Verify if the user is able to enter the password
+16-06-2026 22:43:13 [main] INFO  com.waits.ExplicitWaitActions - Password is clickable
+16-06-2026 22:43:13 [main] INFO  com.waits.ExplicitWaitActions - Password is available on the screen
+16-06-2026 22:43:13 [main] INFO  com.pages.AdminPage - Password value is entered
+16-06-2026 22:43:13 [main] INFO  com.pages.AdminPage - Scenario: Verify if the user is able to re-enter the password
+16-06-2026 22:43:13 [main] INFO  com.waits.ExplicitWaitActions - Confirm Password is clickable
+16-06-2026 22:43:13 [main] INFO  com.waits.ExplicitWaitActions - Confirm Password is available on the screen
+16-06-2026 22:43:14 [main] INFO  com.pages.AdminPage - Password is confirmed
+16-06-2026 22:43:14 [main] INFO  com.pages.AdminPage - Scenario: Verify if the user is able to click the save button
+16-06-2026 22:43:14 [main] INFO  com.waits.ExplicitWaitActions - Save Button is clickable
+16-06-2026 22:43:14 [main] INFO  com.test.AdminPageTest - ========== END TEST : Add User ==========
+16-06-2026 22:43:14 [main] INFO  com.waits.ImplicitWaitActions - Implicit wait is set to 20
+16-06-2026 22:43:14 [main] INFO  com.reports.ExtentReportListener - test is added in pool.
+16-06-2026 22:43:14 [main] INFO  com.test.PIMPageTest - ========== START TEST : Search Employee ==========
+16-06-2026 22:43:14 [main] INFO  com.waits.ExplicitWaitActions - PIM menu is clickable
+16-06-2026 22:43:14 [main] INFO  com.pages.PIMPage - Step: Enter Employee Name - Madhaksh
+16-06-2026 22:43:15 [main] INFO  com.waits.ExplicitWaitActions - Employee Name is available on the screen
+16-06-2026 22:43:15 [main] INFO  com.waits.ExplicitWaitActions - First Employee Suggestion is available on the screen
+16-06-2026 22:43:15 [main] INFO  com.waits.ExplicitWaitActions - First Employee Suggestion is clickable
+16-06-2026 22:43:15 [main] INFO  com.pages.PIMPage - Employee name selected successfully
+16-06-2026 22:43:15 [main] INFO  com.pages.PIMPage - Step: Enter Employee ID - 290
+16-06-2026 22:43:15 [main] INFO  com.waits.ExplicitWaitActions - Employee ID is available on the screen
+16-06-2026 22:43:15 [main] INFO  com.pages.PIMPage - Employee ID entered successfully
+16-06-2026 22:43:15 [main] INFO  com.pages.PIMPage - Step: Select Employee Status - Freelance
+16-06-2026 22:43:15 [main] INFO  com.waits.ExplicitWaitActions - Employment Status is clickable
+16-06-2026 22:43:15 [main] INFO  com.pages.PIMPage - Available Status: !@#$$
+16-06-2026 22:43:15 [main] INFO  com.pages.PIMPage - Available Status: 123
+16-06-2026 22:43:15 [main] INFO  com.pages.PIMPage - Available Status: Freelance
+16-06-2026 22:43:15 [main] INFO  com.waits.ExplicitWaitActions - Freelance is clickable
+16-06-2026 22:43:15 [main] INFO  com.pages.PIMPage - Employee Status selected successfully
+16-06-2026 22:43:15 [main] INFO  com.pages.PIMPage - Step: Select Include Option - Current and Past Employees
+16-06-2026 22:43:15 [main] INFO  com.waits.ExplicitWaitActions - Include Dropdown is clickable
+16-06-2026 22:43:15 [main] INFO  com.pages.PIMPage - Available Option: Current Employees Only
+16-06-2026 22:43:15 [main] INFO  com.pages.PIMPage - Available Option: Current and Past Employees
+16-06-2026 22:43:15 [main] INFO  com.waits.ExplicitWaitActions - Current and Past Employees is clickable
+16-06-2026 22:43:15 [main] INFO  com.pages.PIMPage - Include option selected successfully
+16-06-2026 22:43:15 [main] INFO  com.pages.PIMPage - Step: Enter Supervisor Name - m
+16-06-2026 22:43:15 [main] INFO  com.waits.ExplicitWaitActions - Supervisor Name is available on the screen
+16-06-2026 22:43:17 [main] INFO  com.waits.ExplicitWaitActions - First Supervisor Suggestion is available on the screen
+16-06-2026 22:43:17 [main] INFO  com.waits.ExplicitWaitActions - First Supervisor Suggestion is clickable
+16-06-2026 22:43:17 [main] INFO  com.pages.PIMPage - Supervisor selected successfully
+16-06-2026 22:43:17 [main] INFO  com.pages.PIMPage - Step: Select First Job Title
+16-06-2026 22:43:17 [main] INFO  com.waits.ExplicitWaitActions - Job Title is clickable
+16-06-2026 22:43:17 [main] INFO  com.waits.ExplicitWaitActions - -- Select --
+!@##
+123434
+Account Assistant
+Automaton Tester
+Chief Executive Officer
+Chief Financial Officer
+Chief Technical Officer
+Content Specialist
+Customer Success Manager
+Database Administrator
+Finance Manager
+Financial Analyst
+Head of Support
+HR Associate
+HR Manager
+IT Manager
+Network Administrator
+Payroll Administrator
+Pre-Sales Coordinator
+QA Engineer
+QA Lead
+QA_p8wCu5
+QA_rSG3tK
+QA_VHXDV6
+QA_ytHsOZ
+qwer
+rsjsrii
+Sales Representative
+Social Media Marketer
+Software Architect
+Software Engineer
+Support Specialist
+VP - Client Services
+VP - Sales & Marketing is clickable
+16-06-2026 22:43:17 [main] INFO  com.pages.PIMPage - Job Title selected successfully: -- Select --
+!@##
+123434
+Account Assistant
+Automaton Tester
+Chief Executive Officer
+Chief Financial Officer
+Chief Technical Officer
+Content Specialist
+Customer Success Manager
+Database Administrator
+Finance Manager
+Financial Analyst
+Head of Support
+HR Associate
+HR Manager
+IT Manager
+Network Administrator
+Payroll Administrator
+Pre-Sales Coordinator
+QA Engineer
+QA Lead
+QA_p8wCu5
+QA_rSG3tK
+QA_VHXDV6
+QA_ytHsOZ
+qwer
+rsjsrii
+Sales Representative
+Social Media Marketer
+Software Architect
+Software Engineer
+Support Specialist
+VP - Client Services
+VP - Sales & Marketing
+16-06-2026 22:43:17 [main] INFO  com.pages.PIMPage - Step: Select First Sub Unit
+16-06-2026 22:43:17 [main] INFO  com.waits.ExplicitWaitActions - Sub Unit is clickable
+16-06-2026 22:43:17 [main] INFO  com.waits.ExplicitWaitActions - -- Select --
+OrangeHRM
+Administration
+Engineering
+Development
+Quality Assurance
+TechOps
+Sales & Marketing
+Sales
+Marketing
+Client Services
+Technical Support
+Finance
+Human Resources
+hola
+juan perez is clickable
+16-06-2026 22:43:17 [main] INFO  com.pages.PIMPage - Sub Unit selected successfully: -- Select --
+OrangeHRM
+Administration
+Engineering
+Development
+Quality Assurance
+TechOps
+Sales & Marketing
+Sales
+Marketing
+Client Services
+Technical Support
+Finance
+Human Resources
+hola
+juan perez
+16-06-2026 22:43:17 [main] INFO  com.pages.PIMPage - Step: Click Search Button
+16-06-2026 22:43:17 [main] INFO  com.waits.ExplicitWaitActions - Search Button is clickable
+16-06-2026 22:43:17 [main] INFO  com.pages.PIMPage - Search button clicked successfully
+16-06-2026 22:43:17 [main] INFO  com.waits.ExplicitWaitActions - No Records Found Message is available on the screen
+16-06-2026 22:43:17 [main] INFO  com.pages.PIMPage - 'No Records Found' message is displayed
+16-06-2026 22:43:17 [main] INFO  com.test.PIMPageTest - ========== END TEST : Search Employee ==========
+16-06-2026 22:43:17 [main] INFO  com.waits.ImplicitWaitActions - Implicit wait is set to 20
+16-06-2026 22:43:17 [main] INFO  com.reports.ExtentReportListener - test is added in pool.
+16-06-2026 22:43:17 [main] INFO  com.test.PIMPageTest - ========== START TEST : Add Employee ==========
+16-06-2026 22:43:17 [main] INFO  com.pages.PIMPage - Step: Click on Add button
+16-06-2026 22:43:17 [main] INFO  com.waits.ExplicitWaitActions - Add Button is clickable
+16-06-2026 22:43:18 [main] INFO  com.pages.PIMPage - Add button clicked successfully
+16-06-2026 22:43:18 [main] INFO  com.pages.PIMPage - Step: Enter First Name
+16-06-2026 22:43:19 [main] INFO  com.waits.ExplicitWaitActions - First Name textbox is available on the screen
+16-06-2026 22:43:19 [main] INFO  com.pages.PIMPage - First name entered in the textbox
+16-06-2026 22:43:19 [main] INFO  com.pages.PIMPage - Step: Enter Middle Name
+16-06-2026 22:43:19 [main] INFO  com.waits.ExplicitWaitActions - Middle Name textbox is available on the screen
+16-06-2026 22:43:19 [main] INFO  com.pages.PIMPage - Middle name entered in the textbox
+16-06-2026 22:43:19 [main] INFO  com.pages.PIMPage - Step: Enter last name
+16-06-2026 22:43:19 [main] INFO  com.waits.ExplicitWaitActions - Last Name textbox is available on the screen
+16-06-2026 22:43:19 [main] INFO  com.pages.PIMPage - Last name entered in the textbox
+16-06-2026 22:43:19 [main] INFO  com.pages.PIMPage - Uploading image : /Users/akshaykumar/OrangeHRM_Automation/src/test/resources/ProfilePhoto.jpg
+16-06-2026 22:43:39 [main] ERROR com.waits.ExplicitWaitActions - Error occured while waiting for the element to be visibleExpected condition failed: waiting for visibility of [[ChromeDriver: chrome on mac (0e8da00e114c74faaaa499e3ca0f05a6)] -> xpath: //input[@type='file']]
+(tried for 20 seconds with 500 milliseconds interval)
+Build info: version: '4.43.0', revision: 'dd0f534'
+System info: os.name: 'Mac OS X', os.arch: 'aarch64', os.version: '26.2', java.version: '21.0.9'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 149.0.7827.104, chrome: {chromedriverVersion: 149.0.7827.115 (daf70f9ddee..., userDataDir: /var/folders/mx/hnx5bw153h3...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:52773}, goog:processID: 5040, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: mac, proxy: Proxy(), se:cdp: ws://localhost:52773/devtoo..., se:cdpVersion: 149.0.7827.104, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 0e8da00e114c74faaaa499e3ca0f05a6
+16-06-2026 22:43:39 [main] INFO  com.pages.PIMPage - Profile image uploaded successfully
+16-06-2026 22:43:39 [main] INFO  com.test.PIMPageTest - ========== END TEST : Add Employee ==========
+16-06-2026 22:48:45 [main] INFO  com.reports.ExtentReportListener - test is added in pool.
+16-06-2026 22:48:45 [main] INFO  com.test.LoginTest - ========== START TEST : Login OrangeHRM ==========
+16-06-2026 22:48:45 [main] INFO  com.waits.ExplicitWaitActions - username textbox is available on the screen
+16-06-2026 22:48:45 [main] INFO  com.waits.ExplicitWaitActions - password textbox is available on the screen
+16-06-2026 22:48:45 [main] INFO  com.waits.ExplicitWaitActions - Login button is clickable
+16-06-2026 22:48:48 [main] INFO  com.test.LoginTest - ========== END TEST : Login OrangeHRM ==========
+16-06-2026 22:48:48 [main] INFO  com.waits.ImplicitWaitActions - Implicit wait is set to 20
+16-06-2026 22:48:48 [main] INFO  com.reports.ExtentReportListener - test is added in pool.
+16-06-2026 22:48:48 [main] INFO  com.pages.HomePage - Current_url is same as expected and the value is: https://opensource-demo.orangehrmlive.com/web/index.php/dashboard/index
+16-06-2026 22:48:48 [main] INFO  com.waits.ImplicitWaitActions - Implicit wait is set to 20
+16-06-2026 22:48:48 [main] INFO  com.reports.ExtentReportListener - test is added in pool.
+16-06-2026 22:48:49 [main] INFO  com.pages.HomePage - Dashboard text is visible
+16-06-2026 22:48:49 [main] INFO  com.waits.ImplicitWaitActions - Implicit wait is set to 20
+16-06-2026 22:48:49 [main] INFO  com.reports.ExtentReportListener - test is added in pool.
+16-06-2026 22:48:49 [main] INFO  com.pages.HomePage - Help Link is visible on the homepage
+16-06-2026 22:48:49 [main] INFO  com.waits.ImplicitWaitActions - Implicit wait is set to 20
+16-06-2026 22:48:49 [main] INFO  com.reports.ExtentReportListener - test is added in pool.
+16-06-2026 22:48:49 [main] INFO  com.pages.HomePage - Upgrade button is visible on the homepage
+16-06-2026 22:48:49 [main] INFO  com.waits.ImplicitWaitActions - Implicit wait is set to 20
+16-06-2026 22:48:49 [main] INFO  com.reports.ExtentReportListener - test is added in pool.
+16-06-2026 22:48:49 [main] INFO  com.pages.HomePage - Profile link is enabled
+16-06-2026 22:48:49 [main] INFO  com.waits.ImplicitWaitActions - Implicit wait is set to 20
+16-06-2026 22:48:49 [main] INFO  com.reports.ExtentReportListener - test is added in pool.
+16-06-2026 22:48:49 [main] INFO  com.pages.HomePage - Scenario: Verify Menu Button is enabled on Home Page
+16-06-2026 22:48:49 [main] INFO  com.pages.HomePage - Given User is logged into the OrangeHRM application
+16-06-2026 22:48:49 [main] INFO  com.pages.HomePage - When User navigates to the Home Page
+16-06-2026 22:48:49 [main] INFO  com.pages.HomePage - Then Menu button is enabled
+16-06-2026 22:48:49 [main] INFO  com.pages.HomePage - And User is able to interact with the Menu button
+16-06-2026 22:48:49 [main] INFO  com.waits.ImplicitWaitActions - Implicit wait is set to 20
+16-06-2026 22:48:49 [main] INFO  com.reports.ExtentReportListener - test is added in pool.
+16-06-2026 22:48:49 [main] INFO  com.pages.HomePage - Menu is hidden
+16-06-2026 22:48:49 [main] INFO  com.waits.ImplicitWaitActions - Implicit wait is set to 20
+16-06-2026 22:48:49 [main] INFO  com.reports.ExtentReportListener - test is added in pool.
+16-06-2026 22:48:49 [main] INFO  com.pages.HomePage - Menu is visible
+16-06-2026 22:48:49 [main] INFO  com.waits.ImplicitWaitActions - Implicit wait is set to 20
+16-06-2026 22:48:49 [main] INFO  com.reports.ExtentReportListener - test is added in pool.
+16-06-2026 22:48:49 [main] INFO  com.test.AdminPageTest - ========== START TEST : Add User ==========
+16-06-2026 22:48:49 [main] INFO  com.pages.AdminPage - Scenario: Verify Admin link is clickable or not
+16-06-2026 22:48:49 [main] INFO  com.waits.ExplicitWaitActions - Admin link is clickable
+16-06-2026 22:48:52 [main] INFO  com.pages.AdminPage - User clicked on Admin
+16-06-2026 22:48:52 [main] INFO  com.pages.AdminPage - And redirected to the Add user form
+16-06-2026 22:48:52 [main] INFO  com.pages.AdminPage - Scenario: Verify if the user is able to click on Add button
+16-06-2026 22:48:52 [main] INFO  com.waits.ExplicitWaitActions - Add Button is clickable
+16-06-2026 22:48:53 [main] INFO  com.pages.AdminPage - Then- User has clicked on Add button
+16-06-2026 22:48:53 [main] INFO  com.pages.AdminPage - And redirected to the add user form
+16-06-2026 22:48:53 [main] INFO  com.pages.AdminPage - Scenario: Verify if the user is able to select the user role
+16-06-2026 22:48:54 [main] INFO  com.waits.ExplicitWaitActions - Select user role is clickable
+16-06-2026 22:48:54 [main] INFO  com.waits.ExplicitWaitActions - Adminoption is clickable
+16-06-2026 22:48:54 [main] INFO  com.pages.AdminPage - User has selected the Admin
+16-06-2026 22:48:54 [main] INFO  com.waits.ExplicitWaitActions - Employee Name is available on the screen
+16-06-2026 22:48:56 [main] INFO  com.waits.ExplicitWaitActions - First Employee Suggestion is available on the screen
+16-06-2026 22:48:56 [main] INFO  com.waits.ExplicitWaitActions - First Employee Suggestion is clickable
+16-06-2026 22:48:56 [main] INFO  com.pages.AdminPage - Scenario: Verify if the user is able to select the status
+16-06-2026 22:48:56 [main] INFO  com.waits.ExplicitWaitActions - Select status is clickable
+16-06-2026 22:48:56 [main] INFO  com.waits.ExplicitWaitActions - Enabledoption is clickable
+16-06-2026 22:48:56 [main] INFO  com.pages.AdminPage - User has selected the Enabled
+16-06-2026 22:48:56 [main] INFO  com.pages.AdminPage - Scenario: Verify if the user is able to enter the username
+16-06-2026 22:48:56 [main] INFO  com.waits.ExplicitWaitActions - User Name is available on the screen
+16-06-2026 22:48:56 [main] INFO  com.pages.AdminPage - Username entered successfully: Akshay
+16-06-2026 22:48:56 [main] INFO  com.pages.AdminPage - Scenario: Verify if the user is able to enter the password
+16-06-2026 22:48:56 [main] INFO  com.waits.ExplicitWaitActions - Password is clickable
+16-06-2026 22:48:56 [main] INFO  com.waits.ExplicitWaitActions - Password is available on the screen
+16-06-2026 22:48:56 [main] INFO  com.pages.AdminPage - Password value is entered
+16-06-2026 22:48:56 [main] INFO  com.pages.AdminPage - Scenario: Verify if the user is able to re-enter the password
+16-06-2026 22:48:56 [main] INFO  com.waits.ExplicitWaitActions - Confirm Password is clickable
+16-06-2026 22:48:56 [main] INFO  com.waits.ExplicitWaitActions - Confirm Password is available on the screen
+16-06-2026 22:48:56 [main] INFO  com.pages.AdminPage - Password is confirmed
+16-06-2026 22:48:56 [main] INFO  com.pages.AdminPage - Scenario: Verify if the user is able to click the save button
+16-06-2026 22:48:56 [main] INFO  com.waits.ExplicitWaitActions - Save Button is clickable
+16-06-2026 22:48:56 [main] INFO  com.test.AdminPageTest - ========== END TEST : Add User ==========
+16-06-2026 22:48:56 [main] INFO  com.waits.ImplicitWaitActions - Implicit wait is set to 20
+16-06-2026 22:48:56 [main] INFO  com.reports.ExtentReportListener - test is added in pool.
+16-06-2026 22:48:56 [main] INFO  com.test.PIMPageTest - ========== START TEST : Search Employee ==========
+16-06-2026 22:48:57 [main] INFO  com.waits.ExplicitWaitActions - PIM menu is clickable
+16-06-2026 22:48:59 [main] INFO  com.pages.PIMPage - Step: Enter Employee Name - Madhaksh
+16-06-2026 22:49:00 [main] INFO  com.waits.ExplicitWaitActions - Employee Name is available on the screen
+16-06-2026 22:49:00 [main] INFO  com.waits.ExplicitWaitActions - First Employee Suggestion is available on the screen
+16-06-2026 22:49:00 [main] INFO  com.waits.ExplicitWaitActions - First Employee Suggestion is clickable
+16-06-2026 22:49:00 [main] INFO  com.pages.PIMPage - Employee name selected successfully
+16-06-2026 22:49:00 [main] INFO  com.pages.PIMPage - Step: Enter Employee ID - 290
+16-06-2026 22:49:00 [main] INFO  com.waits.ExplicitWaitActions - Employee ID is available on the screen
+16-06-2026 22:49:00 [main] INFO  com.pages.PIMPage - Employee ID entered successfully
+16-06-2026 22:49:00 [main] INFO  com.pages.PIMPage - Step: Select Employee Status - Freelance
+16-06-2026 22:49:00 [main] INFO  com.waits.ExplicitWaitActions - Employment Status is clickable
+16-06-2026 22:49:02 [main] INFO  com.pages.PIMPage - Available Status: !@#$$
+16-06-2026 22:49:02 [main] INFO  com.pages.PIMPage - Available Status: 123
+16-06-2026 22:49:02 [main] INFO  com.pages.PIMPage - Available Status: Freelance
+16-06-2026 22:49:02 [main] INFO  com.waits.ExplicitWaitActions - Freelance is clickable
+16-06-2026 22:49:02 [main] INFO  com.pages.PIMPage - Employee Status selected successfully
+16-06-2026 22:49:02 [main] INFO  com.pages.PIMPage - Step: Select Include Option - Current and Past Employees
+16-06-2026 22:49:02 [main] INFO  com.waits.ExplicitWaitActions - Include Dropdown is clickable
+16-06-2026 22:49:02 [main] INFO  com.pages.PIMPage - Available Option: Current Employees Only
+16-06-2026 22:49:02 [main] INFO  com.pages.PIMPage - Available Option: Current and Past Employees
+16-06-2026 22:49:02 [main] INFO  com.waits.ExplicitWaitActions - Current and Past Employees is clickable
+16-06-2026 22:49:02 [main] INFO  com.pages.PIMPage - Include option selected successfully
+16-06-2026 22:49:02 [main] INFO  com.pages.PIMPage - Step: Enter Supervisor Name - m
+16-06-2026 22:49:02 [main] INFO  com.waits.ExplicitWaitActions - Supervisor Name is available on the screen
+16-06-2026 22:49:05 [main] INFO  com.waits.ExplicitWaitActions - First Supervisor Suggestion is available on the screen
+16-06-2026 22:49:05 [main] INFO  com.waits.ExplicitWaitActions - First Supervisor Suggestion is clickable
+16-06-2026 22:49:05 [main] INFO  com.pages.PIMPage - Supervisor selected successfully
+16-06-2026 22:49:05 [main] INFO  com.pages.PIMPage - Step: Select First Job Title
+16-06-2026 22:49:05 [main] INFO  com.waits.ExplicitWaitActions - Job Title is clickable
+16-06-2026 22:49:05 [main] INFO  com.waits.ExplicitWaitActions - -- Select --
+!@##
+123434
+Account Assistant
+Automaton Tester
+Chief Executive Officer
+Chief Financial Officer
+Chief Technical Officer
+Content Specialist
+Customer Success Manager
+Database Administrator
+Finance Manager
+Financial Analyst
+Head of Support
+HR Associate
+HR Manager
+IT Manager
+Network Administrator
+Payroll Administrator
+Pre-Sales Coordinator
+QA Engineer
+QA Lead
+QA_p8wCu5
+QA_rSG3tK
+QA_VHXDV6
+QA_ytHsOZ
+qwer
+rsjsrii
+Sales Representative
+Social Media Marketer
+Software Architect
+Software Engineer
+Support Specialist
+VP - Client Services
+VP - Sales & Marketing is clickable
+16-06-2026 22:49:05 [main] INFO  com.pages.PIMPage - Job Title selected successfully: -- Select --
+!@##
+123434
+Account Assistant
+Automaton Tester
+Chief Executive Officer
+Chief Financial Officer
+Chief Technical Officer
+Content Specialist
+Customer Success Manager
+Database Administrator
+Finance Manager
+Financial Analyst
+Head of Support
+HR Associate
+HR Manager
+IT Manager
+Network Administrator
+Payroll Administrator
+Pre-Sales Coordinator
+QA Engineer
+QA Lead
+QA_p8wCu5
+QA_rSG3tK
+QA_VHXDV6
+QA_ytHsOZ
+qwer
+rsjsrii
+Sales Representative
+Social Media Marketer
+Software Architect
+Software Engineer
+Support Specialist
+VP - Client Services
+VP - Sales & Marketing
+16-06-2026 22:49:05 [main] INFO  com.pages.PIMPage - Step: Select First Sub Unit
+16-06-2026 22:49:05 [main] INFO  com.waits.ExplicitWaitActions - Sub Unit is clickable
+16-06-2026 22:49:05 [main] INFO  com.waits.ExplicitWaitActions - -- Select --
+OrangeHRM
+Administration
+Engineering
+Development
+Quality Assurance
+TechOps
+Sales & Marketing
+Sales
+Marketing
+Client Services
+Technical Support
+Finance
+Human Resources
+hola
+juan perez is clickable
+16-06-2026 22:49:05 [main] INFO  com.pages.PIMPage - Sub Unit selected successfully: -- Select --
+OrangeHRM
+Administration
+Engineering
+Development
+Quality Assurance
+TechOps
+Sales & Marketing
+Sales
+Marketing
+Client Services
+Technical Support
+Finance
+Human Resources
+hola
+juan perez
+16-06-2026 22:49:05 [main] INFO  com.pages.PIMPage - Step: Click Search Button
+16-06-2026 22:49:05 [main] INFO  com.waits.ExplicitWaitActions - Search Button is clickable
+16-06-2026 22:49:05 [main] INFO  com.pages.PIMPage - Search button clicked successfully
+16-06-2026 22:49:05 [main] INFO  com.waits.ExplicitWaitActions - No Records Found Message is available on the screen
+16-06-2026 22:49:05 [main] INFO  com.pages.PIMPage - 'No Records Found' message is displayed
+16-06-2026 22:49:05 [main] INFO  com.test.PIMPageTest - ========== END TEST : Search Employee ==========
+16-06-2026 22:49:05 [main] INFO  com.waits.ImplicitWaitActions - Implicit wait is set to 20
+16-06-2026 22:49:05 [main] INFO  com.reports.ExtentReportListener - test is added in pool.
+16-06-2026 22:49:05 [main] INFO  com.test.PIMPageTest - ========== START TEST : Add Employee ==========
+16-06-2026 22:49:05 [main] INFO  com.test.PIMPageTest - ========== END TEST : Add Employee ==========
+18-06-2026 14:59:55 [main] INFO  com.reports.ExtentReportListener - test is added in pool.
+18-06-2026 14:59:55 [main] INFO  com.test.LoginTest - ========== START TEST : Login OrangeHRM ==========
+18-06-2026 14:59:56 [main] INFO  com.waits.ExplicitWaitActions - username textbox is available on the screen
+18-06-2026 14:59:56 [main] INFO  com.waits.ExplicitWaitActions - password textbox is available on the screen
+18-06-2026 14:59:56 [main] INFO  com.waits.ExplicitWaitActions - Login button is clickable
+18-06-2026 14:59:56 [main] INFO  com.test.LoginTest - ========== END TEST : Login OrangeHRM ==========
+18-06-2026 14:59:56 [main] INFO  com.waits.ImplicitWaitActions - Implicit wait is set to 20
+18-06-2026 14:59:56 [main] INFO  com.reports.ExtentReportListener - test is added in pool.
+18-06-2026 14:59:56 [main] INFO  com.waits.ImplicitWaitActions - Implicit wait is set to 20
+18-06-2026 14:59:56 [main] INFO  com.reports.ExtentReportListener - test is added in pool.
+18-06-2026 14:59:58 [main] INFO  com.pages.HomePage - Dashboard text is visible
+18-06-2026 14:59:58 [main] INFO  com.waits.ImplicitWaitActions - Implicit wait is set to 20
+18-06-2026 14:59:58 [main] INFO  com.reports.ExtentReportListener - test is added in pool.
+18-06-2026 14:59:58 [main] INFO  com.pages.HomePage - Help Link is visible on the homepage
+18-06-2026 14:59:58 [main] INFO  com.waits.ImplicitWaitActions - Implicit wait is set to 20
+18-06-2026 14:59:58 [main] INFO  com.reports.ExtentReportListener - test is added in pool.
+18-06-2026 14:59:58 [main] INFO  com.pages.HomePage - Upgrade button is visible on the homepage
+18-06-2026 14:59:58 [main] INFO  com.waits.ImplicitWaitActions - Implicit wait is set to 20
+18-06-2026 14:59:58 [main] INFO  com.reports.ExtentReportListener - test is added in pool.
+18-06-2026 14:59:58 [main] INFO  com.pages.HomePage - Profile link is enabled
+18-06-2026 14:59:58 [main] INFO  com.waits.ImplicitWaitActions - Implicit wait is set to 20
+18-06-2026 14:59:58 [main] INFO  com.reports.ExtentReportListener - test is added in pool.
+18-06-2026 14:59:58 [main] INFO  com.pages.HomePage - Scenario: Verify Menu Button is enabled on Home Page
+18-06-2026 14:59:58 [main] INFO  com.pages.HomePage - Given User is logged into the OrangeHRM application
+18-06-2026 14:59:58 [main] INFO  com.pages.HomePage - When User navigates to the Home Page
+18-06-2026 14:59:58 [main] INFO  com.pages.HomePage - Then Menu button is enabled
+18-06-2026 14:59:58 [main] INFO  com.pages.HomePage - And User is able to interact with the Menu button
+18-06-2026 14:59:58 [main] INFO  com.waits.ImplicitWaitActions - Implicit wait is set to 20
+18-06-2026 14:59:58 [main] INFO  com.reports.ExtentReportListener - test is added in pool.
+18-06-2026 14:59:58 [main] INFO  com.pages.HomePage - Menu is hidden
+18-06-2026 14:59:58 [main] INFO  com.waits.ImplicitWaitActions - Implicit wait is set to 20
+18-06-2026 14:59:58 [main] INFO  com.reports.ExtentReportListener - test is added in pool.
+18-06-2026 14:59:59 [main] INFO  com.pages.HomePage - Menu is visible
+18-06-2026 14:59:59 [main] INFO  com.waits.ImplicitWaitActions - Implicit wait is set to 20
+18-06-2026 14:59:59 [main] INFO  com.reports.ExtentReportListener - test is added in pool.
+18-06-2026 14:59:59 [main] INFO  com.test.AdminPageTest - ========== START TEST : Add User ==========
+18-06-2026 14:59:59 [main] INFO  com.pages.AdminPage - Scenario: Verify Admin link is clickable or not
+18-06-2026 14:59:59 [main] INFO  com.waits.ExplicitWaitActions - Admin link is clickable
+18-06-2026 15:00:00 [main] INFO  com.pages.AdminPage - User clicked on Admin
+18-06-2026 15:00:00 [main] INFO  com.pages.AdminPage - And redirected to the Add user form
+18-06-2026 15:00:00 [main] INFO  com.pages.AdminPage - Scenario: Verify if the user is able to click on Add button
+18-06-2026 15:00:01 [main] INFO  com.waits.ExplicitWaitActions - Add Button is clickable
+18-06-2026 15:00:01 [main] INFO  com.pages.AdminPage - Then- User has clicked on Add button
+18-06-2026 15:00:01 [main] INFO  com.pages.AdminPage - And redirected to the add user form
+18-06-2026 15:00:01 [main] INFO  com.pages.AdminPage - Scenario: Verify if the user is able to select the user role
+18-06-2026 15:00:02 [main] INFO  com.waits.ExplicitWaitActions - Select user role is clickable
+18-06-2026 15:00:02 [main] INFO  com.waits.ExplicitWaitActions - Adminoption is clickable
+18-06-2026 15:00:02 [main] INFO  com.pages.AdminPage - User has selected the Admin
+18-06-2026 15:00:02 [main] INFO  com.waits.ExplicitWaitActions - Employee Name is available on the screen
+18-06-2026 15:00:03 [main] INFO  com.waits.ExplicitWaitActions - First Employee Suggestion is available on the screen
+18-06-2026 15:00:03 [main] INFO  com.waits.ExplicitWaitActions - First Employee Suggestion is clickable
+18-06-2026 15:00:03 [main] INFO  com.pages.AdminPage - Scenario: Verify if the user is able to select the status
+18-06-2026 15:00:03 [main] INFO  com.waits.ExplicitWaitActions - Select status is clickable
+18-06-2026 15:00:03 [main] INFO  com.waits.ExplicitWaitActions - Enabledoption is clickable
+18-06-2026 15:00:03 [main] INFO  com.pages.AdminPage - User has selected the Enabled
+18-06-2026 15:00:03 [main] INFO  com.pages.AdminPage - Scenario: Verify if the user is able to enter the username
+18-06-2026 15:00:03 [main] INFO  com.waits.ExplicitWaitActions - User Name is available on the screen
+18-06-2026 15:00:04 [main] INFO  com.pages.AdminPage - Username entered successfully: Akshay
+18-06-2026 15:00:04 [main] INFO  com.pages.AdminPage - Scenario: Verify if the user is able to enter the password
+18-06-2026 15:00:04 [main] INFO  com.waits.ExplicitWaitActions - Password is clickable
+18-06-2026 15:00:04 [main] INFO  com.waits.ExplicitWaitActions - Password is available on the screen
+18-06-2026 15:00:04 [main] INFO  com.pages.AdminPage - Password value is entered
+18-06-2026 15:00:04 [main] INFO  com.pages.AdminPage - Scenario: Verify if the user is able to re-enter the password
+18-06-2026 15:00:04 [main] INFO  com.waits.ExplicitWaitActions - Confirm Password is clickable
+18-06-2026 15:00:04 [main] INFO  com.waits.ExplicitWaitActions - Confirm Password is available on the screen
+18-06-2026 15:00:04 [main] INFO  com.pages.AdminPage - Password is confirmed
+18-06-2026 15:00:04 [main] INFO  com.pages.AdminPage - Scenario: Verify if the user is able to click the save button
+18-06-2026 15:00:04 [main] INFO  com.waits.ExplicitWaitActions - Save Button is clickable
+18-06-2026 15:00:04 [main] INFO  com.test.AdminPageTest - ========== END TEST : Add User ==========
+18-06-2026 15:00:04 [main] INFO  com.waits.ImplicitWaitActions - Implicit wait is set to 20
+18-06-2026 15:00:04 [main] INFO  com.reports.ExtentReportListener - test is added in pool.
+18-06-2026 15:00:04 [main] INFO  com.test.PIMPageTest - ========== START TEST : Search Employee ==========
+18-06-2026 15:00:04 [main] INFO  com.waits.ExplicitWaitActions - PIM menu is clickable
+18-06-2026 15:00:06 [main] INFO  com.pages.PIMPage - Step: Enter Employee Name - Madhaksh
+18-06-2026 15:00:07 [main] INFO  com.waits.ExplicitWaitActions - Employee Name is available on the screen
+18-06-2026 15:00:07 [main] INFO  com.waits.ExplicitWaitActions - First Employee Suggestion is available on the screen
+18-06-2026 15:00:07 [main] INFO  com.waits.ExplicitWaitActions - First Employee Suggestion is clickable
+18-06-2026 15:00:07 [main] INFO  com.pages.PIMPage - Employee name selected successfully
+18-06-2026 15:00:07 [main] INFO  com.pages.PIMPage - Step: Enter Employee ID - 290
+18-06-2026 15:00:07 [main] INFO  com.waits.ExplicitWaitActions - Employee ID is available on the screen
+18-06-2026 15:00:07 [main] INFO  com.pages.PIMPage - Employee ID entered successfully
+18-06-2026 15:00:07 [main] INFO  com.pages.PIMPage - Step: Select Employee Status - Freelance
+18-06-2026 15:00:07 [main] INFO  com.waits.ExplicitWaitActions - Employment Status is clickable
+18-06-2026 15:00:07 [main] INFO  com.pages.PIMPage - Available Status: Freelance
+18-06-2026 15:00:07 [main] INFO  com.waits.ExplicitWaitActions - Freelance is clickable
+18-06-2026 15:00:07 [main] INFO  com.pages.PIMPage - Employee Status selected successfully
+18-06-2026 15:00:07 [main] INFO  com.pages.PIMPage - Step: Select Include Option - Current and Past Employees
+18-06-2026 15:00:07 [main] INFO  com.waits.ExplicitWaitActions - Include Dropdown is clickable
+18-06-2026 15:00:07 [main] INFO  com.pages.PIMPage - Available Option: Current Employees Only
+18-06-2026 15:00:07 [main] INFO  com.pages.PIMPage - Available Option: Current and Past Employees
+18-06-2026 15:00:07 [main] INFO  com.waits.ExplicitWaitActions - Current and Past Employees is clickable
+18-06-2026 15:00:07 [main] INFO  com.pages.PIMPage - Include option selected successfully
+18-06-2026 15:00:07 [main] INFO  com.pages.PIMPage - Step: Enter Supervisor Name - m
+18-06-2026 15:00:07 [main] INFO  com.waits.ExplicitWaitActions - Supervisor Name is available on the screen
+18-06-2026 15:00:09 [main] INFO  com.waits.ExplicitWaitActions - First Supervisor Suggestion is available on the screen
+18-06-2026 15:00:09 [main] INFO  com.waits.ExplicitWaitActions - First Supervisor Suggestion is clickable
+18-06-2026 15:00:09 [main] INFO  com.pages.PIMPage - Supervisor selected successfully
+18-06-2026 15:00:09 [main] INFO  com.pages.PIMPage - Step: Select First Job Title
+18-06-2026 15:00:09 [main] INFO  com.waits.ExplicitWaitActions - Job Title is clickable
+18-06-2026 15:00:09 [main] INFO  com.waits.ExplicitWaitActions - -- Select --
+Automaton Tester
+Chief Executive Officer
+Chief Financial Officer
+Chief Technical Officer
+Content Specialist
+Customer Success Manager
+Database Administrator
+Finance Manager
+Financial Analyst
+Head of Support
+HR Associate
+HR Manager
+HR Officer
+HR Recruiter
+IT Manager
+Network Administrator
+Payroll Administrator
+Pre-Sales Coordinator
+Programmer Analyst Trainee
+QA eng
+QA Engineer
+QA Lead
+qwer
+rsjsrii
+Sales Representative
+Social Media Marketer
+Software Architect
+Software Engineer
+Support Specialist
+VP - Client Services
+VP - Sales & Marketing is clickable
+18-06-2026 15:00:09 [main] INFO  com.pages.PIMPage - Job Title selected successfully: -- Select --
+Automaton Tester
+Chief Executive Officer
+Chief Financial Officer
+Chief Technical Officer
+Content Specialist
+Customer Success Manager
+Database Administrator
+Finance Manager
+Financial Analyst
+Head of Support
+HR Associate
+HR Manager
+HR Officer
+HR Recruiter
+IT Manager
+Network Administrator
+Payroll Administrator
+Pre-Sales Coordinator
+Programmer Analyst Trainee
+QA eng
+QA Engineer
+QA Lead
+qwer
+rsjsrii
+Sales Representative
+Social Media Marketer
+Software Architect
+Software Engineer
+Support Specialist
+VP - Client Services
+VP - Sales & Marketing
+18-06-2026 15:00:09 [main] INFO  com.pages.PIMPage - Step: Select First Sub Unit
+18-06-2026 15:00:09 [main] INFO  com.waits.ExplicitWaitActions - Sub Unit is clickable
+18-06-2026 15:00:09 [main] INFO  com.waits.ExplicitWaitActions - -- Select --
+OrangeHRMS
+Administration
+Engineering
+Development
+Quality Assurance
+TechOps
+Sales & Marketing
+Sales
+Marketing
+Client Services
+Technical Support
+Finance
+Human Resources
+hola
+juan perez is clickable
+18-06-2026 15:00:09 [main] INFO  com.pages.PIMPage - Sub Unit selected successfully: -- Select --
+OrangeHRMS
+Administration
+Engineering
+Development
+Quality Assurance
+TechOps
+Sales & Marketing
+Sales
+Marketing
+Client Services
+Technical Support
+Finance
+Human Resources
+hola
+juan perez
+18-06-2026 15:00:09 [main] INFO  com.pages.PIMPage - Step: Click Search Button
+18-06-2026 15:00:09 [main] INFO  com.waits.ExplicitWaitActions - Search Button is clickable
+18-06-2026 15:00:09 [main] INFO  com.pages.PIMPage - Search button clicked successfully
+18-06-2026 15:00:10 [main] INFO  com.waits.ExplicitWaitActions - No Records Found Message is available on the screen
+18-06-2026 15:00:10 [main] INFO  com.pages.PIMPage - 'No Records Found' message is displayed
+18-06-2026 15:00:10 [main] INFO  com.test.PIMPageTest - ========== END TEST : Search Employee ==========
+18-06-2026 15:00:10 [main] INFO  com.waits.ImplicitWaitActions - Implicit wait is set to 20
+18-06-2026 15:00:10 [main] INFO  com.reports.ExtentReportListener - test is added in pool.
+18-06-2026 15:00:10 [main] INFO  com.test.PIMPageTest - ========== START TEST : Add Employee ==========
+18-06-2026 15:00:10 [main] INFO  com.pages.PIMPage - Step: Click on Add button
+18-06-2026 15:00:10 [main] INFO  com.waits.ExplicitWaitActions - Add Button is clickable
+18-06-2026 15:00:10 [main] INFO  com.pages.PIMPage - Add button clicked successfully
+18-06-2026 15:00:10 [main] INFO  com.pages.PIMPage - Step: Enter First Name
+18-06-2026 15:00:11 [main] INFO  com.waits.ExplicitWaitActions - First Name textbox is available on the screen
+18-06-2026 15:00:11 [main] INFO  com.pages.PIMPage - First name entered in the textbox
+18-06-2026 15:00:11 [main] INFO  com.pages.PIMPage - Step: Enter Middle Name
+18-06-2026 15:00:11 [main] INFO  com.waits.ExplicitWaitActions - Middle Name textbox is available on the screen
+18-06-2026 15:00:11 [main] INFO  com.pages.PIMPage - Middle name entered in the textbox
+18-06-2026 15:00:11 [main] INFO  com.pages.PIMPage - Step: Enter last name
+18-06-2026 15:00:11 [main] INFO  com.waits.ExplicitWaitActions - Last Name textbox is available on the screen
+18-06-2026 15:00:11 [main] INFO  com.pages.PIMPage - Last name entered in the textbox
+18-06-2026 15:00:11 [main] INFO  com.pages.PIMPage - Uploading image : /Users/akshaykumar/OrangeHRM_Automation/src/test/resources/ProfilePhoto.jpg
+18-06-2026 15:00:32 [main] ERROR com.waits.ExplicitWaitActions - Error occured while waiting for the element to be visibleExpected condition failed: waiting for visibility of [[ChromeDriver: chrome on mac (e820bf7b97fffd8a8ae5ac8f9ea4b7c0)] -> xpath: //input[@type='file']]
+(tried for 20 seconds with 500 milliseconds interval)
+Build info: version: '4.43.0', revision: 'dd0f534'
+System info: os.name: 'Mac OS X', os.arch: 'aarch64', os.version: '26.2', java.version: '21.0.9'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 149.0.7827.115, chrome: {chromedriverVersion: 149.0.7827.155 (07b52360cc1..., userDataDir: /var/folders/mx/hnx5bw153h3...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:64018}, goog:processID: 44380, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: mac, proxy: Proxy(), se:cdp: ws://localhost:64018/devtoo..., se:cdpVersion: 149.0.7827.115, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: e820bf7b97fffd8a8ae5ac8f9ea4b7c0
+18-06-2026 15:00:32 [main] INFO  com.pages.PIMPage - Profile image uploaded successfully
+18-06-2026 15:00:32 [main] INFO  com.test.PIMPageTest - ========== END TEST : Add Employee ==========
+18-06-2026 15:03:31 [main] INFO  com.reports.ExtentReportListener - test is added in pool.
+18-06-2026 15:03:31 [main] INFO  com.test.LoginTest - ========== START TEST : Login OrangeHRM ==========
+18-06-2026 15:03:33 [main] INFO  com.waits.ExplicitWaitActions - username textbox is available on the screen
+18-06-2026 15:03:33 [main] INFO  com.waits.ExplicitWaitActions - password textbox is available on the screen
+18-06-2026 15:03:33 [main] INFO  com.waits.ExplicitWaitActions - Login button is clickable
+18-06-2026 15:03:37 [main] INFO  com.test.LoginTest - ========== END TEST : Login OrangeHRM ==========
+18-06-2026 15:03:37 [main] INFO  com.waits.ImplicitWaitActions - Implicit wait is set to 20
+18-06-2026 15:03:37 [main] INFO  com.reports.ExtentReportListener - test is added in pool.
+18-06-2026 15:03:37 [main] INFO  com.pages.HomePage - Current_url is same as expected and the value is: https://opensource-demo.orangehrmlive.com/web/index.php/dashboard/index
+18-06-2026 15:03:37 [main] INFO  com.waits.ImplicitWaitActions - Implicit wait is set to 20
+18-06-2026 15:03:37 [main] INFO  com.reports.ExtentReportListener - test is added in pool.
+18-06-2026 15:03:38 [main] INFO  com.pages.HomePage - Dashboard text is visible
+18-06-2026 15:03:38 [main] INFO  com.waits.ImplicitWaitActions - Implicit wait is set to 20
+18-06-2026 15:03:38 [main] INFO  com.reports.ExtentReportListener - test is added in pool.
+18-06-2026 15:03:38 [main] INFO  com.pages.HomePage - Help Link is visible on the homepage
+18-06-2026 15:03:38 [main] INFO  com.waits.ImplicitWaitActions - Implicit wait is set to 20
+18-06-2026 15:03:38 [main] INFO  com.reports.ExtentReportListener - test is added in pool.
+18-06-2026 15:03:38 [main] INFO  com.pages.HomePage - Upgrade button is visible on the homepage
+18-06-2026 15:03:38 [main] INFO  com.waits.ImplicitWaitActions - Implicit wait is set to 20
+18-06-2026 15:03:38 [main] INFO  com.reports.ExtentReportListener - test is added in pool.
+18-06-2026 15:03:38 [main] INFO  com.pages.HomePage - Profile link is enabled
+18-06-2026 15:03:38 [main] INFO  com.waits.ImplicitWaitActions - Implicit wait is set to 20
+18-06-2026 15:03:38 [main] INFO  com.reports.ExtentReportListener - test is added in pool.
+18-06-2026 15:03:38 [main] INFO  com.pages.HomePage - Scenario: Verify Menu Button is enabled on Home Page
+18-06-2026 15:03:38 [main] INFO  com.pages.HomePage - Given User is logged into the OrangeHRM application
+18-06-2026 15:03:38 [main] INFO  com.pages.HomePage - When User navigates to the Home Page
+18-06-2026 15:03:38 [main] INFO  com.pages.HomePage - Then Menu button is enabled
+18-06-2026 15:03:38 [main] INFO  com.pages.HomePage - And User is able to interact with the Menu button
+18-06-2026 15:03:38 [main] INFO  com.waits.ImplicitWaitActions - Implicit wait is set to 20
+18-06-2026 15:03:38 [main] INFO  com.reports.ExtentReportListener - test is added in pool.
+18-06-2026 15:03:38 [main] INFO  com.pages.HomePage - Menu is hidden
+18-06-2026 15:03:38 [main] INFO  com.waits.ImplicitWaitActions - Implicit wait is set to 20
+18-06-2026 15:03:38 [main] INFO  com.reports.ExtentReportListener - test is added in pool.
+18-06-2026 15:03:38 [main] INFO  com.pages.HomePage - Menu is visible
+18-06-2026 15:03:38 [main] INFO  com.waits.ImplicitWaitActions - Implicit wait is set to 20
+18-06-2026 15:03:38 [main] INFO  com.reports.ExtentReportListener - test is added in pool.
+18-06-2026 15:03:38 [main] INFO  com.test.AdminPageTest - ========== START TEST : Add User ==========
+18-06-2026 15:03:38 [main] INFO  com.pages.AdminPage - Scenario: Verify Admin link is clickable or not
+18-06-2026 15:03:38 [main] INFO  com.waits.ExplicitWaitActions - Admin link is clickable
+18-06-2026 15:03:44 [main] INFO  com.pages.AdminPage - User clicked on Admin
+18-06-2026 15:03:44 [main] INFO  com.pages.AdminPage - And redirected to the Add user form
+18-06-2026 15:03:44 [main] INFO  com.pages.AdminPage - Scenario: Verify if the user is able to click on Add button
+18-06-2026 15:03:45 [main] INFO  com.waits.ExplicitWaitActions - Add Button is clickable
+18-06-2026 15:03:47 [main] INFO  com.pages.AdminPage - Then- User has clicked on Add button
+18-06-2026 15:03:47 [main] INFO  com.pages.AdminPage - And redirected to the add user form
+18-06-2026 15:03:47 [main] INFO  com.pages.AdminPage - Scenario: Verify if the user is able to select the user role
+18-06-2026 15:03:49 [main] INFO  com.waits.ExplicitWaitActions - Select user role is clickable
+18-06-2026 15:03:49 [main] INFO  com.waits.ExplicitWaitActions - Adminoption is clickable
+18-06-2026 15:03:49 [main] INFO  com.pages.AdminPage - User has selected the Admin
+18-06-2026 15:03:49 [main] INFO  com.waits.ExplicitWaitActions - Employee Name is available on the screen
+18-06-2026 15:03:51 [main] INFO  com.waits.ExplicitWaitActions - First Employee Suggestion is available on the screen
+18-06-2026 15:03:51 [main] INFO  com.waits.ExplicitWaitActions - First Employee Suggestion is clickable
+18-06-2026 15:03:51 [main] INFO  com.pages.AdminPage - Scenario: Verify if the user is able to select the status
+18-06-2026 15:03:51 [main] INFO  com.waits.ExplicitWaitActions - Select status is clickable
+18-06-2026 15:03:51 [main] INFO  com.waits.ExplicitWaitActions - Enabledoption is clickable
+18-06-2026 15:03:51 [main] INFO  com.pages.AdminPage - User has selected the Enabled
+18-06-2026 15:03:51 [main] INFO  com.pages.AdminPage - Scenario: Verify if the user is able to enter the username
+18-06-2026 15:03:51 [main] INFO  com.waits.ExplicitWaitActions - User Name is available on the screen
+18-06-2026 15:03:51 [main] INFO  com.pages.AdminPage - Username entered successfully: Akshay
+18-06-2026 15:03:51 [main] INFO  com.pages.AdminPage - Scenario: Verify if the user is able to enter the password
+18-06-2026 15:03:51 [main] INFO  com.waits.ExplicitWaitActions - Password is clickable
+18-06-2026 15:03:51 [main] INFO  com.waits.ExplicitWaitActions - Password is available on the screen
+18-06-2026 15:03:51 [main] INFO  com.pages.AdminPage - Password value is entered
+18-06-2026 15:03:51 [main] INFO  com.pages.AdminPage - Scenario: Verify if the user is able to re-enter the password
+18-06-2026 15:03:51 [main] INFO  com.waits.ExplicitWaitActions - Confirm Password is clickable
+18-06-2026 15:03:51 [main] INFO  com.waits.ExplicitWaitActions - Confirm Password is available on the screen
+18-06-2026 15:03:51 [main] INFO  com.pages.AdminPage - Password is confirmed
+18-06-2026 15:03:51 [main] INFO  com.pages.AdminPage - Scenario: Verify if the user is able to click the save button
+18-06-2026 15:03:51 [main] INFO  com.waits.ExplicitWaitActions - Save Button is clickable
+18-06-2026 15:03:51 [main] INFO  com.test.AdminPageTest - ========== END TEST : Add User ==========
+18-06-2026 15:03:52 [main] INFO  com.waits.ImplicitWaitActions - Implicit wait is set to 20
+18-06-2026 15:03:52 [main] INFO  com.reports.ExtentReportListener - test is added in pool.
+18-06-2026 15:03:52 [main] INFO  com.test.PIMPageTest - ========== START TEST : Search Employee ==========
+18-06-2026 15:03:52 [main] INFO  com.waits.ExplicitWaitActions - PIM menu is clickable
+18-06-2026 15:03:54 [main] INFO  com.pages.PIMPage - Step: Enter Employee Name - Madhaksh
+18-06-2026 15:03:54 [main] INFO  com.waits.ExplicitWaitActions - Employee Name is available on the screen
+18-06-2026 15:03:54 [main] INFO  com.waits.ExplicitWaitActions - First Employee Suggestion is available on the screen
+18-06-2026 15:03:54 [main] INFO  com.waits.ExplicitWaitActions - First Employee Suggestion is clickable
+18-06-2026 15:03:54 [main] INFO  com.pages.PIMPage - Employee name selected successfully
+18-06-2026 15:03:54 [main] INFO  com.pages.PIMPage - Step: Enter Employee ID - 290
+18-06-2026 15:03:54 [main] INFO  com.waits.ExplicitWaitActions - Employee ID is available on the screen
+18-06-2026 15:03:54 [main] INFO  com.pages.PIMPage - Employee ID entered successfully
+18-06-2026 15:03:54 [main] INFO  com.pages.PIMPage - Step: Select Employee Status - Freelance
+18-06-2026 15:03:54 [main] INFO  com.waits.ExplicitWaitActions - Employment Status is clickable
+18-06-2026 15:03:55 [main] INFO  com.pages.PIMPage - Available Status: Freelance
+18-06-2026 15:03:55 [main] INFO  com.waits.ExplicitWaitActions - Freelance is clickable
+18-06-2026 15:03:55 [main] INFO  com.pages.PIMPage - Employee Status selected successfully
+18-06-2026 15:03:55 [main] INFO  com.pages.PIMPage - Step: Select Include Option - Current and Past Employees
+18-06-2026 15:03:55 [main] INFO  com.waits.ExplicitWaitActions - Include Dropdown is clickable
+18-06-2026 15:03:55 [main] INFO  com.pages.PIMPage - Available Option: Current Employees Only
+18-06-2026 15:03:55 [main] INFO  com.pages.PIMPage - Available Option: Current and Past Employees
+18-06-2026 15:03:55 [main] INFO  com.waits.ExplicitWaitActions - Current and Past Employees is clickable
+18-06-2026 15:03:55 [main] INFO  com.pages.PIMPage - Include option selected successfully
+18-06-2026 15:03:55 [main] INFO  com.pages.PIMPage - Step: Enter Supervisor Name - m
+18-06-2026 15:03:55 [main] INFO  com.waits.ExplicitWaitActions - Supervisor Name is available on the screen
+18-06-2026 15:03:56 [main] INFO  com.waits.ExplicitWaitActions - First Supervisor Suggestion is available on the screen
+18-06-2026 15:03:56 [main] INFO  com.waits.ExplicitWaitActions - First Supervisor Suggestion is clickable
+18-06-2026 15:03:56 [main] INFO  com.pages.PIMPage - Supervisor selected successfully
+18-06-2026 15:03:56 [main] INFO  com.pages.PIMPage - Step: Select First Job Title
+18-06-2026 15:03:56 [main] INFO  com.waits.ExplicitWaitActions - Job Title is clickable
+18-06-2026 15:03:56 [main] INFO  com.waits.ExplicitWaitActions - -- Select --
+Chief Executive Officer
+Chief Financial Officer
+Chief Technical Officer
+Content Specialist
+Customer Success Manager
+Database Administrator
+Finance Manager
+Financial Analyst
+Head of Support
+HR Associate
+HR Manager
+HR Officer
+HR Recruiter
+IT Manager
+Network Administrator
+Payroll Administrator
+Pre-Sales Coordinator
+Programmer Analyst Trainee
+QA eng
+QA Engineer
+QA Lead
+qwer
+rsjsrii
+Sales Representative
+Social Media Marketer
+Software Architect
+Software Engineer
+Support Specialist
+VP - Client Services
+VP - Sales & Marketing is clickable
+18-06-2026 15:03:56 [main] INFO  com.pages.PIMPage - Job Title selected successfully: -- Select --
+Chief Executive Officer
+Chief Financial Officer
+Chief Technical Officer
+Content Specialist
+Customer Success Manager
+Database Administrator
+Finance Manager
+Financial Analyst
+Head of Support
+HR Associate
+HR Manager
+HR Officer
+HR Recruiter
+IT Manager
+Network Administrator
+Payroll Administrator
+Pre-Sales Coordinator
+Programmer Analyst Trainee
+QA eng
+QA Engineer
+QA Lead
+qwer
+rsjsrii
+Sales Representative
+Social Media Marketer
+Software Architect
+Software Engineer
+Support Specialist
+VP - Client Services
+VP - Sales & Marketing
+18-06-2026 15:03:56 [main] INFO  com.pages.PIMPage - Step: Select First Sub Unit
+18-06-2026 15:03:57 [main] INFO  com.waits.ExplicitWaitActions - Sub Unit is clickable
+18-06-2026 15:03:57 [main] INFO  com.waits.ExplicitWaitActions - -- Select --
+OrangeHRMS
+Administration
+Engineering
+Development
+Quality Assurance
+TechOps
+Sales & Marketing
+Sales
+Marketing
+Client Services
+Technical Support
+Finance
+Human Resources
+hola
+juan perez is clickable
+18-06-2026 15:03:57 [main] INFO  com.pages.PIMPage - Sub Unit selected successfully: -- Select --
+OrangeHRMS
+Administration
+Engineering
+Development
+Quality Assurance
+TechOps
+Sales & Marketing
+Sales
+Marketing
+Client Services
+Technical Support
+Finance
+Human Resources
+hola
+juan perez
+18-06-2026 15:03:57 [main] INFO  com.pages.PIMPage - Step: Click Search Button
+18-06-2026 15:03:57 [main] INFO  com.waits.ExplicitWaitActions - Search Button is clickable
+18-06-2026 15:03:57 [main] INFO  com.pages.PIMPage - Search button clicked successfully
+18-06-2026 15:03:57 [main] INFO  com.waits.ExplicitWaitActions - No Records Found Message is available on the screen
+18-06-2026 15:03:57 [main] INFO  com.pages.PIMPage - 'No Records Found' message is displayed
+18-06-2026 15:03:57 [main] INFO  com.test.PIMPageTest - ========== END TEST : Search Employee ==========
+18-06-2026 15:03:57 [main] INFO  com.waits.ImplicitWaitActions - Implicit wait is set to 20
+18-06-2026 15:03:57 [main] INFO  com.reports.ExtentReportListener - test is added in pool.
+18-06-2026 15:03:57 [main] INFO  com.test.PIMPageTest - ========== START TEST : Add Employee ==========
+18-06-2026 15:03:57 [main] INFO  com.pages.PIMPage - Step: Click on Add button
+18-06-2026 15:03:57 [main] INFO  com.waits.ExplicitWaitActions - Add Button is clickable
+18-06-2026 15:03:57 [main] INFO  com.pages.PIMPage - Add button clicked successfully
+18-06-2026 15:03:57 [main] INFO  com.pages.PIMPage - Step: Enter First Name
+18-06-2026 15:03:58 [main] INFO  com.waits.ExplicitWaitActions - First Name textbox is available on the screen
+18-06-2026 15:03:58 [main] INFO  com.pages.PIMPage - First name entered in the textbox
+18-06-2026 15:03:58 [main] INFO  com.pages.PIMPage - Step: Enter Middle Name
+18-06-2026 15:03:58 [main] INFO  com.waits.ExplicitWaitActions - Middle Name textbox is available on the screen
+18-06-2026 15:03:58 [main] INFO  com.pages.PIMPage - Middle name entered in the textbox
+18-06-2026 15:03:58 [main] INFO  com.pages.PIMPage - Step: Enter last name
+18-06-2026 15:03:58 [main] INFO  com.waits.ExplicitWaitActions - Last Name textbox is available on the screen
+18-06-2026 15:03:58 [main] INFO  com.pages.PIMPage - Last name entered in the textbox
+18-06-2026 15:03:58 [main] INFO  com.pages.PIMPage - Uploading image : /Users/akshaykumar/OrangeHRM_Automation/src/test/resources/ProfilePhoto.jpg
+18-06-2026 15:04:18 [main] ERROR com.waits.ExplicitWaitActions - Error occured while waiting for the element to be visibleExpected condition failed: waiting for visibility of [[ChromeDriver: chrome on mac (010bbd1e971e7565310182c696302ee4)] -> xpath: //input[contains(@class,'oxd-file-input')]]
+(tried for 20 seconds with 500 milliseconds interval)
+Build info: version: '4.43.0', revision: 'dd0f534'
+System info: os.name: 'Mac OS X', os.arch: 'aarch64', os.version: '26.2', java.version: '21.0.9'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 149.0.7827.115, chrome: {chromedriverVersion: 149.0.7827.155 (07b52360cc1..., userDataDir: /var/folders/mx/hnx5bw153h3...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:64954}, goog:processID: 44636, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: mac, proxy: Proxy(), se:cdp: ws://localhost:64954/devtoo..., se:cdpVersion: 149.0.7827.115, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 010bbd1e971e7565310182c696302ee4
+18-06-2026 15:04:18 [main] INFO  com.pages.PIMPage - Profile image uploaded successfully
+18-06-2026 15:04:18 [main] INFO  com.test.PIMPageTest - ========== END TEST : Add Employee ==========
+18-06-2026 15:07:12 [main] INFO  com.reports.ExtentReportListener - test is added in pool.
+18-06-2026 15:07:12 [main] INFO  com.test.LoginTest - ========== START TEST : Login OrangeHRM ==========
+18-06-2026 15:07:13 [main] INFO  com.waits.ExplicitWaitActions - username textbox is available on the screen
+18-06-2026 15:07:13 [main] INFO  com.waits.ExplicitWaitActions - password textbox is available on the screen
+18-06-2026 15:07:13 [main] INFO  com.waits.ExplicitWaitActions - Login button is clickable
+18-06-2026 15:07:13 [main] INFO  com.test.LoginTest - ========== END TEST : Login OrangeHRM ==========
+18-06-2026 15:07:13 [main] INFO  com.waits.ImplicitWaitActions - Implicit wait is set to 20
+18-06-2026 15:07:13 [main] INFO  com.reports.ExtentReportListener - test is added in pool.
+18-06-2026 15:07:14 [main] INFO  com.pages.HomePage - Current_url is same as expected and the value is: https://opensource-demo.orangehrmlive.com/web/index.php/dashboard/index
+18-06-2026 15:07:14 [main] INFO  com.waits.ImplicitWaitActions - Implicit wait is set to 20
+18-06-2026 15:07:14 [main] INFO  com.reports.ExtentReportListener - test is added in pool.
+18-06-2026 15:07:15 [main] INFO  com.pages.HomePage - Dashboard text is visible
+18-06-2026 15:07:15 [main] INFO  com.waits.ImplicitWaitActions - Implicit wait is set to 20
+18-06-2026 15:07:15 [main] INFO  com.reports.ExtentReportListener - test is added in pool.
+18-06-2026 15:07:15 [main] INFO  com.pages.HomePage - Help Link is visible on the homepage
+18-06-2026 15:07:15 [main] INFO  com.waits.ImplicitWaitActions - Implicit wait is set to 20
+18-06-2026 15:07:15 [main] INFO  com.reports.ExtentReportListener - test is added in pool.
+18-06-2026 15:07:15 [main] INFO  com.pages.HomePage - Upgrade button is visible on the homepage
+18-06-2026 15:07:15 [main] INFO  com.waits.ImplicitWaitActions - Implicit wait is set to 20
+18-06-2026 15:07:15 [main] INFO  com.reports.ExtentReportListener - test is added in pool.
+18-06-2026 15:07:15 [main] INFO  com.pages.HomePage - Profile link is enabled
+18-06-2026 15:07:15 [main] INFO  com.waits.ImplicitWaitActions - Implicit wait is set to 20
+18-06-2026 15:07:15 [main] INFO  com.reports.ExtentReportListener - test is added in pool.
+18-06-2026 15:07:15 [main] INFO  com.pages.HomePage - Scenario: Verify Menu Button is enabled on Home Page
+18-06-2026 15:07:15 [main] INFO  com.pages.HomePage - Given User is logged into the OrangeHRM application
+18-06-2026 15:07:15 [main] INFO  com.pages.HomePage - When User navigates to the Home Page
+18-06-2026 15:07:15 [main] INFO  com.pages.HomePage - Then Menu button is enabled
+18-06-2026 15:07:15 [main] INFO  com.pages.HomePage - And User is able to interact with the Menu button
+18-06-2026 15:07:15 [main] INFO  com.waits.ImplicitWaitActions - Implicit wait is set to 20
+18-06-2026 15:07:15 [main] INFO  com.reports.ExtentReportListener - test is added in pool.
+18-06-2026 15:07:15 [main] INFO  com.pages.HomePage - Menu is hidden
+18-06-2026 15:07:15 [main] INFO  com.waits.ImplicitWaitActions - Implicit wait is set to 20
+18-06-2026 15:07:15 [main] INFO  com.reports.ExtentReportListener - test is added in pool.
+18-06-2026 15:07:15 [main] INFO  com.pages.HomePage - Menu is visible
+18-06-2026 15:07:15 [main] INFO  com.waits.ImplicitWaitActions - Implicit wait is set to 20
+18-06-2026 15:07:15 [main] INFO  com.reports.ExtentReportListener - test is added in pool.
+18-06-2026 15:07:15 [main] INFO  com.test.AdminPageTest - ========== START TEST : Add User ==========
+18-06-2026 15:07:15 [main] INFO  com.pages.AdminPage - Scenario: Verify Admin link is clickable or not
+18-06-2026 15:07:15 [main] INFO  com.waits.ExplicitWaitActions - Admin link is clickable
+18-06-2026 15:07:18 [main] INFO  com.pages.AdminPage - User clicked on Admin
+18-06-2026 15:07:18 [main] INFO  com.pages.AdminPage - And redirected to the Add user form
+18-06-2026 15:07:18 [main] INFO  com.pages.AdminPage - Scenario: Verify if the user is able to click on Add button
+18-06-2026 15:07:19 [main] INFO  com.waits.ExplicitWaitActions - Add Button is clickable
+18-06-2026 15:07:20 [main] INFO  com.pages.AdminPage - Then- User has clicked on Add button
+18-06-2026 15:07:20 [main] INFO  com.pages.AdminPage - And redirected to the add user form
+18-06-2026 15:07:20 [main] INFO  com.pages.AdminPage - Scenario: Verify if the user is able to select the user role
+18-06-2026 15:07:21 [main] INFO  com.waits.ExplicitWaitActions - Select user role is clickable
+18-06-2026 15:07:21 [main] INFO  com.waits.ExplicitWaitActions - Adminoption is clickable
+18-06-2026 15:07:21 [main] INFO  com.pages.AdminPage - User has selected the Admin
+18-06-2026 15:07:21 [main] INFO  com.waits.ExplicitWaitActions - Employee Name is available on the screen
+18-06-2026 15:07:23 [main] INFO  com.waits.ExplicitWaitActions - First Employee Suggestion is available on the screen
+18-06-2026 15:07:23 [main] INFO  com.waits.ExplicitWaitActions - First Employee Suggestion is clickable
+18-06-2026 15:07:23 [main] INFO  com.pages.AdminPage - Scenario: Verify if the user is able to select the status
+18-06-2026 15:07:23 [main] INFO  com.waits.ExplicitWaitActions - Select status is clickable
+18-06-2026 15:07:23 [main] INFO  com.waits.ExplicitWaitActions - Enabledoption is clickable
+18-06-2026 15:07:23 [main] INFO  com.pages.AdminPage - User has selected the Enabled
+18-06-2026 15:07:23 [main] INFO  com.pages.AdminPage - Scenario: Verify if the user is able to enter the username
+18-06-2026 15:07:23 [main] INFO  com.waits.ExplicitWaitActions - User Name is available on the screen
+18-06-2026 15:07:23 [main] INFO  com.pages.AdminPage - Username entered successfully: Akshay
+18-06-2026 15:07:23 [main] INFO  com.pages.AdminPage - Scenario: Verify if the user is able to enter the password
+18-06-2026 15:07:23 [main] INFO  com.waits.ExplicitWaitActions - Password is clickable
+18-06-2026 15:07:23 [main] INFO  com.waits.ExplicitWaitActions - Password is available on the screen
+18-06-2026 15:07:23 [main] INFO  com.pages.AdminPage - Password value is entered
+18-06-2026 15:07:23 [main] INFO  com.pages.AdminPage - Scenario: Verify if the user is able to re-enter the password
+18-06-2026 15:07:23 [main] INFO  com.waits.ExplicitWaitActions - Confirm Password is clickable
+18-06-2026 15:07:23 [main] INFO  com.waits.ExplicitWaitActions - Confirm Password is available on the screen
+18-06-2026 15:07:23 [main] INFO  com.pages.AdminPage - Password is confirmed
+18-06-2026 15:07:23 [main] INFO  com.pages.AdminPage - Scenario: Verify if the user is able to click the save button
+18-06-2026 15:07:23 [main] INFO  com.waits.ExplicitWaitActions - Save Button is clickable
+18-06-2026 15:07:24 [main] INFO  com.test.AdminPageTest - ========== END TEST : Add User ==========
+18-06-2026 15:07:24 [main] INFO  com.waits.ImplicitWaitActions - Implicit wait is set to 20
+18-06-2026 15:07:24 [main] INFO  com.reports.ExtentReportListener - test is added in pool.
+18-06-2026 15:07:24 [main] INFO  com.test.PIMPageTest - ========== START TEST : Search Employee ==========
+18-06-2026 15:07:24 [main] INFO  com.waits.ExplicitWaitActions - PIM menu is clickable
+18-06-2026 15:07:26 [main] INFO  com.pages.PIMPage - Step: Enter Employee Name - Madhaksh
+18-06-2026 15:07:27 [main] INFO  com.waits.ExplicitWaitActions - Employee Name is available on the screen
+18-06-2026 15:07:27 [main] INFO  com.waits.ExplicitWaitActions - First Employee Suggestion is available on the screen
+18-06-2026 15:07:27 [main] INFO  com.waits.ExplicitWaitActions - First Employee Suggestion is clickable
+18-06-2026 15:07:27 [main] INFO  com.pages.PIMPage - Employee name selected successfully
+18-06-2026 15:07:27 [main] INFO  com.pages.PIMPage - Step: Enter Employee ID - 290
+18-06-2026 15:07:27 [main] INFO  com.waits.ExplicitWaitActions - Employee ID is available on the screen
+18-06-2026 15:07:27 [main] INFO  com.pages.PIMPage - Employee ID entered successfully
+18-06-2026 15:07:27 [main] INFO  com.pages.PIMPage - Step: Select Employee Status - Freelance
+18-06-2026 15:07:27 [main] INFO  com.waits.ExplicitWaitActions - Employment Status is clickable
+18-06-2026 15:07:29 [main] INFO  com.pages.PIMPage - Available Status: Freelance
+18-06-2026 15:07:29 [main] INFO  com.waits.ExplicitWaitActions - Freelance is clickable
+18-06-2026 15:07:29 [main] INFO  com.pages.PIMPage - Employee Status selected successfully
+18-06-2026 15:07:29 [main] INFO  com.pages.PIMPage - Step: Select Include Option - Current and Past Employees
+18-06-2026 15:07:29 [main] INFO  com.waits.ExplicitWaitActions - Include Dropdown is clickable
+18-06-2026 15:07:29 [main] INFO  com.pages.PIMPage - Available Option: Current Employees Only
+18-06-2026 15:07:29 [main] INFO  com.pages.PIMPage - Available Option: Current and Past Employees
+18-06-2026 15:07:29 [main] INFO  com.waits.ExplicitWaitActions - Current and Past Employees is clickable
+18-06-2026 15:07:29 [main] INFO  com.pages.PIMPage - Include option selected successfully
+18-06-2026 15:07:29 [main] INFO  com.pages.PIMPage - Step: Enter Supervisor Name - m
+18-06-2026 15:07:29 [main] INFO  com.waits.ExplicitWaitActions - Supervisor Name is available on the screen
+18-06-2026 15:07:31 [main] INFO  com.waits.ExplicitWaitActions - First Supervisor Suggestion is available on the screen
+18-06-2026 15:07:31 [main] INFO  com.waits.ExplicitWaitActions - First Supervisor Suggestion is clickable
+18-06-2026 15:07:31 [main] INFO  com.pages.PIMPage - Supervisor selected successfully
+18-06-2026 15:07:31 [main] INFO  com.pages.PIMPage - Step: Select First Job Title
+18-06-2026 15:07:31 [main] INFO  com.waits.ExplicitWaitActions - Job Title is clickable
+18-06-2026 15:07:31 [main] INFO  com.waits.ExplicitWaitActions - -- Select --
+Chief Executive Officer
+Chief Financial Officer
+Chief Technical Officer
+Content Specialist
+Customer Success Manager
+Database Administrator
+Finance Manager
+Financial Analyst
+Head of Support
+HR Associate
+HR Manager
+HR Officer
+HR Recruiter
+IT Manager
+Network Administrator
+Payroll Administrator
+Pre-Sales Coordinator
+Programmer Analyst Trainee
+QA eng
+QA Engineer
+QA Lead
+qwer
+rsjsrii
+Sales Representative
+Social Media Marketer
+Software Architect
+Software Engineer
+Support Specialist
+VP - Client Services
+VP - Sales & Marketing is clickable
+18-06-2026 15:07:31 [main] INFO  com.pages.PIMPage - Job Title selected successfully: -- Select --
+Chief Executive Officer
+Chief Financial Officer
+Chief Technical Officer
+Content Specialist
+Customer Success Manager
+Database Administrator
+Finance Manager
+Financial Analyst
+Head of Support
+HR Associate
+HR Manager
+HR Officer
+HR Recruiter
+IT Manager
+Network Administrator
+Payroll Administrator
+Pre-Sales Coordinator
+Programmer Analyst Trainee
+QA eng
+QA Engineer
+QA Lead
+qwer
+rsjsrii
+Sales Representative
+Social Media Marketer
+Software Architect
+Software Engineer
+Support Specialist
+VP - Client Services
+VP - Sales & Marketing
+18-06-2026 15:07:31 [main] INFO  com.pages.PIMPage - Step: Select First Sub Unit
+18-06-2026 15:07:31 [main] INFO  com.waits.ExplicitWaitActions - Sub Unit is clickable
+18-06-2026 15:07:31 [main] INFO  com.waits.ExplicitWaitActions - -- Select --
+OrangeHRMS
+Administration
+Engineering
+Development
+Quality Assurance
+TechOps
+Sales & Marketing
+Sales
+Marketing
+Client Services
+Technical Support
+Finance
+Human Resources
+hola
+juan perez is clickable
+18-06-2026 15:07:31 [main] INFO  com.pages.PIMPage - Sub Unit selected successfully: -- Select --
+OrangeHRMS
+Administration
+Engineering
+Development
+Quality Assurance
+TechOps
+Sales & Marketing
+Sales
+Marketing
+Client Services
+Technical Support
+Finance
+Human Resources
+hola
+juan perez
+18-06-2026 15:07:31 [main] INFO  com.pages.PIMPage - Step: Click Search Button
+18-06-2026 15:07:31 [main] INFO  com.waits.ExplicitWaitActions - Search Button is clickable
+18-06-2026 15:07:31 [main] INFO  com.pages.PIMPage - Search button clicked successfully
+18-06-2026 15:07:32 [main] INFO  com.waits.ExplicitWaitActions - No Records Found Message is available on the screen
+18-06-2026 15:07:32 [main] INFO  com.pages.PIMPage - 'No Records Found' message is displayed
+18-06-2026 15:07:32 [main] INFO  com.test.PIMPageTest - ========== END TEST : Search Employee ==========
+18-06-2026 15:07:32 [main] INFO  com.waits.ImplicitWaitActions - Implicit wait is set to 20
+18-06-2026 15:07:32 [main] INFO  com.reports.ExtentReportListener - test is added in pool.
+18-06-2026 15:07:32 [main] INFO  com.test.PIMPageTest - ========== START TEST : Add Employee ==========
+18-06-2026 15:07:32 [main] INFO  com.pages.PIMPage - Step: Click on Add button
+18-06-2026 15:07:32 [main] INFO  com.waits.ExplicitWaitActions - Add Button is clickable
+18-06-2026 15:07:33 [main] INFO  com.pages.PIMPage - Add button clicked successfully
+18-06-2026 15:07:33 [main] INFO  com.pages.PIMPage - Step: Enter First Name
+18-06-2026 15:07:33 [main] INFO  com.waits.ExplicitWaitActions - First Name textbox is available on the screen
+18-06-2026 15:07:33 [main] INFO  com.pages.PIMPage - First name entered in the textbox
+18-06-2026 15:07:33 [main] INFO  com.pages.PIMPage - Step: Enter Middle Name
+18-06-2026 15:07:33 [main] INFO  com.waits.ExplicitWaitActions - Middle Name textbox is available on the screen
+18-06-2026 15:07:33 [main] INFO  com.pages.PIMPage - Middle name entered in the textbox
+18-06-2026 15:07:33 [main] INFO  com.pages.PIMPage - Step: Enter last name
+18-06-2026 15:07:34 [main] INFO  com.waits.ExplicitWaitActions - Last Name textbox is available on the screen
+18-06-2026 15:07:34 [main] INFO  com.pages.PIMPage - Last name entered in the textbox
+18-06-2026 15:07:34 [main] INFO  com.pages.PIMPage - Uploading image : /Users/akshaykumar/OrangeHRM_Automation/src/test/resources/ProfilePhoto.jpg
+18-06-2026 15:07:34 [main] INFO  com.waits.ExplicitWaitActions - Profile Image is available on the screen
+18-06-2026 15:07:34 [main] ERROR com.pages.PIMPage - Failed to upload profile image : element not interactable
+  (Session info: chrome=149.0.7827.115)
+Build info: version: '4.43.0', revision: 'dd0f534'
+System info: os.name: 'Mac OS X', os.arch: 'aarch64', os.version: '26.2', java.version: '21.0.9'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [dba14e7cdf79e64f5cda255288219797, sendKeysToElement {value=[Ljava.lang.CharSequence;@7c2924d7, id=f.8CF435039D7131A63640D1A16A83C7C2.d.4CAF484ADEC402AD1EEE0AABB03AEA5E.e.864}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 149.0.7827.115, chrome: {chromedriverVersion: 149.0.7827.155 (07b52360cc1..., userDataDir: /var/folders/mx/hnx5bw153h3...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:49556}, goog:processID: 44862, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: mac, proxy: Proxy(), se:cdp: ws://localhost:49556/devtoo..., se:cdpVersion: 149.0.7827.115, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Element: [[ChromeDriver: chrome on mac (dba14e7cdf79e64f5cda255288219797)] -> xpath: //img[@alt='profile picture' and @class='employee-image']]
+Session ID: dba14e7cdf79e64f5cda255288219797
+18-06-2026 15:08:52 [main] INFO  com.reports.ExtentReportListener - test is added in pool.
+18-06-2026 15:08:52 [main] INFO  com.test.LoginTest - ========== START TEST : Login OrangeHRM ==========
+18-06-2026 15:08:54 [main] INFO  com.waits.ExplicitWaitActions - username textbox is available on the screen
+18-06-2026 15:08:54 [main] INFO  com.waits.ExplicitWaitActions - password textbox is available on the screen
+18-06-2026 15:08:54 [main] INFO  com.waits.ExplicitWaitActions - Login button is clickable
+18-06-2026 15:08:59 [main] INFO  com.test.LoginTest - ========== END TEST : Login OrangeHRM ==========
+18-06-2026 15:08:59 [main] INFO  com.waits.ImplicitWaitActions - Implicit wait is set to 20
+18-06-2026 15:08:59 [main] INFO  com.reports.ExtentReportListener - test is added in pool.
+18-06-2026 15:08:59 [main] INFO  com.pages.HomePage - Current_url is same as expected and the value is: https://opensource-demo.orangehrmlive.com/web/index.php/dashboard/index
+18-06-2026 15:08:59 [main] INFO  com.waits.ImplicitWaitActions - Implicit wait is set to 20
+18-06-2026 15:08:59 [main] INFO  com.reports.ExtentReportListener - test is added in pool.
+18-06-2026 15:09:00 [main] INFO  com.pages.HomePage - Dashboard text is visible
+18-06-2026 15:09:00 [main] INFO  com.waits.ImplicitWaitActions - Implicit wait is set to 20
+18-06-2026 15:09:00 [main] INFO  com.reports.ExtentReportListener - test is added in pool.
+18-06-2026 15:09:00 [main] INFO  com.pages.HomePage - Help Link is visible on the homepage
+18-06-2026 15:09:00 [main] INFO  com.waits.ImplicitWaitActions - Implicit wait is set to 20
+18-06-2026 15:09:00 [main] INFO  com.reports.ExtentReportListener - test is added in pool.
+18-06-2026 15:09:00 [main] INFO  com.pages.HomePage - Upgrade button is visible on the homepage
+18-06-2026 15:09:00 [main] INFO  com.waits.ImplicitWaitActions - Implicit wait is set to 20
+18-06-2026 15:09:00 [main] INFO  com.reports.ExtentReportListener - test is added in pool.
+18-06-2026 15:09:00 [main] INFO  com.pages.HomePage - Profile link is enabled
+18-06-2026 15:09:00 [main] INFO  com.waits.ImplicitWaitActions - Implicit wait is set to 20
+18-06-2026 15:09:00 [main] INFO  com.reports.ExtentReportListener - test is added in pool.
+18-06-2026 15:09:00 [main] INFO  com.pages.HomePage - Scenario: Verify Menu Button is enabled on Home Page
+18-06-2026 15:09:00 [main] INFO  com.pages.HomePage - Given User is logged into the OrangeHRM application
+18-06-2026 15:09:00 [main] INFO  com.pages.HomePage - When User navigates to the Home Page
+18-06-2026 15:09:00 [main] INFO  com.pages.HomePage - Then Menu button is enabled
+18-06-2026 15:09:00 [main] INFO  com.pages.HomePage - And User is able to interact with the Menu button
+18-06-2026 15:09:00 [main] INFO  com.waits.ImplicitWaitActions - Implicit wait is set to 20
+18-06-2026 15:09:00 [main] INFO  com.reports.ExtentReportListener - test is added in pool.
+18-06-2026 15:09:00 [main] INFO  com.pages.HomePage - Menu is hidden
+18-06-2026 15:09:00 [main] INFO  com.waits.ImplicitWaitActions - Implicit wait is set to 20
+18-06-2026 15:09:00 [main] INFO  com.reports.ExtentReportListener - test is added in pool.
+18-06-2026 15:09:00 [main] INFO  com.pages.HomePage - Menu is visible
+18-06-2026 15:09:00 [main] INFO  com.waits.ImplicitWaitActions - Implicit wait is set to 20
+18-06-2026 15:09:00 [main] INFO  com.reports.ExtentReportListener - test is added in pool.
+18-06-2026 15:09:00 [main] INFO  com.test.AdminPageTest - ========== START TEST : Add User ==========
+18-06-2026 15:09:00 [main] INFO  com.pages.AdminPage - Scenario: Verify Admin link is clickable or not
+18-06-2026 15:09:00 [main] INFO  com.waits.ExplicitWaitActions - Admin link is clickable
+18-06-2026 15:09:07 [main] INFO  com.pages.AdminPage - User clicked on Admin
+18-06-2026 15:09:07 [main] INFO  com.pages.AdminPage - And redirected to the Add user form
+18-06-2026 15:09:07 [main] INFO  com.pages.AdminPage - Scenario: Verify if the user is able to click on Add button
+18-06-2026 15:09:09 [main] INFO  com.waits.ExplicitWaitActions - Add Button is clickable
+18-06-2026 15:09:12 [main] INFO  com.pages.AdminPage - Then- User has clicked on Add button
+18-06-2026 15:09:12 [main] INFO  com.pages.AdminPage - And redirected to the add user form
+18-06-2026 15:09:12 [main] INFO  com.pages.AdminPage - Scenario: Verify if the user is able to select the user role
+18-06-2026 15:09:14 [main] INFO  com.waits.ExplicitWaitActions - Select user role is clickable
+18-06-2026 15:09:14 [main] INFO  com.waits.ExplicitWaitActions - Adminoption is clickable
+18-06-2026 15:09:14 [main] INFO  com.pages.AdminPage - User has selected the Admin
+18-06-2026 15:09:14 [main] INFO  com.waits.ExplicitWaitActions - Employee Name is available on the screen
+18-06-2026 15:09:17 [main] INFO  com.waits.ExplicitWaitActions - First Employee Suggestion is available on the screen
+18-06-2026 15:09:17 [main] INFO  com.waits.ExplicitWaitActions - First Employee Suggestion is clickable
+18-06-2026 15:09:17 [main] INFO  com.pages.AdminPage - Scenario: Verify if the user is able to select the status
+18-06-2026 15:09:17 [main] INFO  com.waits.ExplicitWaitActions - Select status is clickable
+18-06-2026 15:09:17 [main] INFO  com.waits.ExplicitWaitActions - Enabledoption is clickable
+18-06-2026 15:09:17 [main] INFO  com.pages.AdminPage - User has selected the Enabled
+18-06-2026 15:09:17 [main] INFO  com.pages.AdminPage - Scenario: Verify if the user is able to enter the username
+18-06-2026 15:09:17 [main] INFO  com.waits.ExplicitWaitActions - User Name is available on the screen
+18-06-2026 15:09:17 [main] INFO  com.pages.AdminPage - Username entered successfully: Akshay
+18-06-2026 15:09:17 [main] INFO  com.pages.AdminPage - Scenario: Verify if the user is able to enter the password
+18-06-2026 15:09:17 [main] INFO  com.waits.ExplicitWaitActions - Password is clickable
+18-06-2026 15:09:17 [main] INFO  com.waits.ExplicitWaitActions - Password is available on the screen
+18-06-2026 15:09:17 [main] INFO  com.pages.AdminPage - Password value is entered
+18-06-2026 15:09:17 [main] INFO  com.pages.AdminPage - Scenario: Verify if the user is able to re-enter the password
+18-06-2026 15:09:17 [main] INFO  com.waits.ExplicitWaitActions - Confirm Password is clickable
+18-06-2026 15:09:17 [main] INFO  com.waits.ExplicitWaitActions - Confirm Password is available on the screen
+18-06-2026 15:09:17 [main] INFO  com.pages.AdminPage - Password is confirmed
+18-06-2026 15:09:17 [main] INFO  com.pages.AdminPage - Scenario: Verify if the user is able to click the save button
+18-06-2026 15:09:17 [main] INFO  com.waits.ExplicitWaitActions - Save Button is clickable
+18-06-2026 15:09:17 [main] INFO  com.test.AdminPageTest - ========== END TEST : Add User ==========
+18-06-2026 15:09:17 [main] INFO  com.waits.ImplicitWaitActions - Implicit wait is set to 20
+18-06-2026 15:09:17 [main] INFO  com.reports.ExtentReportListener - test is added in pool.
+18-06-2026 15:09:17 [main] INFO  com.test.PIMPageTest - ========== START TEST : Search Employee ==========
+18-06-2026 15:09:17 [main] INFO  com.waits.ExplicitWaitActions - PIM menu is clickable
+18-06-2026 15:09:23 [main] INFO  com.pages.PIMPage - Step: Enter Employee Name - Madhaksh
+18-06-2026 15:09:26 [main] INFO  com.waits.ExplicitWaitActions - Employee Name is available on the screen
+18-06-2026 15:09:26 [main] INFO  com.waits.ExplicitWaitActions - First Employee Suggestion is available on the screen
+18-06-2026 15:09:26 [main] INFO  com.waits.ExplicitWaitActions - First Employee Suggestion is clickable
+18-06-2026 15:09:26 [main] INFO  com.pages.PIMPage - Employee name selected successfully
+18-06-2026 15:09:26 [main] INFO  com.pages.PIMPage - Step: Enter Employee ID - 290
+18-06-2026 15:09:26 [main] INFO  com.waits.ExplicitWaitActions - Employee ID is available on the screen
+18-06-2026 15:09:26 [main] INFO  com.pages.PIMPage - Employee ID entered successfully
+18-06-2026 15:09:26 [main] INFO  com.pages.PIMPage - Step: Select Employee Status - Freelance
+18-06-2026 15:09:26 [main] INFO  com.waits.ExplicitWaitActions - Employment Status is clickable
+18-06-2026 15:09:30 [main] INFO  com.pages.PIMPage - Available Status: Freelance
+18-06-2026 15:09:30 [main] INFO  com.waits.ExplicitWaitActions - Freelance is clickable
+18-06-2026 15:09:30 [main] INFO  com.pages.PIMPage - Employee Status selected successfully
+18-06-2026 15:09:30 [main] INFO  com.pages.PIMPage - Step: Select Include Option - Current and Past Employees
+18-06-2026 15:09:30 [main] INFO  com.waits.ExplicitWaitActions - Include Dropdown is clickable
+18-06-2026 15:09:30 [main] INFO  com.pages.PIMPage - Available Option: Current Employees Only
+18-06-2026 15:09:30 [main] INFO  com.pages.PIMPage - Available Option: Current and Past Employees
+18-06-2026 15:09:30 [main] INFO  com.waits.ExplicitWaitActions - Current and Past Employees is clickable
+18-06-2026 15:09:30 [main] INFO  com.pages.PIMPage - Include option selected successfully
+18-06-2026 15:09:30 [main] INFO  com.pages.PIMPage - Step: Enter Supervisor Name - m
+18-06-2026 15:09:30 [main] INFO  com.waits.ExplicitWaitActions - Supervisor Name is available on the screen
+18-06-2026 15:09:32 [main] INFO  com.waits.ExplicitWaitActions - First Supervisor Suggestion is available on the screen
+18-06-2026 15:09:32 [main] INFO  com.waits.ExplicitWaitActions - First Supervisor Suggestion is clickable
+18-06-2026 15:09:33 [main] INFO  com.pages.PIMPage - Supervisor selected successfully
+18-06-2026 15:09:33 [main] INFO  com.pages.PIMPage - Step: Select First Job Title
+18-06-2026 15:09:33 [main] INFO  com.waits.ExplicitWaitActions - Job Title is clickable
+18-06-2026 15:09:33 [main] INFO  com.waits.ExplicitWaitActions - -- Select --
+Chief Executive Officer
+Chief Financial Officer
+Chief Technical Officer
+Content Specialist
+Customer Success Manager
+Database Administrator
+Finance Manager
+Financial Analyst
+Head of Support
+HR Associate
+HR Manager
+HR Officer
+HR Recruiter
+IT Manager
+Network Administrator
+Payroll Administrator
+Pre-Sales Coordinator
+Programmer Analyst Trainee
+QA eng
+QA Engineer
+QA Lead
+qwer
+rsjsrii
+Sales Representative
+Social Media Marketer
+Software Architect
+Software Engineer
+Support Specialist
+VP - Client Services
+VP - Sales & Marketing is clickable
+18-06-2026 15:09:33 [main] INFO  com.pages.PIMPage - Job Title selected successfully: -- Select --
+Chief Executive Officer
+Chief Financial Officer
+Chief Technical Officer
+Content Specialist
+Customer Success Manager
+Database Administrator
+Finance Manager
+Financial Analyst
+Head of Support
+HR Associate
+HR Manager
+HR Officer
+HR Recruiter
+IT Manager
+Network Administrator
+Payroll Administrator
+Pre-Sales Coordinator
+Programmer Analyst Trainee
+QA eng
+QA Engineer
+QA Lead
+qwer
+rsjsrii
+Sales Representative
+Social Media Marketer
+Software Architect
+Software Engineer
+Support Specialist
+VP - Client Services
+VP - Sales & Marketing
+18-06-2026 15:09:33 [main] INFO  com.pages.PIMPage - Step: Select First Sub Unit
+18-06-2026 15:09:33 [main] INFO  com.waits.ExplicitWaitActions - Sub Unit is clickable
+18-06-2026 15:09:33 [main] INFO  com.waits.ExplicitWaitActions - -- Select --
+OrangeHRMS
+Administration
+Engineering
+Development
+Quality Assurance
+TechOps
+Sales & Marketing
+Sales
+Marketing
+Client Services
+Technical Support
+Finance
+Human Resources
+hola
+juan perez is clickable
+18-06-2026 15:09:33 [main] INFO  com.pages.PIMPage - Sub Unit selected successfully: -- Select --
+OrangeHRMS
+Administration
+Engineering
+Development
+Quality Assurance
+TechOps
+Sales & Marketing
+Sales
+Marketing
+Client Services
+Technical Support
+Finance
+Human Resources
+hola
+juan perez
+18-06-2026 15:09:33 [main] INFO  com.pages.PIMPage - Step: Click Search Button
+18-06-2026 15:09:33 [main] INFO  com.waits.ExplicitWaitActions - Search Button is clickable
+18-06-2026 15:09:33 [main] INFO  com.pages.PIMPage - Search button clicked successfully
+18-06-2026 15:09:35 [main] INFO  com.waits.ExplicitWaitActions - No Records Found Message is available on the screen
+18-06-2026 15:09:35 [main] INFO  com.pages.PIMPage - 'No Records Found' message is displayed
+18-06-2026 15:09:35 [main] INFO  com.test.PIMPageTest - ========== END TEST : Search Employee ==========
+18-06-2026 15:09:35 [main] INFO  com.waits.ImplicitWaitActions - Implicit wait is set to 20
+18-06-2026 15:09:35 [main] INFO  com.reports.ExtentReportListener - test is added in pool.
+18-06-2026 15:09:35 [main] INFO  com.test.PIMPageTest - ========== START TEST : Add Employee ==========
+18-06-2026 15:09:35 [main] INFO  com.pages.PIMPage - Step: Click on Add button
+18-06-2026 15:09:35 [main] INFO  com.waits.ExplicitWaitActions - Add Button is clickable
+18-06-2026 15:09:38 [main] INFO  com.pages.PIMPage - Add button clicked successfully
+18-06-2026 15:09:38 [main] INFO  com.pages.PIMPage - Step: Enter First Name
+18-06-2026 15:09:41 [main] INFO  com.waits.ExplicitWaitActions - First Name textbox is available on the screen
+18-06-2026 15:09:41 [main] INFO  com.pages.PIMPage - First name entered in the textbox
+18-06-2026 15:09:41 [main] INFO  com.pages.PIMPage - Step: Enter Middle Name
+18-06-2026 15:09:41 [main] INFO  com.waits.ExplicitWaitActions - Middle Name textbox is available on the screen
+18-06-2026 15:09:41 [main] INFO  com.pages.PIMPage - Middle name entered in the textbox
+18-06-2026 15:09:41 [main] INFO  com.pages.PIMPage - Step: Enter last name
+18-06-2026 15:09:41 [main] INFO  com.waits.ExplicitWaitActions - Last Name textbox is available on the screen
+18-06-2026 15:09:41 [main] INFO  com.pages.PIMPage - Last name entered in the textbox
+18-06-2026 15:09:41 [main] INFO  com.pages.PIMPage - Uploading image : /Users/akshaykumar/OrangeHRM_Automation/src/test/resources/ProfilePhoto.jpg
+18-06-2026 15:10:01 [main] ERROR com.waits.ExplicitWaitActions - Error occured while waiting for the element to be visibleExpected condition failed: waiting for visibility of [[ChromeDriver: chrome on mac (54d6fe03fc93f3c1247ef813dcf7ee49)] -> css selector: input.oxd-file-input]
+(tried for 20 seconds with 500 milliseconds interval)
+Build info: version: '4.43.0', revision: 'dd0f534'
+System info: os.name: 'Mac OS X', os.arch: 'aarch64', os.version: '26.2', java.version: '21.0.9'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 149.0.7827.115, chrome: {chromedriverVersion: 149.0.7827.155 (07b52360cc1..., userDataDir: /var/folders/mx/hnx5bw153h3...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:49992}, goog:processID: 45009, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: mac, proxy: Proxy(), se:cdp: ws://localhost:49992/devtoo..., se:cdpVersion: 149.0.7827.115, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 54d6fe03fc93f3c1247ef813dcf7ee49
+18-06-2026 15:10:01 [main] INFO  com.pages.PIMPage - Profile image uploaded successfully
+18-06-2026 15:10:01 [main] INFO  com.test.PIMPageTest - ========== END TEST : Add Employee ==========
+18-06-2026 15:11:20 [main] INFO  com.reports.ExtentReportListener - test is added in pool.
+18-06-2026 15:11:20 [main] INFO  com.test.LoginTest - ========== START TEST : Login OrangeHRM ==========
+18-06-2026 15:11:23 [main] INFO  com.waits.ExplicitWaitActions - username textbox is available on the screen
+18-06-2026 15:11:24 [main] INFO  com.waits.ExplicitWaitActions - password textbox is available on the screen
+18-06-2026 15:11:24 [main] INFO  com.waits.ExplicitWaitActions - Login button is clickable
+18-06-2026 15:11:24 [main] INFO  com.test.LoginTest - ========== END TEST : Login OrangeHRM ==========
+18-06-2026 15:11:24 [main] INFO  com.waits.ImplicitWaitActions - Implicit wait is set to 20
+18-06-2026 15:11:24 [main] INFO  com.reports.ExtentReportListener - test is added in pool.
+18-06-2026 15:11:28 [main] INFO  com.pages.HomePage - Current_url is same as expected and the value is: https://opensource-demo.orangehrmlive.com/web/index.php/dashboard/index
+18-06-2026 15:11:28 [main] INFO  com.waits.ImplicitWaitActions - Implicit wait is set to 20
+18-06-2026 15:11:28 [main] INFO  com.reports.ExtentReportListener - test is added in pool.
+18-06-2026 15:11:29 [main] INFO  com.pages.HomePage - Dashboard text is visible
+18-06-2026 15:11:29 [main] INFO  com.waits.ImplicitWaitActions - Implicit wait is set to 20
+18-06-2026 15:11:29 [main] INFO  com.reports.ExtentReportListener - test is added in pool.
+18-06-2026 15:11:29 [main] INFO  com.pages.HomePage - Help Link is visible on the homepage
+18-06-2026 15:11:29 [main] INFO  com.waits.ImplicitWaitActions - Implicit wait is set to 20
+18-06-2026 15:11:29 [main] INFO  com.reports.ExtentReportListener - test is added in pool.
+18-06-2026 15:11:29 [main] INFO  com.pages.HomePage - Upgrade button is visible on the homepage
+18-06-2026 15:11:29 [main] INFO  com.waits.ImplicitWaitActions - Implicit wait is set to 20
+18-06-2026 15:11:29 [main] INFO  com.reports.ExtentReportListener - test is added in pool.
+18-06-2026 15:11:29 [main] INFO  com.pages.HomePage - Profile link is enabled
+18-06-2026 15:11:29 [main] INFO  com.waits.ImplicitWaitActions - Implicit wait is set to 20
+18-06-2026 15:11:29 [main] INFO  com.reports.ExtentReportListener - test is added in pool.
+18-06-2026 15:11:29 [main] INFO  com.pages.HomePage - Scenario: Verify Menu Button is enabled on Home Page
+18-06-2026 15:11:29 [main] INFO  com.pages.HomePage - Given User is logged into the OrangeHRM application
+18-06-2026 15:11:29 [main] INFO  com.pages.HomePage - When User navigates to the Home Page
+18-06-2026 15:11:29 [main] INFO  com.pages.HomePage - Then Menu button is enabled
+18-06-2026 15:11:29 [main] INFO  com.pages.HomePage - And User is able to interact with the Menu button
+18-06-2026 15:11:29 [main] INFO  com.waits.ImplicitWaitActions - Implicit wait is set to 20
+18-06-2026 15:11:29 [main] INFO  com.reports.ExtentReportListener - test is added in pool.
+18-06-2026 15:11:29 [main] INFO  com.pages.HomePage - Menu is hidden
+18-06-2026 15:11:29 [main] INFO  com.waits.ImplicitWaitActions - Implicit wait is set to 20
+18-06-2026 15:11:29 [main] INFO  com.reports.ExtentReportListener - test is added in pool.
+18-06-2026 15:11:29 [main] INFO  com.pages.HomePage - Menu is visible
+18-06-2026 15:11:29 [main] INFO  com.waits.ImplicitWaitActions - Implicit wait is set to 20
+18-06-2026 15:11:29 [main] INFO  com.reports.ExtentReportListener - test is added in pool.
+18-06-2026 15:11:29 [main] INFO  com.test.AdminPageTest - ========== START TEST : Add User ==========
+18-06-2026 15:11:29 [main] INFO  com.pages.AdminPage - Scenario: Verify Admin link is clickable or not
+18-06-2026 15:11:29 [main] INFO  com.waits.ExplicitWaitActions - Admin link is clickable
+18-06-2026 15:11:37 [main] INFO  com.pages.AdminPage - User clicked on Admin
+18-06-2026 15:11:37 [main] INFO  com.pages.AdminPage - And redirected to the Add user form
+18-06-2026 15:11:37 [main] INFO  com.pages.AdminPage - Scenario: Verify if the user is able to click on Add button
+18-06-2026 15:11:38 [main] INFO  com.waits.ExplicitWaitActions - Add Button is clickable
+18-06-2026 15:11:41 [main] INFO  com.pages.AdminPage - Then- User has clicked on Add button
+18-06-2026 15:11:41 [main] INFO  com.pages.AdminPage - And redirected to the add user form
+18-06-2026 15:11:41 [main] INFO  com.pages.AdminPage - Scenario: Verify if the user is able to select the user role
+18-06-2026 15:11:42 [main] INFO  com.waits.ExplicitWaitActions - Select user role is clickable
+18-06-2026 15:11:42 [main] INFO  com.waits.ExplicitWaitActions - Adminoption is clickable
+18-06-2026 15:11:42 [main] INFO  com.pages.AdminPage - User has selected the Admin
+18-06-2026 15:11:42 [main] INFO  com.waits.ExplicitWaitActions - Employee Name is available on the screen
+18-06-2026 15:11:44 [main] INFO  com.waits.ExplicitWaitActions - First Employee Suggestion is available on the screen
+18-06-2026 15:11:44 [main] INFO  com.waits.ExplicitWaitActions - First Employee Suggestion is clickable
+18-06-2026 15:11:44 [main] INFO  com.pages.AdminPage - Scenario: Verify if the user is able to select the status
+18-06-2026 15:11:44 [main] INFO  com.waits.ExplicitWaitActions - Select status is clickable
+18-06-2026 15:11:44 [main] INFO  com.waits.ExplicitWaitActions - Enabledoption is clickable
+18-06-2026 15:11:44 [main] INFO  com.pages.AdminPage - User has selected the Enabled
+18-06-2026 15:11:44 [main] INFO  com.pages.AdminPage - Scenario: Verify if the user is able to enter the username
+18-06-2026 15:11:44 [main] INFO  com.waits.ExplicitWaitActions - User Name is available on the screen
+18-06-2026 15:11:45 [main] INFO  com.pages.AdminPage - Username entered successfully: Akshay
+18-06-2026 15:11:45 [main] INFO  com.pages.AdminPage - Scenario: Verify if the user is able to enter the password
+18-06-2026 15:11:45 [main] INFO  com.waits.ExplicitWaitActions - Password is clickable
+18-06-2026 15:11:45 [main] INFO  com.waits.ExplicitWaitActions - Password is available on the screen
+18-06-2026 15:11:45 [main] INFO  com.pages.AdminPage - Password value is entered
+18-06-2026 15:11:45 [main] INFO  com.pages.AdminPage - Scenario: Verify if the user is able to re-enter the password
+18-06-2026 15:11:45 [main] INFO  com.waits.ExplicitWaitActions - Confirm Password is clickable
+18-06-2026 15:11:45 [main] INFO  com.waits.ExplicitWaitActions - Confirm Password is available on the screen
+18-06-2026 15:11:45 [main] INFO  com.pages.AdminPage - Password is confirmed
+18-06-2026 15:11:45 [main] INFO  com.pages.AdminPage - Scenario: Verify if the user is able to click the save button
+18-06-2026 15:11:45 [main] INFO  com.waits.ExplicitWaitActions - Save Button is clickable
+18-06-2026 15:11:45 [main] INFO  com.test.AdminPageTest - ========== END TEST : Add User ==========
+18-06-2026 15:11:45 [main] INFO  com.waits.ImplicitWaitActions - Implicit wait is set to 20
+18-06-2026 15:11:45 [main] INFO  com.reports.ExtentReportListener - test is added in pool.
+18-06-2026 15:11:45 [main] INFO  com.test.PIMPageTest - ========== START TEST : Search Employee ==========
+18-06-2026 15:11:45 [main] INFO  com.waits.ExplicitWaitActions - PIM menu is clickable
+18-06-2026 15:11:46 [main] INFO  com.pages.PIMPage - Step: Enter Employee Name - Madhaksh
+18-06-2026 15:11:47 [main] INFO  com.waits.ExplicitWaitActions - Employee Name is available on the screen
+18-06-2026 15:11:47 [main] INFO  com.waits.ExplicitWaitActions - First Employee Suggestion is available on the screen
+18-06-2026 15:11:47 [main] INFO  com.waits.ExplicitWaitActions - First Employee Suggestion is clickable
+18-06-2026 15:11:47 [main] INFO  com.pages.PIMPage - Employee name selected successfully
+18-06-2026 15:11:47 [main] INFO  com.pages.PIMPage - Step: Enter Employee ID - 290
+18-06-2026 15:11:47 [main] INFO  com.waits.ExplicitWaitActions - Employee ID is available on the screen
+18-06-2026 15:11:47 [main] INFO  com.pages.PIMPage - Employee ID entered successfully
+18-06-2026 15:11:47 [main] INFO  com.pages.PIMPage - Step: Select Employee Status - Freelance
+18-06-2026 15:11:47 [main] INFO  com.waits.ExplicitWaitActions - Employment Status is clickable
+18-06-2026 15:11:49 [main] INFO  com.pages.PIMPage - Available Status: Freelance
+18-06-2026 15:11:49 [main] INFO  com.waits.ExplicitWaitActions - Freelance is clickable
+18-06-2026 15:11:49 [main] INFO  com.pages.PIMPage - Employee Status selected successfully
+18-06-2026 15:11:49 [main] INFO  com.pages.PIMPage - Step: Select Include Option - Current and Past Employees
+18-06-2026 15:11:49 [main] INFO  com.waits.ExplicitWaitActions - Include Dropdown is clickable
+18-06-2026 15:11:49 [main] INFO  com.pages.PIMPage - Available Option: Current Employees Only
+18-06-2026 15:11:49 [main] INFO  com.pages.PIMPage - Available Option: Current and Past Employees
+18-06-2026 15:11:49 [main] INFO  com.waits.ExplicitWaitActions - Current and Past Employees is clickable
+18-06-2026 15:11:49 [main] INFO  com.pages.PIMPage - Include option selected successfully
+18-06-2026 15:11:49 [main] INFO  com.pages.PIMPage - Step: Enter Supervisor Name - m
+18-06-2026 15:11:49 [main] INFO  com.waits.ExplicitWaitActions - Supervisor Name is available on the screen
+18-06-2026 15:11:52 [main] INFO  com.waits.ExplicitWaitActions - First Supervisor Suggestion is available on the screen
+18-06-2026 15:11:52 [main] INFO  com.waits.ExplicitWaitActions - First Supervisor Suggestion is clickable
+18-06-2026 15:11:52 [main] INFO  com.pages.PIMPage - Supervisor selected successfully
+18-06-2026 15:11:52 [main] INFO  com.pages.PIMPage - Step: Select First Job Title
+18-06-2026 15:11:52 [main] INFO  com.waits.ExplicitWaitActions - Job Title is clickable
+18-06-2026 15:11:52 [main] INFO  com.waits.ExplicitWaitActions - -- Select --
+Chief Executive Officer
+Chief Financial Officer
+Chief Technical Officer
+Content Specialist
+Customer Success Manager
+Database Administrator
+Finance Manager
+Financial Analyst
+Fuck
+Head of Support
+HR Associate
+HR Manager
+HR Officer
+HR Recruiter
+IT Manager
+Network Administrator
+Payroll Administrator
+Pre-Sales Coordinator
+Programmer Analyst Trainee
+QA eng
+QA Engineer
+QA Lead
+qwer
+rsjsrii
+Sales Representative
+Social Media Marketer
+Software Architect
+Software Engineer
+Support Specialist
+VP - Client Services
+VP - Sales & Marketing is clickable
+18-06-2026 15:11:52 [main] INFO  com.pages.PIMPage - Job Title selected successfully: -- Select --
+Chief Executive Officer
+Chief Financial Officer
+Chief Technical Officer
+Content Specialist
+Customer Success Manager
+Database Administrator
+Finance Manager
+Financial Analyst
+Fuck
+Head of Support
+HR Associate
+HR Manager
+HR Officer
+HR Recruiter
+IT Manager
+Network Administrator
+Payroll Administrator
+Pre-Sales Coordinator
+Programmer Analyst Trainee
+QA eng
+QA Engineer
+QA Lead
+qwer
+rsjsrii
+Sales Representative
+Social Media Marketer
+Software Architect
+Software Engineer
+Support Specialist
+VP - Client Services
+VP - Sales & Marketing
+18-06-2026 15:11:52 [main] INFO  com.pages.PIMPage - Step: Select First Sub Unit
+18-06-2026 15:11:52 [main] INFO  com.waits.ExplicitWaitActions - Sub Unit is clickable
+18-06-2026 15:11:53 [main] INFO  com.waits.ExplicitWaitActions - -- Select --
+OrangeHRMS
+Administration
+Engineering
+Development
+Quality Assurance
+TechOps
+Sales & Marketing
+Sales
+Marketing
+Client Services
+Technical Support
+Finance
+Human Resources
+hola
+juan perez is clickable
+18-06-2026 15:11:53 [main] INFO  com.pages.PIMPage - Sub Unit selected successfully: -- Select --
+OrangeHRMS
+Administration
+Engineering
+Development
+Quality Assurance
+TechOps
+Sales & Marketing
+Sales
+Marketing
+Client Services
+Technical Support
+Finance
+Human Resources
+hola
+juan perez
+18-06-2026 15:11:53 [main] INFO  com.pages.PIMPage - Step: Click Search Button
+18-06-2026 15:11:53 [main] INFO  com.waits.ExplicitWaitActions - Search Button is clickable
+18-06-2026 15:11:53 [main] INFO  com.pages.PIMPage - Search button clicked successfully
+18-06-2026 15:11:54 [main] INFO  com.waits.ExplicitWaitActions - No Records Found Message is available on the screen
+18-06-2026 15:11:54 [main] INFO  com.pages.PIMPage - 'No Records Found' message is displayed
+18-06-2026 15:11:54 [main] INFO  com.test.PIMPageTest - ========== END TEST : Search Employee ==========
+18-06-2026 15:11:54 [main] INFO  com.waits.ImplicitWaitActions - Implicit wait is set to 20
+18-06-2026 15:11:54 [main] INFO  com.reports.ExtentReportListener - test is added in pool.
+18-06-2026 15:11:54 [main] INFO  com.test.PIMPageTest - ========== START TEST : Add Employee ==========
+18-06-2026 15:11:54 [main] INFO  com.pages.PIMPage - Step: Click on Add button
+18-06-2026 15:11:54 [main] INFO  com.waits.ExplicitWaitActions - Add Button is clickable
+18-06-2026 15:11:56 [main] INFO  com.pages.PIMPage - Add button clicked successfully
+18-06-2026 15:11:56 [main] INFO  com.pages.PIMPage - Step: Enter First Name
+18-06-2026 15:11:56 [main] INFO  com.waits.ExplicitWaitActions - First Name textbox is available on the screen
+18-06-2026 15:11:56 [main] INFO  com.pages.PIMPage - First name entered in the textbox
+18-06-2026 15:11:56 [main] INFO  com.pages.PIMPage - Step: Enter Middle Name
+18-06-2026 15:11:56 [main] INFO  com.waits.ExplicitWaitActions - Middle Name textbox is available on the screen
+18-06-2026 15:11:56 [main] INFO  com.pages.PIMPage - Middle name entered in the textbox
+18-06-2026 15:11:56 [main] INFO  com.pages.PIMPage - Step: Enter last name
+18-06-2026 15:11:56 [main] INFO  com.waits.ExplicitWaitActions - Last Name textbox is available on the screen
+18-06-2026 15:11:56 [main] INFO  com.pages.PIMPage - Last name entered in the textbox
+18-06-2026 15:11:56 [main] INFO  com.pages.PIMPage - Uploading image : /Users/akshaykumar/OrangeHRM_Automation/src/test/resources/ProfilePhoto.jpg
+18-06-2026 15:11:56 [main] ERROR com.waits.ExplicitWaitActions - Error occured while waiting for the element to be visibleinvalid selector: Unable to locate an element with the xpath expression //img[@alt='profile picture' and @class='employee-image']] because of the following error:
+SyntaxError: Failed to execute 'evaluate' on 'Document': The string '//img[@alt='profile picture' and @class='employee-image']]' is not a valid XPath expression.
+  (Session info: chrome=149.0.7827.115)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#invalidselectorexception
+Build info: version: '4.43.0', revision: 'dd0f534'
+System info: os.name: 'Mac OS X', os.arch: 'aarch64', os.version: '26.2', java.version: '21.0.9'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [ae9b7d050aa4fad7c57b5c20c5f4aa88, findElement {using=xpath, value=//img[@alt='profile picture' and @class='employee-image']]}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 149.0.7827.115, chrome: {chromedriverVersion: 149.0.7827.155 (07b52360cc1..., userDataDir: /var/folders/mx/hnx5bw153h3...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:50662}, goog:processID: 45189, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: mac, proxy: Proxy(), se:cdp: ws://localhost:50662/devtoo..., se:cdpVersion: 149.0.7827.115, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: ae9b7d050aa4fad7c57b5c20c5f4aa88
+18-06-2026 15:11:57 [main] ERROR com.pages.PIMPage - Failed to upload profile image : invalid selector: Unable to locate an element with the xpath expression //img[@alt='profile picture' and @class='employee-image']] because of the following error:
+SyntaxError: Failed to execute 'evaluate' on 'Document': The string '//img[@alt='profile picture' and @class='employee-image']]' is not a valid XPath expression.
+  (Session info: chrome=149.0.7827.115)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#invalidselectorexception
+Build info: version: '4.43.0', revision: 'dd0f534'
+System info: os.name: 'Mac OS X', os.arch: 'aarch64', os.version: '26.2', java.version: '21.0.9'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [ae9b7d050aa4fad7c57b5c20c5f4aa88, findElement {using=xpath, value=//img[@alt='profile picture' and @class='employee-image']]}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 149.0.7827.115, chrome: {chromedriverVersion: 149.0.7827.155 (07b52360cc1..., userDataDir: /var/folders/mx/hnx5bw153h3...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:50662}, goog:processID: 45189, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: mac, proxy: Proxy(), se:cdp: ws://localhost:50662/devtoo..., se:cdpVersion: 149.0.7827.115, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: ae9b7d050aa4fad7c57b5c20c5f4aa88
+18-06-2026 15:14:13 [main] INFO  com.reports.ExtentReportListener - test is added in pool.
+18-06-2026 15:14:13 [main] INFO  com.test.LoginTest - ========== START TEST : Login OrangeHRM ==========
+18-06-2026 15:14:15 [main] INFO  com.waits.ExplicitWaitActions - username textbox is available on the screen
+18-06-2026 15:14:15 [main] INFO  com.waits.ExplicitWaitActions - password textbox is available on the screen
+18-06-2026 15:14:15 [main] INFO  com.waits.ExplicitWaitActions - Login button is clickable
+18-06-2026 15:14:20 [main] INFO  com.test.LoginTest - ========== END TEST : Login OrangeHRM ==========
+18-06-2026 15:14:20 [main] INFO  com.waits.ImplicitWaitActions - Implicit wait is set to 20
+18-06-2026 15:14:20 [main] INFO  com.reports.ExtentReportListener - test is added in pool.
+18-06-2026 15:14:20 [main] INFO  com.pages.HomePage - Current_url is same as expected and the value is: https://opensource-demo.orangehrmlive.com/web/index.php/dashboard/index
+18-06-2026 15:14:20 [main] INFO  com.waits.ImplicitWaitActions - Implicit wait is set to 20
+18-06-2026 15:14:20 [main] INFO  com.reports.ExtentReportListener - test is added in pool.
+18-06-2026 15:14:21 [main] INFO  com.pages.HomePage - Dashboard text is visible
+18-06-2026 15:14:21 [main] INFO  com.waits.ImplicitWaitActions - Implicit wait is set to 20
+18-06-2026 15:14:21 [main] INFO  com.reports.ExtentReportListener - test is added in pool.
+18-06-2026 15:14:21 [main] INFO  com.pages.HomePage - Help Link is visible on the homepage
+18-06-2026 15:14:21 [main] INFO  com.waits.ImplicitWaitActions - Implicit wait is set to 20
+18-06-2026 15:14:21 [main] INFO  com.reports.ExtentReportListener - test is added in pool.
+18-06-2026 15:14:21 [main] INFO  com.pages.HomePage - Upgrade button is visible on the homepage
+18-06-2026 15:14:21 [main] INFO  com.waits.ImplicitWaitActions - Implicit wait is set to 20
+18-06-2026 15:14:21 [main] INFO  com.reports.ExtentReportListener - test is added in pool.
+18-06-2026 15:14:21 [main] INFO  com.pages.HomePage - Profile link is enabled
+18-06-2026 15:14:21 [main] INFO  com.waits.ImplicitWaitActions - Implicit wait is set to 20
+18-06-2026 15:14:21 [main] INFO  com.reports.ExtentReportListener - test is added in pool.
+18-06-2026 15:14:21 [main] INFO  com.pages.HomePage - Scenario: Verify Menu Button is enabled on Home Page
+18-06-2026 15:14:21 [main] INFO  com.pages.HomePage - Given User is logged into the OrangeHRM application
+18-06-2026 15:14:21 [main] INFO  com.pages.HomePage - When User navigates to the Home Page
+18-06-2026 15:14:21 [main] INFO  com.pages.HomePage - Then Menu button is enabled
+18-06-2026 15:14:21 [main] INFO  com.pages.HomePage - And User is able to interact with the Menu button
+18-06-2026 15:14:21 [main] INFO  com.waits.ImplicitWaitActions - Implicit wait is set to 20
+18-06-2026 15:14:21 [main] INFO  com.reports.ExtentReportListener - test is added in pool.
+18-06-2026 15:14:21 [main] INFO  com.pages.HomePage - Menu is hidden
+18-06-2026 15:14:21 [main] INFO  com.waits.ImplicitWaitActions - Implicit wait is set to 20
+18-06-2026 15:14:21 [main] INFO  com.reports.ExtentReportListener - test is added in pool.
+18-06-2026 15:14:21 [main] INFO  com.pages.HomePage - Menu is visible
+18-06-2026 15:14:21 [main] INFO  com.waits.ImplicitWaitActions - Implicit wait is set to 20
+18-06-2026 15:14:21 [main] INFO  com.reports.ExtentReportListener - test is added in pool.
+18-06-2026 15:14:21 [main] INFO  com.test.AdminPageTest - ========== START TEST : Add User ==========
+18-06-2026 15:14:21 [main] INFO  com.pages.AdminPage - Scenario: Verify Admin link is clickable or not
+18-06-2026 15:14:21 [main] INFO  com.waits.ExplicitWaitActions - Admin link is clickable
+18-06-2026 15:14:27 [main] INFO  com.pages.AdminPage - User clicked on Admin
+18-06-2026 15:14:27 [main] INFO  com.pages.AdminPage - And redirected to the Add user form
+18-06-2026 15:14:27 [main] INFO  com.pages.AdminPage - Scenario: Verify if the user is able to click on Add button
+18-06-2026 15:14:28 [main] INFO  com.waits.ExplicitWaitActions - Add Button is clickable
+18-06-2026 15:14:30 [main] INFO  com.pages.AdminPage - Then- User has clicked on Add button
+18-06-2026 15:14:30 [main] INFO  com.pages.AdminPage - And redirected to the add user form
+18-06-2026 15:14:30 [main] INFO  com.pages.AdminPage - Scenario: Verify if the user is able to select the user role
+18-06-2026 15:14:31 [main] INFO  com.waits.ExplicitWaitActions - Select user role is clickable
+18-06-2026 15:14:31 [main] INFO  com.waits.ExplicitWaitActions - Adminoption is clickable
+18-06-2026 15:14:31 [main] INFO  com.pages.AdminPage - User has selected the Admin
+18-06-2026 15:14:31 [main] INFO  com.waits.ExplicitWaitActions - Employee Name is available on the screen
+18-06-2026 15:14:34 [main] INFO  com.waits.ExplicitWaitActions - First Employee Suggestion is available on the screen
+18-06-2026 15:14:34 [main] INFO  com.waits.ExplicitWaitActions - First Employee Suggestion is clickable
+18-06-2026 15:14:34 [main] INFO  com.pages.AdminPage - Scenario: Verify if the user is able to select the status
+18-06-2026 15:14:34 [main] INFO  com.waits.ExplicitWaitActions - Select status is clickable
+18-06-2026 15:14:34 [main] INFO  com.waits.ExplicitWaitActions - Enabledoption is clickable
+18-06-2026 15:14:34 [main] INFO  com.pages.AdminPage - User has selected the Enabled
+18-06-2026 15:14:34 [main] INFO  com.pages.AdminPage - Scenario: Verify if the user is able to enter the username
+18-06-2026 15:14:34 [main] INFO  com.waits.ExplicitWaitActions - User Name is available on the screen
+18-06-2026 15:14:34 [main] INFO  com.pages.AdminPage - Username entered successfully: Akshay
+18-06-2026 15:14:34 [main] INFO  com.pages.AdminPage - Scenario: Verify if the user is able to enter the password
+18-06-2026 15:14:34 [main] INFO  com.waits.ExplicitWaitActions - Password is clickable
+18-06-2026 15:14:34 [main] INFO  com.waits.ExplicitWaitActions - Password is available on the screen
+18-06-2026 15:14:34 [main] INFO  com.pages.AdminPage - Password value is entered
+18-06-2026 15:14:34 [main] INFO  com.pages.AdminPage - Scenario: Verify if the user is able to re-enter the password
+18-06-2026 15:14:34 [main] INFO  com.waits.ExplicitWaitActions - Confirm Password is clickable
+18-06-2026 15:14:34 [main] INFO  com.waits.ExplicitWaitActions - Confirm Password is available on the screen
+18-06-2026 15:14:34 [main] INFO  com.pages.AdminPage - Password is confirmed
+18-06-2026 15:14:34 [main] INFO  com.pages.AdminPage - Scenario: Verify if the user is able to click the save button
+18-06-2026 15:14:34 [main] INFO  com.waits.ExplicitWaitActions - Save Button is clickable
+18-06-2026 15:14:34 [main] INFO  com.test.AdminPageTest - ========== END TEST : Add User ==========
+18-06-2026 15:14:34 [main] INFO  com.waits.ImplicitWaitActions - Implicit wait is set to 20
+18-06-2026 15:14:34 [main] INFO  com.reports.ExtentReportListener - test is added in pool.
+18-06-2026 15:14:34 [main] INFO  com.test.PIMPageTest - ========== START TEST : Search Employee ==========
+18-06-2026 15:14:34 [main] INFO  com.waits.ExplicitWaitActions - PIM menu is clickable
+18-06-2026 15:14:38 [main] INFO  com.pages.PIMPage - Step: Enter Employee Name - Madhaksh
+18-06-2026 15:14:40 [main] INFO  com.waits.ExplicitWaitActions - Employee Name is available on the screen
+18-06-2026 15:14:40 [main] INFO  com.waits.ExplicitWaitActions - First Employee Suggestion is available on the screen
+18-06-2026 15:14:40 [main] INFO  com.waits.ExplicitWaitActions - First Employee Suggestion is clickable
+18-06-2026 15:14:40 [main] INFO  com.pages.PIMPage - Employee name selected successfully
+18-06-2026 15:14:40 [main] INFO  com.pages.PIMPage - Step: Enter Employee ID - 290
+18-06-2026 15:14:40 [main] INFO  com.waits.ExplicitWaitActions - Employee ID is available on the screen
+18-06-2026 15:14:40 [main] INFO  com.pages.PIMPage - Employee ID entered successfully
+18-06-2026 15:14:40 [main] INFO  com.pages.PIMPage - Step: Select Employee Status - Freelance
+18-06-2026 15:14:40 [main] INFO  com.waits.ExplicitWaitActions - Employment Status is clickable
+18-06-2026 15:14:43 [main] INFO  com.pages.PIMPage - Available Status: Freelance
+18-06-2026 15:14:43 [main] INFO  com.waits.ExplicitWaitActions - Freelance is clickable
+18-06-2026 15:14:43 [main] INFO  com.pages.PIMPage - Employee Status selected successfully
+18-06-2026 15:14:43 [main] INFO  com.pages.PIMPage - Step: Select Include Option - Current and Past Employees
+18-06-2026 15:14:43 [main] INFO  com.waits.ExplicitWaitActions - Include Dropdown is clickable
+18-06-2026 15:14:44 [main] INFO  com.pages.PIMPage - Available Option: Current Employees Only
+18-06-2026 15:14:44 [main] INFO  com.pages.PIMPage - Available Option: Current and Past Employees
+18-06-2026 15:14:44 [main] INFO  com.waits.ExplicitWaitActions - Current and Past Employees is clickable
+18-06-2026 15:14:44 [main] INFO  com.pages.PIMPage - Include option selected successfully
+18-06-2026 15:14:44 [main] INFO  com.pages.PIMPage - Step: Enter Supervisor Name - m
+18-06-2026 15:14:44 [main] INFO  com.waits.ExplicitWaitActions - Supervisor Name is available on the screen
+18-06-2026 15:14:47 [main] INFO  com.waits.ExplicitWaitActions - First Supervisor Suggestion is available on the screen
+18-06-2026 15:14:47 [main] INFO  com.waits.ExplicitWaitActions - First Supervisor Suggestion is clickable
+18-06-2026 15:14:47 [main] INFO  com.pages.PIMPage - Supervisor selected successfully
+18-06-2026 15:14:47 [main] INFO  com.pages.PIMPage - Step: Select First Job Title
+18-06-2026 15:14:47 [main] INFO  com.waits.ExplicitWaitActions - Job Title is clickable
+18-06-2026 15:14:47 [main] INFO  com.waits.ExplicitWaitActions - -- Select --
+Chief Executive Officer
+Chief Financial Officer
+Chief Technical Officer
+Content Specialist
+Customer Success Manager
+Database Administrator
+Finance Manager
+Financial Analyst
+Fuck
+Head of Support
+HR Associate
+HR Manager
+HR Officer
+HR Recruiter
+IT Manager
+Network Administrator
+Payroll Administrator
+Pre-Sales Coordinator
+Programmer Analyst Trainee
+QA eng
+QA Engineer
+QA Lead
+qwer
+rsjsrii
+Sales Representative
+Social Media Marketer
+Software Architect
+Software Engineer
+Support Specialist
+VP - Client Services
+VP - Sales & Marketing is clickable
+18-06-2026 15:14:47 [main] INFO  com.pages.PIMPage - Job Title selected successfully: -- Select --
+Chief Executive Officer
+Chief Financial Officer
+Chief Technical Officer
+Content Specialist
+Customer Success Manager
+Database Administrator
+Finance Manager
+Financial Analyst
+Fuck
+Head of Support
+HR Associate
+HR Manager
+HR Officer
+HR Recruiter
+IT Manager
+Network Administrator
+Payroll Administrator
+Pre-Sales Coordinator
+Programmer Analyst Trainee
+QA eng
+QA Engineer
+QA Lead
+qwer
+rsjsrii
+Sales Representative
+Social Media Marketer
+Software Architect
+Software Engineer
+Support Specialist
+VP - Client Services
+VP - Sales & Marketing
+18-06-2026 15:14:47 [main] INFO  com.pages.PIMPage - Step: Select First Sub Unit
+18-06-2026 15:14:47 [main] INFO  com.waits.ExplicitWaitActions - Sub Unit is clickable
+18-06-2026 15:14:47 [main] INFO  com.waits.ExplicitWaitActions - -- Select --
+OrangeHRMS
+Administration
+Engineering
+Development
+Quality Assurance
+TechOps
+Sales & Marketing
+Sales
+Marketing
+Client Services
+Technical Support
+Finance
+Human Resources
+hola
+juan perez is clickable
+18-06-2026 15:14:47 [main] INFO  com.pages.PIMPage - Sub Unit selected successfully: -- Select --
+OrangeHRMS
+Administration
+Engineering
+Development
+Quality Assurance
+TechOps
+Sales & Marketing
+Sales
+Marketing
+Client Services
+Technical Support
+Finance
+Human Resources
+hola
+juan perez
+18-06-2026 15:14:47 [main] INFO  com.pages.PIMPage - Step: Click Search Button
+18-06-2026 15:14:47 [main] INFO  com.waits.ExplicitWaitActions - Search Button is clickable
+18-06-2026 15:14:47 [main] INFO  com.pages.PIMPage - Search button clicked successfully
+18-06-2026 15:14:49 [main] INFO  com.waits.ExplicitWaitActions - No Records Found Message is available on the screen
+18-06-2026 15:14:49 [main] INFO  com.pages.PIMPage - 'No Records Found' message is displayed
+18-06-2026 15:14:49 [main] INFO  com.test.PIMPageTest - ========== END TEST : Search Employee ==========
+18-06-2026 15:14:49 [main] INFO  com.waits.ImplicitWaitActions - Implicit wait is set to 20
+18-06-2026 15:14:49 [main] INFO  com.reports.ExtentReportListener - test is added in pool.
+18-06-2026 15:14:49 [main] INFO  com.test.PIMPageTest - ========== START TEST : Add Employee ==========
+18-06-2026 15:14:49 [main] INFO  com.pages.PIMPage - Step: Click on Add button
+18-06-2026 15:14:49 [main] INFO  com.waits.ExplicitWaitActions - Add Button is clickable
+18-06-2026 15:14:51 [main] INFO  com.pages.PIMPage - Add button clicked successfully
+18-06-2026 15:14:51 [main] INFO  com.pages.PIMPage - Step: Enter First Name
+18-06-2026 15:14:52 [main] INFO  com.waits.ExplicitWaitActions - First Name textbox is available on the screen
+18-06-2026 15:14:52 [main] INFO  com.pages.PIMPage - First name entered in the textbox
+18-06-2026 15:14:52 [main] INFO  com.pages.PIMPage - Step: Enter Middle Name
+18-06-2026 15:14:52 [main] INFO  com.waits.ExplicitWaitActions - Middle Name textbox is available on the screen
+18-06-2026 15:14:52 [main] INFO  com.pages.PIMPage - Middle name entered in the textbox
+18-06-2026 15:14:52 [main] INFO  com.pages.PIMPage - Step: Enter last name
+18-06-2026 15:14:52 [main] INFO  com.waits.ExplicitWaitActions - Last Name textbox is available on the screen
+18-06-2026 15:14:53 [main] INFO  com.pages.PIMPage - Last name entered in the textbox
+18-06-2026 15:14:53 [main] INFO  com.pages.PIMPage - Uploading image : /Users/akshaykumar/OrangeHRM_Automation/src/test/resources/ProfilePhoto.jpg
+18-06-2026 15:14:53 [main] INFO  com.waits.ExplicitWaitActions - Profile Image is available on the screen
+18-06-2026 15:14:53 [main] ERROR com.pages.PIMPage - Failed to upload profile image : element not interactable
+  (Session info: chrome=149.0.7827.115)
+Build info: version: '4.43.0', revision: 'dd0f534'
+System info: os.name: 'Mac OS X', os.arch: 'aarch64', os.version: '26.2', java.version: '21.0.9'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [1be85e4ea3ef3c128b21f50e5efce220, sendKeysToElement {id=f.7E8208168046597DB5A2017162785974.d.6530333D8EAD5B6A7FC1B243A6CF1495.e.1027, value=[Ljava.lang.CharSequence;@9e54c59}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 149.0.7827.115, chrome: {chromedriverVersion: 149.0.7827.155 (07b52360cc1..., userDataDir: /var/folders/mx/hnx5bw153h3...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:51423}, goog:processID: 45375, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: mac, proxy: Proxy(), se:cdp: ws://localhost:51423/devtoo..., se:cdpVersion: 149.0.7827.115, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Element: [[ChromeDriver: chrome on mac (1be85e4ea3ef3c128b21f50e5efce220)] -> class name: employee-image]
+Session ID: 1be85e4ea3ef3c128b21f50e5efce220
+18-06-2026 15:33:16 [main] INFO  com.reports.ExtentReportListener - test is added in pool.
+18-06-2026 15:33:16 [main] INFO  com.test.LoginTest - ========== START TEST : Login OrangeHRM ==========
+18-06-2026 15:33:16 [main] INFO  com.waits.ImplicitWaitActions - Implicit wait is set to 20
+18-06-2026 15:33:16 [main] INFO  com.reports.ExtentReportListener - test is added in pool.
+18-06-2026 15:33:16 [main] INFO  com.waits.ImplicitWaitActions - Implicit wait is set to 20
+18-06-2026 15:33:16 [main] INFO  com.reports.ExtentReportListener - test is added in pool.
+18-06-2026 15:33:36 [main] INFO  com.waits.ImplicitWaitActions - Implicit wait is set to 20
+18-06-2026 15:33:36 [main] INFO  com.reports.ExtentReportListener - test is added in pool.
+18-06-2026 15:33:56 [main] INFO  com.waits.ImplicitWaitActions - Implicit wait is set to 20
+18-06-2026 15:33:56 [main] INFO  com.reports.ExtentReportListener - test is added in pool.
+18-06-2026 15:33:56 [main] INFO  com.waits.ImplicitWaitActions - Implicit wait is set to 20
+18-06-2026 15:33:56 [main] INFO  com.reports.ExtentReportListener - test is added in pool.
+18-06-2026 15:33:56 [main] INFO  com.waits.ImplicitWaitActions - Implicit wait is set to 20
+18-06-2026 15:33:56 [main] INFO  com.reports.ExtentReportListener - test is added in pool.
+18-06-2026 15:33:56 [main] INFO  com.pages.HomePage - Scenario: Verify Menu Button is enabled on Home Page
+18-06-2026 15:33:56 [main] INFO  com.pages.HomePage - Given User is logged into the OrangeHRM application
+18-06-2026 15:33:56 [main] INFO  com.pages.HomePage - When User navigates to the Home Page
+18-06-2026 15:33:56 [main] INFO  com.waits.ImplicitWaitActions - Implicit wait is set to 20
+18-06-2026 15:33:56 [main] INFO  com.reports.ExtentReportListener - test is added in pool.
+18-06-2026 15:33:56 [main] INFO  com.waits.ImplicitWaitActions - Implicit wait is set to 20
+18-06-2026 15:33:56 [main] INFO  com.reports.ExtentReportListener - test is added in pool.
+18-06-2026 15:33:56 [main] INFO  com.waits.ImplicitWaitActions - Implicit wait is set to 20
+18-06-2026 15:33:56 [main] INFO  com.reports.ExtentReportListener - test is added in pool.
+18-06-2026 15:33:56 [main] INFO  com.test.AdminPageTest - ========== START TEST : Add User ==========
+18-06-2026 15:33:56 [main] INFO  com.pages.AdminPage - Scenario: Verify Admin link is clickable or not
+18-06-2026 15:34:05 [main] INFO  com.reports.ExtentReportListener - test is added in pool.
+18-06-2026 15:34:05 [main] INFO  com.test.LoginTest - ========== START TEST : Login OrangeHRM ==========
+18-06-2026 15:34:07 [main] INFO  com.waits.ExplicitWaitActions - username textbox is available on the screen
+18-06-2026 15:34:07 [main] INFO  com.waits.ExplicitWaitActions - password textbox is available on the screen
+18-06-2026 15:34:07 [main] INFO  com.waits.ExplicitWaitActions - Login button is clickable
+18-06-2026 15:34:16 [main] ERROR com.waits.ExplicitWaitActions - Error occured while waiting for the element to be clickableExpected condition failed: waiting for element to be clickable, but the element null.
+(tried for 20 seconds with 500 milliseconds interval)
+18-06-2026 15:34:16 [main] ERROR com.pages.AdminPage - Admin link is not clickableno such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=149.0.7827.115)
+Build info: version: '4.43.0', revision: 'dd0f534'
+System info: os.name: 'Mac OS X', os.arch: 'aarch64', os.version: '26.2', java.version: '21.0.9'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [e765b684da7ebfcba8b33bca49c66079, screenshot {}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 149.0.7827.115, chrome: {chromedriverVersion: 149.0.7827.155 (07b52360cc1..., userDataDir: /var/folders/mx/hnx5bw153h3...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:56377}, goog:processID: 46535, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: mac, proxy: Proxy(), se:cdp: ws://localhost:56377/devtoo..., se:cdpVersion: 149.0.7827.115, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: e765b684da7ebfcba8b33bca49c66079
+18-06-2026 15:34:16 [main] INFO  com.pages.AdminPage - Scenario: Verify if the user is able to click on Add button
+18-06-2026 15:34:18 [main] INFO  com.test.LoginTest - ========== END TEST : Login OrangeHRM ==========
+18-06-2026 15:34:18 [main] INFO  com.waits.ImplicitWaitActions - Implicit wait is set to 20
+18-06-2026 15:34:18 [main] INFO  com.reports.ExtentReportListener - test is added in pool.
+18-06-2026 15:34:18 [main] INFO  com.pages.HomePage - Current_url is same as expected and the value is: https://opensource-demo.orangehrmlive.com/web/index.php/dashboard/index
+18-06-2026 15:34:18 [main] INFO  com.waits.ImplicitWaitActions - Implicit wait is set to 20
+18-06-2026 15:34:18 [main] INFO  com.reports.ExtentReportListener - test is added in pool.
+18-06-2026 15:34:22 [main] INFO  com.pages.HomePage - Dashboard text is visible
+18-06-2026 15:34:22 [main] INFO  com.waits.ImplicitWaitActions - Implicit wait is set to 20
+18-06-2026 15:34:22 [main] INFO  com.reports.ExtentReportListener - test is added in pool.
+18-06-2026 15:34:22 [main] INFO  com.pages.HomePage - Help Link is visible on the homepage
+18-06-2026 15:34:22 [main] INFO  com.waits.ImplicitWaitActions - Implicit wait is set to 20
+18-06-2026 15:34:22 [main] INFO  com.reports.ExtentReportListener - test is added in pool.
+18-06-2026 15:34:22 [main] INFO  com.pages.HomePage - Upgrade button is visible on the homepage
+18-06-2026 15:34:22 [main] INFO  com.waits.ImplicitWaitActions - Implicit wait is set to 20
+18-06-2026 15:34:22 [main] INFO  com.reports.ExtentReportListener - test is added in pool.
+18-06-2026 15:34:22 [main] INFO  com.pages.HomePage - Profile link is enabled
+18-06-2026 15:34:22 [main] INFO  com.waits.ImplicitWaitActions - Implicit wait is set to 20
+18-06-2026 15:34:22 [main] INFO  com.reports.ExtentReportListener - test is added in pool.
+18-06-2026 15:34:22 [main] INFO  com.pages.HomePage - Scenario: Verify Menu Button is enabled on Home Page
+18-06-2026 15:34:22 [main] INFO  com.pages.HomePage - Given User is logged into the OrangeHRM application
+18-06-2026 15:34:22 [main] INFO  com.pages.HomePage - When User navigates to the Home Page
+18-06-2026 15:34:22 [main] INFO  com.pages.HomePage - Then Menu button is enabled
+18-06-2026 15:34:22 [main] INFO  com.pages.HomePage - And User is able to interact with the Menu button
+18-06-2026 15:34:22 [main] INFO  com.waits.ImplicitWaitActions - Implicit wait is set to 20
+18-06-2026 15:34:22 [main] INFO  com.reports.ExtentReportListener - test is added in pool.
+18-06-2026 15:34:22 [main] INFO  com.pages.HomePage - Menu is hidden
+18-06-2026 15:34:22 [main] INFO  com.waits.ImplicitWaitActions - Implicit wait is set to 20
+18-06-2026 15:34:22 [main] INFO  com.reports.ExtentReportListener - test is added in pool.
+18-06-2026 15:34:22 [main] INFO  com.pages.HomePage - Menu is visible
+18-06-2026 15:34:22 [main] INFO  com.waits.ImplicitWaitActions - Implicit wait is set to 20
+18-06-2026 15:34:22 [main] INFO  com.reports.ExtentReportListener - test is added in pool.
+18-06-2026 15:34:22 [main] INFO  com.test.AdminPageTest - ========== START TEST : Add User ==========
+18-06-2026 15:34:22 [main] INFO  com.pages.AdminPage - Scenario: Verify Admin link is clickable or not
+18-06-2026 15:34:22 [main] INFO  com.waits.ExplicitWaitActions - Admin link is clickable
+18-06-2026 15:34:33 [main] INFO  com.pages.AdminPage - User clicked on Admin
+18-06-2026 15:34:33 [main] INFO  com.pages.AdminPage - And redirected to the Add user form
+18-06-2026 15:34:33 [main] INFO  com.pages.AdminPage - Scenario: Verify if the user is able to click on Add button
+18-06-2026 15:34:36 [main] INFO  com.waits.ExplicitWaitActions - Add Button is clickable
+18-06-2026 15:34:37 [main] ERROR com.waits.ExplicitWaitActions - Error occured while waiting for the element to be clickableExpected condition failed: waiting for element to be clickable, but the element null.
+(tried for 20 seconds with 500 milliseconds interval)
+18-06-2026 15:34:37 [main] ERROR com.pages.AdminPage - Admin link is not clickable no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=149.0.7827.115)
+Build info: version: '4.43.0', revision: 'dd0f534'
+System info: os.name: 'Mac OS X', os.arch: 'aarch64', os.version: '26.2', java.version: '21.0.9'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [e765b684da7ebfcba8b33bca49c66079, screenshot {}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 149.0.7827.115, chrome: {chromedriverVersion: 149.0.7827.155 (07b52360cc1..., userDataDir: /var/folders/mx/hnx5bw153h3...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:56377}, goog:processID: 46535, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: mac, proxy: Proxy(), se:cdp: ws://localhost:56377/devtoo..., se:cdpVersion: 149.0.7827.115, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: e765b684da7ebfcba8b33bca49c66079
+18-06-2026 15:34:37 [main] INFO  com.waits.ImplicitWaitActions - Implicit wait is set to 20
+18-06-2026 15:34:37 [main] INFO  com.reports.ExtentReportListener - test is added in pool.
+18-06-2026 15:34:37 [main] INFO  com.test.PIMPageTest - ========== START TEST : Search Employee ==========
+18-06-2026 15:34:41 [main] INFO  com.pages.AdminPage - Then- User has clicked on Add button
+18-06-2026 15:34:41 [main] INFO  com.pages.AdminPage - And redirected to the add user form
+18-06-2026 15:34:41 [main] INFO  com.pages.AdminPage - Scenario: Verify if the user is able to select the user role
+18-06-2026 15:34:45 [main] INFO  com.waits.ExplicitWaitActions - Select user role is clickable
+18-06-2026 15:34:45 [main] INFO  com.waits.ExplicitWaitActions - Adminoption is clickable
+18-06-2026 15:34:45 [main] INFO  com.pages.AdminPage - User has selected the Admin
+18-06-2026 15:34:45 [main] INFO  com.waits.ExplicitWaitActions - Employee Name is available on the screen
+18-06-2026 15:34:51 [main] INFO  com.waits.ExplicitWaitActions - First Employee Suggestion is available on the screen
+18-06-2026 15:34:51 [main] INFO  com.waits.ExplicitWaitActions - First Employee Suggestion is clickable
+18-06-2026 15:34:51 [main] INFO  com.pages.AdminPage - Scenario: Verify if the user is able to select the status
+18-06-2026 15:34:51 [main] INFO  com.waits.ExplicitWaitActions - Select status is clickable
+18-06-2026 15:34:51 [main] INFO  com.waits.ExplicitWaitActions - Enabledoption is clickable
+18-06-2026 15:34:51 [main] INFO  com.pages.AdminPage - User has selected the Enabled
+18-06-2026 15:34:51 [main] INFO  com.pages.AdminPage - Scenario: Verify if the user is able to enter the username
+18-06-2026 15:34:51 [main] INFO  com.waits.ExplicitWaitActions - User Name is available on the screen
+18-06-2026 15:34:51 [main] INFO  com.pages.AdminPage - Username entered successfully: Akshay
+18-06-2026 15:34:51 [main] INFO  com.pages.AdminPage - Scenario: Verify if the user is able to enter the password
+18-06-2026 15:34:51 [main] INFO  com.waits.ExplicitWaitActions - Password is clickable
+18-06-2026 15:34:51 [main] INFO  com.waits.ExplicitWaitActions - Password is available on the screen
+18-06-2026 15:34:52 [main] INFO  com.pages.AdminPage - Password value is entered
+18-06-2026 15:34:52 [main] INFO  com.pages.AdminPage - Scenario: Verify if the user is able to re-enter the password
+18-06-2026 15:34:52 [main] INFO  com.waits.ExplicitWaitActions - Confirm Password is clickable
+18-06-2026 15:34:52 [main] INFO  com.waits.ExplicitWaitActions - Confirm Password is available on the screen
+18-06-2026 15:34:52 [main] INFO  com.pages.AdminPage - Password is confirmed
+18-06-2026 15:34:52 [main] INFO  com.pages.AdminPage - Scenario: Verify if the user is able to click the save button
+18-06-2026 15:34:52 [main] INFO  com.waits.ExplicitWaitActions - Save Button is clickable
+18-06-2026 15:34:52 [main] INFO  com.test.AdminPageTest - ========== END TEST : Add User ==========
+18-06-2026 15:34:52 [main] INFO  com.waits.ImplicitWaitActions - Implicit wait is set to 20
+18-06-2026 15:34:52 [main] INFO  com.reports.ExtentReportListener - test is added in pool.
+18-06-2026 15:34:52 [main] INFO  com.test.PIMPageTest - ========== START TEST : Search Employee ==========
+18-06-2026 15:34:52 [main] INFO  com.waits.ExplicitWaitActions - PIM menu is clickable
+18-06-2026 15:34:57 [main] ERROR com.waits.ExplicitWaitActions - Error occured while waiting for the element to be clickableExpected condition failed: waiting for element to be clickable, but the element null.
+(tried for 20 seconds with 500 milliseconds interval)
+18-06-2026 15:34:57 [main] INFO  com.waits.ImplicitWaitActions - Implicit wait is set to 20
+18-06-2026 15:34:57 [main] INFO  com.reports.ExtentReportListener - test is added in pool.
+18-06-2026 15:34:57 [main] INFO  com.test.PIMPageTest - ========== START TEST : Add Employee ==========
+18-06-2026 15:34:57 [main] INFO  com.pages.PIMPage - Step: Click on Add button
+18-06-2026 15:35:06 [main] INFO  com.pages.PIMPage - Step: Enter Employee Name - Madhaksh
+18-06-2026 15:35:10 [main] INFO  com.waits.ExplicitWaitActions - Employee Name is available on the screen
+18-06-2026 15:35:10 [main] INFO  com.waits.ExplicitWaitActions - First Employee Suggestion is available on the screen
+18-06-2026 15:35:10 [main] INFO  com.waits.ExplicitWaitActions - First Employee Suggestion is clickable
+18-06-2026 15:35:10 [main] INFO  com.pages.PIMPage - Employee name selected successfully
+18-06-2026 15:35:10 [main] INFO  com.pages.PIMPage - Step: Enter Employee ID - 290
+18-06-2026 15:35:10 [main] INFO  com.waits.ExplicitWaitActions - Employee ID is available on the screen
+18-06-2026 15:35:10 [main] INFO  com.pages.PIMPage - Employee ID entered successfully
+18-06-2026 15:35:10 [main] INFO  com.pages.PIMPage - Step: Select Employee Status - Freelance
+18-06-2026 15:35:10 [main] INFO  com.waits.ExplicitWaitActions - Employment Status is clickable
+18-06-2026 15:35:18 [main] ERROR com.waits.ExplicitWaitActions - Error occured while waiting for the element to be clickableExpected condition failed: waiting for element to be clickable, but the element null.
+(tried for 20 seconds with 500 milliseconds interval)
+18-06-2026 15:35:18 [main] ERROR com.pages.PIMPage - Failed to click on Add buttonno such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=149.0.7827.115)
+Build info: version: '4.43.0', revision: 'dd0f534'
+System info: os.name: 'Mac OS X', os.arch: 'aarch64', os.version: '26.2', java.version: '21.0.9'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [e765b684da7ebfcba8b33bca49c66079, screenshot {}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 149.0.7827.115, chrome: {chromedriverVersion: 149.0.7827.155 (07b52360cc1..., userDataDir: /var/folders/mx/hnx5bw153h3...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:56377}, goog:processID: 46535, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: mac, proxy: Proxy(), se:cdp: ws://localhost:56377/devtoo..., se:cdpVersion: 149.0.7827.115, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: e765b684da7ebfcba8b33bca49c66079
+18-06-2026 15:35:22 [main] INFO  com.pages.PIMPage - Available Status: Freelance
+18-06-2026 15:35:22 [main] INFO  com.waits.ExplicitWaitActions - Freelance is clickable
+18-06-2026 15:35:22 [main] INFO  com.pages.PIMPage - Employee Status selected successfully
+18-06-2026 15:35:22 [main] INFO  com.pages.PIMPage - Step: Select Include Option - Current and Past Employees
+18-06-2026 15:35:22 [main] INFO  com.waits.ExplicitWaitActions - Include Dropdown is clickable
+18-06-2026 15:35:22 [main] INFO  com.pages.PIMPage - Available Option: Current Employees Only
+18-06-2026 15:35:22 [main] INFO  com.pages.PIMPage - Available Option: Current and Past Employees
+18-06-2026 15:35:22 [main] INFO  com.waits.ExplicitWaitActions - Current and Past Employees is clickable
+18-06-2026 15:35:22 [main] INFO  com.pages.PIMPage - Include option selected successfully
+18-06-2026 15:35:22 [main] INFO  com.pages.PIMPage - Step: Enter Supervisor Name - m
+18-06-2026 15:35:22 [main] INFO  com.waits.ExplicitWaitActions - Supervisor Name is available on the screen
+18-06-2026 15:35:26 [main] INFO  com.waits.ExplicitWaitActions - First Supervisor Suggestion is available on the screen
+18-06-2026 15:35:26 [main] INFO  com.waits.ExplicitWaitActions - First Supervisor Suggestion is clickable
+18-06-2026 15:35:26 [main] INFO  com.pages.PIMPage - Supervisor selected successfully
+18-06-2026 15:35:26 [main] INFO  com.pages.PIMPage - Step: Select First Job Title
+18-06-2026 15:35:26 [main] INFO  com.waits.ExplicitWaitActions - Job Title is clickable
+18-06-2026 15:35:26 [main] INFO  com.waits.ExplicitWaitActions - -- Select --
+Account Assistant
+Automaton Tester
+Chief Executive Officer
+Chief Financial Officer
+Chief Technical Officer
+Content Specialist
+Customer Success Manager
+Database Administrator
+Finance Manager
+Financial Analyst
+Head of Support
+HR Associate
+HR Manager
+IT Manager
+Network Administrator
+Payroll Administrator
+Pre-Sales Coordinator
+QA Engineer
+QA Lead
+qwer
+rsjsrii
+Sales Representative
+Social Media Marketer
+Software Architect
+Software Engineer
+Support Specialist
+VP - Client Services
+VP - Sales & Marketing is clickable
+18-06-2026 15:35:27 [main] INFO  com.pages.PIMPage - Job Title selected successfully: -- Select --
+Account Assistant
+Automaton Tester
+Chief Executive Officer
+Chief Financial Officer
+Chief Technical Officer
+Content Specialist
+Customer Success Manager
+Database Administrator
+Finance Manager
+Financial Analyst
+Head of Support
+HR Associate
+HR Manager
+IT Manager
+Network Administrator
+Payroll Administrator
+Pre-Sales Coordinator
+QA Engineer
+QA Lead
+qwer
+rsjsrii
+Sales Representative
+Social Media Marketer
+Software Architect
+Software Engineer
+Support Specialist
+VP - Client Services
+VP - Sales & Marketing
+18-06-2026 15:35:27 [main] INFO  com.pages.PIMPage - Step: Select First Sub Unit
+18-06-2026 15:35:27 [main] INFO  com.waits.ExplicitWaitActions - Sub Unit is clickable
+18-06-2026 15:35:27 [main] INFO  com.waits.ExplicitWaitActions - -- Select --
+OrangeHRM
+Administration
+Engineering
+Development
+Quality Assurance
+TechOps
+Sales & Marketing
+Sales
+Marketing
+Client Services
+Technical Support
+Finance
+Human Resources
+hola
+juan perez is clickable
+18-06-2026 15:35:27 [main] INFO  com.pages.PIMPage - Sub Unit selected successfully: -- Select --
+OrangeHRM
+Administration
+Engineering
+Development
+Quality Assurance
+TechOps
+Sales & Marketing
+Sales
+Marketing
+Client Services
+Technical Support
+Finance
+Human Resources
+hola
+juan perez
+18-06-2026 15:35:27 [main] INFO  com.pages.PIMPage - Step: Click Search Button
+18-06-2026 15:35:27 [main] INFO  com.waits.ExplicitWaitActions - Search Button is clickable
+18-06-2026 15:35:27 [main] INFO  com.pages.PIMPage - Search button clicked successfully
+18-06-2026 15:35:33 [main] INFO  com.waits.ExplicitWaitActions - No Records Found Message is available on the screen
+18-06-2026 15:35:33 [main] INFO  com.pages.PIMPage - 'No Records Found' message is displayed
+18-06-2026 15:35:33 [main] INFO  com.test.PIMPageTest - ========== END TEST : Search Employee ==========
+18-06-2026 15:35:33 [main] INFO  com.waits.ImplicitWaitActions - Implicit wait is set to 20
+18-06-2026 15:35:33 [main] INFO  com.reports.ExtentReportListener - test is added in pool.
+18-06-2026 15:35:33 [main] INFO  com.test.PIMPageTest - ========== START TEST : Add Employee ==========
+18-06-2026 15:35:33 [main] INFO  com.pages.PIMPage - Step: Click on Add button
+18-06-2026 15:35:33 [main] INFO  com.waits.ExplicitWaitActions - Add Button is clickable
+18-06-2026 15:35:37 [main] INFO  com.pages.PIMPage - Add button clicked successfully
+18-06-2026 15:35:37 [main] INFO  com.pages.PIMPage - Step: Enter First Name
+18-06-2026 15:35:41 [main] INFO  com.waits.ExplicitWaitActions - First Name textbox is available on the screen
+18-06-2026 15:35:41 [main] INFO  com.pages.PIMPage - First name entered in the textbox
+18-06-2026 15:35:41 [main] INFO  com.pages.PIMPage - Step: Enter Middle Name
+18-06-2026 15:35:41 [main] INFO  com.waits.ExplicitWaitActions - Middle Name textbox is available on the screen
+18-06-2026 15:35:41 [main] INFO  com.pages.PIMPage - Middle name entered in the textbox
+18-06-2026 15:35:41 [main] INFO  com.pages.PIMPage - Step: Enter last name
+18-06-2026 15:35:41 [main] INFO  com.waits.ExplicitWaitActions - Last Name textbox is available on the screen
+18-06-2026 15:35:41 [main] INFO  com.pages.PIMPage - Last name entered in the textbox

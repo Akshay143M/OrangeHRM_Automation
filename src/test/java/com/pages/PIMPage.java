@@ -86,8 +86,12 @@ public class PIMPage extends BasePage {
 	@FindBy(xpath = "(//input[@class='oxd-input oxd-input--active'])[2]")
 	private WebElement employeeIDtextBox;
 
-	@FindBy(xpath = "//img[@class='employee-image']")
+	@FindBy(className = "employee-image")
 	private WebElement uploadEmployeeImage;
+	
+	public WebElement getUploadEmployeeImage() {
+	    return uploadEmployeeImage;
+	}
 
 	@FindBy(xpath = "//input[@type='checkbox']")
 	private WebElement createLoginDetailsToggle;
@@ -347,6 +351,95 @@ public class PIMPage extends BasePage {
 			logger.error("No Records Found message verification failed: " + e.getMessage());
 
 			Assert.fail("No Records Found message verification failed: " + e.getMessage());
+		}
+	}
+
+//	=========================== Add Employee =================================
+
+	public void addEmployee() {
+		try {
+			logger.info("Step: Click on Add button");
+			click(AddButton, "Add Button");
+			logger.info("Add button clicked successfully");
+		} catch (Exception e) {
+			logger.error("Failed to click on Add button" + e.getMessage());
+			Assert.fail("Failed to click on Add button" + e.getMessage());
+		}
+	}
+
+	public void enterFirstName(String firstName) {
+		try {
+			logger.info("Step: Enter First Name");
+			sendKeys(firstNametextBox, "First Name textbox", firstName);
+			logger.info("First name entered in the textbox");
+		} catch (Exception e) {
+			logger.error("Failed to enter the first name" + e.getMessage());
+			Assert.fail("Failed to enter the first name" + e.getMessage());
+		}
+	}
+
+	public void enterMiddleName(String middleName) {
+		try {
+			logger.info("Step: Enter Middle Name");
+			sendKeys(middleNametextBox, "Middle Name textbox", middleName);
+			logger.info("Middle name entered in the textbox");
+		} catch (Exception e) {
+			logger.error("Failed to enter the middle name" + e.getMessage());
+			Assert.fail("Failed to enter the middle name" + e.getMessage());
+		}
+	}
+
+	public void enterLastName(String lastName) {
+		try {
+			logger.info("Step: Enter last name");
+			sendKeys(lastNametextBox, "Last Name textbox", lastName);
+			logger.info("Last name entered in the textbox");
+		} catch (Exception e) {
+			logger.error("Failed to enter the last name" + e.getMessage());
+			Assert.fail("Failed to enter the last name" + e.getMessage());
+		}
+	}
+
+	public void inputEmployeeID(String empID) {
+		try {
+			logger.info("Step: Enter employee ID in the inputbox");
+			employeeIDtextBox.clear();
+			sendKeys(employeeIDtextBox, "Employee ID inputbox", empID);
+			logger.info("User has input the employee ID");
+		} catch (Exception e) {
+			logger.error("Failed to enter the employee ID" + e.getMessage());
+			Assert.fail("Failed to enter the employee ID" + e.getMessage());
+		}
+	}
+
+//	public void uploadprofileImage(String filePath) {
+//		try {
+//		logger.info("Step: Upload employee profile image");
+//		sendKeys(uploadEmployeeImage, "upload profile image", filePath);
+//		logger.info("Profile image uploaded successfully");
+//		}catch (Exception e) {
+//			logger.error("Failed to upload the profile image" + e.getMessage());
+//			Assert.fail("Failed to upload the profile image" + e.getMessage());
+//		}
+//	}
+
+	public void uploadProfileImage(String imagePath) {
+
+		try {
+
+			String absolutePath = System.getProperty("user.dir") + "/" + imagePath;
+
+			logger.info("Uploading image : " + absolutePath);
+
+			uploadFile(uploadEmployeeImage, "Profile Image", absolutePath);
+
+			logger.info("Profile image uploaded successfully");
+
+		} catch (Exception e) {
+
+			logger.error("Failed to upload profile image : " + e.getMessage());
+
+			throw e;
 		}
 	}
 
